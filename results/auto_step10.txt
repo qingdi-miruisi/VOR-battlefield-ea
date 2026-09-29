@@ -1,0 +1,4 @@
+gitdir: [GITDIR_EXISTS]
+log: [5969e5df4 VOR 30-seed benchmark and source code (Applied Soft Computing submission)
+f02a3001e VOR 30-seed benchmark and source code (Applied Soft Computing submission)]
+status line count: [0]

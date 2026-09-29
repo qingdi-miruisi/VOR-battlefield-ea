@@ -1,0 +1,24 @@
+status:
+ M results/auto_step9.txt
+?? results/auto_step10.txt
+?? results/auto_step11.txt
+?? results/auto_step12.txt
+?? results/auto_step13.txt
+
+key files:
+.gitignore
+README.md
+_tmp_official/PlatEMO-master/.gitignore
+_tmp_official/PlatEMO-master/PlatEMO/Algorithms/Single-objective optimization/SADE-ATDSC/README.md
+_tmp_official/PlatEMO-master/PlatEMO/Algorithms/Single-objective optimization/SAPO/README.md
+_tmp_official/PlatEMO-master/PlatEMO/Problems/Multi-objective optimization/MaOPP/README.md
+_tmp_official/PlatEMO-master/README.md
+docs/DELIVERY_README.md
+docs/GITHUB_README.md
+docs/results/metric_disagreement/README.md
+docs/results/new_algorithm/README.md
+
+stat files:
+results/stat_results_30.txt
+results/vor2_bench/agg30_stats.txt
+

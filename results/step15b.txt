@@ -1,0 +1,42 @@
+DIR: .
+   [dir] .
+   [dir] ..
+   [dir] .git
+   .gitignore  (8.632812e-01 KB)
+   GITHUB_PUSH_GUIDE.md  (7.750977e+00 KB)
+   GITHUB_SETUP_GUIDE.md  (5.946289e+00 KB)
+   PROGRESS.md  (1.727734e+01 KB)
+   README.md  (7.792969e+00 KB)
+   [dir] _platemo_official
+   [dir] _tmp_official
+   aggregate_raw.txt  (2.450195e+00 KB)
+   [dir] algorithms
+   [dir] algorithms_original
+   [dir] docs
+   [dir] experiments
+   [dir] figures
+   [dir] paper
+   [dir] paper_cn
+   [dir] paper_en
+   [dir] papers
+   [dir] problems
+   [dir] problems_ext
+   [dir] problems_official
+   [dir] results
+   run_main.m  (2.325195e+00 KB)
+   test_save.mat  (1.718750e-01 KB)
+   算法汇总.md  (5.830078e+00 KB)
+   进度.md  (1.910156e+00 KB)
+DIR: ..
+   [dir] .
+   [dir] ..
+   [dir] algorithm
+   [dir] algorithm - 副本
+   [dir] algorithm_v2
+   [dir] gtea_project
+   test_class.m  (5.087891e-01 KB)
+   test_class2.m  (4.912109e-01 KB)
+   test_script.m  (3.818359e-01 KB)
+   test_write.txt  (3.906250e-03 KB)
+DIR: Doc
+DIR: PlatEMO

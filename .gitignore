@@ -39,3 +39,4 @@ paper_en/cover_letter/*.spl
 # === MATLAB figure scratch (keep results/figs/out/*.pdf) ===
 *.fig
 *.FIG
+\n# === local work dirs (do not push) ===\n_tmp_official/\n_platemo_official/\n
