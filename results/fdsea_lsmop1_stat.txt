@@ -1,0 +1,1 @@
+FDSEA LSMOP1: n=30 mean=0.1434 std=0.0853

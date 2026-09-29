@@ -1,0 +1,8 @@
+dflatex)
+ restricted \write18 enabled.
+entering extended mode
+! I can't write on file `main.log'.
+(Press Enter to retry, or Control-Z to exit; default file extension is `.log')
+Please type another transcript file name
+! Emergency stop
+!  ==> Fatal error occurred, no output PDF file produced!

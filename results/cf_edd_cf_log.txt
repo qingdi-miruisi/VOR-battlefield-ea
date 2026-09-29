@@ -1,0 +1,46 @@
+﻿CF1  (M=2 D=10) 30������λ IGD=0.08795 HV=0.5615 PPS=24  ��ʱ=15s
+CF2  (M=2 D=10) 30������λ IGD=0.4473 HV=0.2139 PPS=15  ��ʱ=10s
+CF3  (M=2 D=10) 30������λ IGD=1.467 HV=0 PPS=8  ��ʱ=12s
+CF4  (M=2 D=10) 30������λ IGD=0.2811 HV=0.2569 PPS=1.250000e+01  ��ʱ=9s
+CF5  (M=2 D=10) 30������λ IGD=0.6752 HV=0.11 PPS=97  ��ʱ=9s
+CF6  (M=2 D=10) 30������λ IGD=0.5421 HV=0.3549 PPS=98  ��ʱ=9s
+CF7  (M=2 D=10) 30������λ IGD=3.337 HV=0 PPS=12  ��ʱ=10s
+CF8  (M=3 D=10) 30������λ IGD=0.945 HV=0.121 PPS=2.350000e+01  ��ʱ=20s
+CF9  (M=3 D=10) 30������λ IGD=0.5554 HV=0.1534 PPS=97  ��ʱ=20s
+CF10  (M=3 D=10) 30������λ IGD=0.6954 HV=0.118 PPS=1.250000e+01  ��ʱ=20s
+MW1  (M=2 D=15) 30������λ IGD=10.52 HV=0 PPS=1  ��ʱ=27s
+MW2  (M=2 D=15) 30������λ IGD=2.088 HV=0 PPS=1  ��ʱ=26s
+MW3  (M=2 D=15) 30������λ IGD=2.654 HV=0 PPS=1  ��ʱ=26s
+MW4  (M=3 D=15) 30������λ IGD=7.158 HV=0 PPS=1  ��ʱ=32s
+MW5  (M=2 D=15) 30������λ IGD=10.42 HV=0 PPS=1  ��ʱ=28s
+MW6  (M=2 D=15) 30������λ IGD=2.933 HV=0 PPS=1  ��ʱ=27s
+matlab.exe : {�����������Ŀ���㡣
+At line:1 char:129
++ ... ew($false); & "D:\matlab_2026a\bin\matlab.exe" -batch "cd('D:\harness ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ({�����������Ŀ���㡣:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+���� NDSort (�� 19 ��)
+    [FrontNo,MaxFNo] = ENS_SS(PopObj, nSort);
+                                      ^^^^^
+���� MW7/GetOptimum (�� 50 ��)
+            R = R(NDSort(R,1)==1,:);
+                  ^^^^^^^^^^^
+���� PROBLEM (�� 86 ��)
+            obj.optimum = obj.GetOptimum(10000);
+                          ^^^^^^^^^^^^^^^^^^^^^
+���� MW7
+
+���� OfficialProblem>tryCatchConstruct (�� 131 ��)
+            off = feval(name, M);
+                  ^^^^^^^^^^^^^^
+���� OfficialProblem (�� 30 ��)
+                off = tryCatchConstruct(name, M, D);
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+���� run_cf_mw_edd_cf (�� 22 ��)
+        wrap = OfficialProblem(pn, 2, 10);
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+ERROR: MATLAB error Exit Status: 0x00000001

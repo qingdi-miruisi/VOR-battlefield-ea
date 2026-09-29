@@ -1,0 +1,14 @@
+cd('D:\harness工作\中国科学：数学(总)\算法\algorithm');
+addpath('problems'); addpath('problems\wfg_toolbox');
+addpath('problems_official'); addpath('problems_official\MaF');
+addpath('algorithms'); addpath('algorithms\utils');
+clear classes; clear VOR;
+prob = OfficialProblem('MaF14', 3, 30);
+PF = prob.ParetoFront(500);
+alg = VOR(100, 200, 1);
+[Pop, R] = alg.optimize(prob);
+i1 = IGD(R.F, PF);
+fid = fopen('results/maf14_2col_check.txt','w');
+fprintf(fid, 'MaF14 s1: IGD=%.4f PPS=%d fast=%d mech=%s\n', i1, size(R.F,1), R.fastPath, R.mechanism);
+fclose(fid);
+disp('written');

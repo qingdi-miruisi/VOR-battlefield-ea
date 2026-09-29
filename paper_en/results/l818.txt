@@ -1,0 +1,7 @@
+816: \textsc{DTLZ2}-300D/\textsc{LSMOP6} the remaining \textsc{VOR}--\textsc{EDD}
+817: gap is below the 30-seed significance threshold. The Friedman rank sum
+818: (Figure~\ref{fig:friedman}) confirms the global ordering
+819: \textsc{VOR}$\to$\textsc{EDD}$\to$\textsc{MOEA/D}$\to$\textsc{NSGA-2}$
+820: $\to$\textsc{RVEA}.
+821: \begin{figure}[t]
+822: \centering

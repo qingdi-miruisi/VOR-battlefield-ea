@@ -1,0 +1,6 @@
+function out = s_decept(y, A, B, C)
+% S_DECEPT - WFG shaping function s (deceptive)
+out = 1 + (abs(y - A) - B) .* ...
+    (floor(y - A + B)*(1 - C + (A - B)/B)/(A - B) + ...
+     floor(A + B - y)*(1 - C + (1 - A - B)/B)/(1 - A - B) + 1/B);
+end

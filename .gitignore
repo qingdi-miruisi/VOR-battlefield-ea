@@ -1,0 +1,41 @@
+# === MATLAB temporary / autosave files (safe to ignore) ===
+*.asv
+*.m~
+*.autosave
+slprj/
+*.slxc
+*.mlappinstall
+*.mlx
+*.mlappx
+*_mlapp.timetag
+simscape/
+
+# NOTE: *.mat result files are INTENTIONALLY TRACKED — do NOT add
+# a blanket "*.mat" ignore. Only MATLAB's own scratch .mat files
+# (autosave outputs) are ignored via the patterns above.
+
+# === OS / editor junk ===
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+~$*
+
+# === LaTeX build artefacts (keep .tex, .pdf, .spl; drop intermediate) ===
+paper_en/*.aux
+paper_en/*.log
+paper_en/*.out
+paper_en/*.spl
+paper_en/main*.aux
+paper_en/main*.log
+paper_en/main*.out
+paper_en/main*.spl
+paper_en/cover_letter/*.aux
+paper_en/cover_letter/*.log
+paper_en/cover_letter/*.out
+paper_en/cover_letter/*.spl
+# keep the final compiled PDFs (they are part of the published record)
+
+# === MATLAB figure scratch (keep results/figs/out/*.pdf) ===
+*.fig
+*.FIG

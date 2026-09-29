@@ -1,0 +1,25 @@
+﻿DTLZ2_M5 ��EDD s1 IGD=0.9186 HV=0.05798
+DTLZ2_M5 EDDV6 s1 IGD=0.9942 HV=0.03861
+DTLZ2_M5 ��EDD s2 IGD=0.9945 HV=0.03515
+DTLZ2_M5 EDDV6 s2 IGD=0.9863 HV=0.04009
+DTLZ2_M5 ��EDD s3 IGD=1.01 HV=0.04521
+DTLZ2_M5 EDDV6 s3 IGD=0.9695 HV=0.04327
+MaF14_M5 ��EDD s1 IGD=0.9762 HV=0.1464
+MaF14_M5 EDDV6 s1 IGD=0.9761 HV=0.1465
+MaF14_M5 ��EDD s2 IGD=0.9762 HV=0.1464
+MaF14_M5 EDDV6 s2 IGD=0.9762 HV=0.1464
+MaF14_M5 ��EDD s3 IGD=0.9762 HV=0.1464
+MaF14_M5 EDDV6 s3 IGD=0.9758 HV=0.1465
+matlab.exe : {������������ı��� outDir2��
+At line:1 char:129
++ ... ew($false); & "D:\matlab_2026a\bin\matlab.exe" -batch "cd('D:\harness ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ({������������ı��� outDir2��:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+���� prescreen_v6b (�� 73 ��)
+            fn = fullfile(outDir2, [pn '_FDSEA_s' num2str(s) '.mat']);
+                          ^^^^^^^
+} 
+ERROR: MATLAB error Exit Status: 0x00000001

@@ -1,0 +1,4 @@
+587: LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
+603: LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
+608: LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
+666: LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined

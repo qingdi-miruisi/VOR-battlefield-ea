@@ -1,0 +1,7 @@
+winget exit=-1.978335e+09
+Found an existing package already installed. Trying to upgrade the installed package...
+No available upgrade found.
+No newer package versions are available from the configured sources.
+try C:\Program Files\GitHub CLI\gh.exe: [gh version 2.101.0 (2026-09-15)
+https://github.com/cli/cli/releases/tag/v2.101.0]
+try $env:LOCALAPPDATA\Programs\gh\gh.exe: [�ļ�����Ŀ¼��������﷨����ȷ��]

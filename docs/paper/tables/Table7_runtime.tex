@@ -1,0 +1,22 @@
+\begin{table}[t]
+\centering
+\caption{Total wall-clock time over the full study (8 problems $\times$ 30 seeds = 240 runs per algorithm) and mean number of function evaluations per run.}
+\label{tab:runtime}
+\begin{tabular}{lccc}
+\toprule
+Algorithm & Total time (s) & Mean nFE per run & maxGen \\
+\midrule
+NSGA2 & 23.0 & 20100 & 200 \\
+NSGA3 & 67.0 & 20100 & 200 \\
+MOEAD & 229.2 & 20100 & 200 \\
+SPEA2 & 282.7 & 20100 & 200 \\
+SMSEMOA & 1170.6 & 20100 & 200 \\
+RVEA & 49.1 & 20100 & 200 \\
+AGEMOEA & 390.4 & 20100 & 200 \\
+MOGWO & $\approx$621 & 20100 & 200 \\
+HCEA & 371.1 & 20191 & 200 \\
+\midrule
+\multicolumn{4}{l}{\footnotesize Note: all algorithms used maxGen = 200. MOGWO time is the sum of the M3 runs (1406\,s, from m3\_raw\_data.mat) and the 200-generation M2 runs (elapsed time not stored in mogwo\_200gen.mat; estimated $\approx$215\,s).}\\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,3 @@
+git: git version 2.55.0.windows.3
+user.name: []
+user.email: []

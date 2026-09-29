@@ -1,0 +1,12 @@
+cd('D:\harness工作\中国科学：数学(总)\算法\algorithm');
+f1 = 'results/vor2_bench/VOR_MaF14_s1.mat';
+vv1 = load(f1);
+i1 = vv1.igd; pp1 = vv1.pps; fp1 = vv1.R.fastPath;
+f2 = 'results/vor2_bench/VOR_MaF14_s2.mat';
+vv2 = load(f2);
+i2 = vv2.igd; pp2 = vv2.pps;
+f3 = 'results/vor2_bench/VOR_MaF14_s3.mat';
+vv3 = load(f3);
+i3 = vv3.igd; pp3 = vv3.pps;
+rmsg = sprintf('VOR-v2 MaF14 bench: s1 IGD=%.4f PPS=%d fast=%d | s2 IGD=%.4f PPS=%d | s3 IGD=%.4f PPS=%d', i1,pp1,fp1, i2,pp2, i3,pp3);
+disp(rmsg);

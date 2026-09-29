@@ -1,0 +1,2 @@
+﻿CF1 s1 EDD_cf M=2 D=10 nCon=1 highDim=1 hasCon=1 IGD=0.0805 HV=0.5701 PPS=24 elap=0.9s
+MW1 s1 EDD_cf M=2 D=15 nCon=1 highDim=1 hasCon=1 IGD=11 HV=0 PPS=1 elap=1.0s

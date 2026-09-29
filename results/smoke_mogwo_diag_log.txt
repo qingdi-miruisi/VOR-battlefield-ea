@@ -1,0 +1,5 @@
+﻿CF1 wrap.M=2 wrap.D=10
+CalObj 1��: size=[1 x 2] ֵ=[[1.249 0.4186]]
+CalObj 10��: size=[10 x 2]
+M=2: MOGWO �� Cost ����=2
+MOGWO CF1 s1 OK: PPS=100

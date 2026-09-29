@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "popSize": 100,
+    "seed": 42,
+    "date": "2026-09-17",
+    "maxGen": 200,
+    "maxGen_MOGWO": 500,
+    "baseline": "PlatEMO master / Mirjalili 2016",
+    "notes": "第五轮：problems/ 改为 PlatEMO PROBLEM 接口（CalObj/M/D 属性），ZDT1 IGD 与基线完全一致；DTLZ2 ParetoFront 由 cos/sin 改为 UniformPoint（PlatEMO GetOptimum），部分算法 IGD 相对变化 >1%（见 fixNotes.dtlz2_pf_change）"
+  },
+  "ZDT1": {
+    "NSGA2": {
+      "IGD": 0.004971,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "NSGA3": {
+      "IGD": 0.019301,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "MOEAD": {
+      "IGD": 0.009887,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "SPEA2": {
+      "IGD": 0.004283,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "SMSEMOA": {
+      "IGD": 0.003658,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "RVEA": {
+      "IGD": 0.039648,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true,
+      "note": "严格 PlatEMO 原版（无补齐，父代选择用 length(Population)）"
+    },
+    "AGEMOEA": {
+      "IGD": 0.015447,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "MOGWO": {
+      "IGD": 0.314202,
+      "nFE": 50100,
+      "nSol": 100,
+      "ok": false,
+      "note": "非精英存档型，2目标上收敛慢"
+    }
+  },
+  "DTLZ2": {
+    "NSGA2": {
+      "IGD": 0.005056,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "NSGA3": {
+      "IGD": 0.018007,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "MOEAD": {
+      "IGD": 0.003964,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "SPEA2": {
+      "IGD": 0.00414,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "SMSEMOA": {
+      "IGD": 0.005765,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "RVEA": {
+      "IGD": 0.004175,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true,
+      "note": "严格 PlatEMO 原版（无补齐，父代选择用 length(Population)）"
+    },
+    "AGEMOEA": {
+      "IGD": 0.014339,
+      "nFE": 20100,
+      "nSol": 100,
+      "ok": true
+    },
+    "MOGWO": {
+      "IGD": 0.228016,
+      "nFE": 50100,
+      "nSol": 100,
+      "ok": false,
+      "note": "非精英存档型，2目标上收敛慢"
+    }
+  },
+  "fixNotes": {
+    "RVEA": "严格 PlatEMO 原版：① MatingPool = randi(size(Population.decs,1),1,N)；② envSel 删除全部补齐逻辑，末尾严格 Next(Next~=0)；acos 截断保留",
+    "dtlz2_pf_change": "DTLZ2 ParetoFront(M=2) 由 cos/sin linspace 改为 PlatEMO 官方 GetOptimum（UniformPoint(N,M) 归一化），参考前沿本身改变，导致部分算法 IGD 相对基线变化 >1%：NSGA3 +17.55%、SMSEMOA +13.51%、AGEMOEA +13.39%、MOGWO +19.35%、MOEAD -4.23%、RVEA -4.05%。ZDT1 8 个算法 IGD 与基线完全一致（差异 0.000000）。"
+  },
+  "newAlgorithm": {
+    "name": "HCEA",
+    "file": "algorithms/HCEA.m",
+    "report": "docs/results/new_algorithm/README.md",
+    "bugfixRound": {
+      "date": "2026-09-17",
+      "changes": [
+        "calHV: standard 2D minimization HV (right-interval pairing); old formula returned 0.57 instead of 0.33 on the unit test case",
+        "hvContrib: SMS-EMOA standard deltaS formula (f1 forward, f2 backward), consistent with smsGeneration; reference point now passed by caller (polishHV passes 1.1*max)"
+      ],
+      "onlyModifiedFile": "algorithms/HCEA.m"
+    },
+    "results_fixed_30seed": {
+      "HCEA": {
+        "ZDT1": {
+          "mean": 0.003746,
+          "std": 0.000032,
+          "rank": 2,
+          "nFE": 20115,
+          "switchToSMS": "30/30"
+        },
+        "DTLZ2": {
+          "mean": 0.00571,
+          "std": 0.000203,
+          "rank": 6,
+          "nFE": 20115,
+          "switchToSMS": "30/30"
+        }
+      },
+      "before_fix": {
+        "ZDT1": {
+          "mean": 0.003775,
+          "std": 0.000063,
+          "rank": 2,
+          "switchToSMS": "30/30"
+        },
+        "DTLZ2": {
+          "mean": 0.004161,
+          "std": 0.000126,
+          "rank": 2,
+          "switchToSMS": "0/30"
+        }
+      },
+      "baselines_30seed": {
+        "NSGA2": {
+          "ZDT1": 0.005055,
+          "DTLZ2": 0.00512,
+          "rankZ": 4,
+          "rankD": 4
+        },
+        "NSGA3": {
+          "ZDT1": 0.029296,
+          "DTLZ2": 0.028937,
+          "rankZ": 7,
+          "rankD": 8
+        },
+        "MOEAD": {
+          "ZDT1": 0.023811,
+          "DTLZ2": 0.003964,
+          "rankZ": 6,
+          "rankD": 1
+        },
+        "SPEA2": {
+          "ZDT1": 0.004335,
+          "DTLZ2": 0.004163,
+          "rankZ": 3,
+          "rankD": 2
+        },
+        "SMSEMOA": {
+          "ZDT1": 0.003644,
+          "DTLZ2": 0.0057,
+          "rankZ": 1,
+          "rankD": 5
+        },
+        "RVEA": {
+          "ZDT1": 0.038749,
+          "DTLZ2": 0.004669,
+          "rankZ": 8,
+          "rankD": 3
+        },
+        "AGEMOEA": {
+          "ZDT1": 0.016705,
+          "DTLZ2": 0.023788,
+          "rankZ": 5,
+          "rankD": 7
+        },
+        "MOGWO": {
+          "ZDT1": 0.497231,
+          "DTLZ2": 0.21008,
+          "rankZ": 9,
+          "rankD": 9
+        }
+      }
+    },
+    "wilcoxon_HCEA_vs_fixed": {
+      "ZDT1": {
+        "SMSEMOA": "8.2e-11 (SMSEMOA better)",
+        "others": "3.0e-11 (HCEA better)"
+      },
+      "DTLZ2": {
+        "SMSEMOA": "0.888 (ns)",
+        "MOEAD": "3.0e-11 (MOEAD better)",
+        "SPEA2": "3.0e-11 (SPEA2 better)",
+        "others": "<=4.2e-09 (HCEA better)"
+      }
+    },
+    "friedman_fixed": {
+      "ZDT1": "p=9.53e-45; HCEA meanrank 2.00",
+      "DTLZ2": "p=2.63e-45; HCEA meanrank 5.40"
+    },
+    "conclusion_fixed": "修复后 HCEA：ZDT1 第 2（0.003746，略优于修复前）；DTLZ2 第 6（0.005710，显著差于修复前 0.004161）。切换行为 30/30 两问题均采纳 SMS。修复前 'DTLZ2 保持 APD' 系错误 HV 公式假象；标准 HV 下 SMS 在凹前沿确实提升 HV 但恶化 IGD，HV 与 IGD 指标分歧如实报告。",
+    "deliverables": [
+      "docs/results/new_algorithm/README.md",
+      "docs/results/new_algorithm/comparison.xlsx",
+      "docs/results/new_algorithm/new_algorithm_data.mat",
+      "docs/results/new_algorithm/figures/"
+    ]
+  }
+}

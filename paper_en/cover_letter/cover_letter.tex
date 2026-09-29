@@ -1,0 +1,103 @@
+% !TEX program = pdflatex
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{authblk}
+\usepackage{url,hyperref}
+\hypersetup{hidelinks}
+\pagestyle{empty}
+
+\begin{document}
+
+Yuxuan Zhang\\[6pt]
+Graduate School, Army Engineering University of the PLA\\[2pt]
+Nanjing, China\\[2pt]
+\href{mailto:3150644070@qq.com}{3150644070@qq.com}
+
+\vspace{2em}
+
+Managing Editor\\[2pt]
+\emph{Applied Soft Computing}
+
+\vspace{1.5em}
+
+\noindent\textbf{Manuscript title:}\\
+Battlefield-Adaptive Evolutionary Algorithm with Online
+Reference-Reallocation and Quantile $\varepsilon$-Grid Selection for
+Large-Scale and Constrained Multi-Objective Optimization
+
+\noindent\textbf{Manuscript ID:} [to be assigned on submission]\\
+Date: [insert submission date]
+
+\vspace{1em}
+
+Dear Editor,
+
+On behalf of the author, I am pleased to submit the enclosed manuscript
+entitled \emph{``Battlefield-Adaptive Evolutionary Algorithm with Online
+Reference-Reallocation and Quantile $\varepsilon$-Grid Selection for
+Large-Scale and Constrained Multi-Objective Optimization''} for
+consideration for publication in \emph{Applied Soft Computing}.
+
+This paper proposes \textsc{VOR}, a dimension-adaptive evolutionary
+algorithm whose central contribution is a \emph{battlefield routing} rule
+that services the large-scale ($D=300$) and the constrained
+low-dimensional ($D=10$--$60$) battlefields from a \emph{single
+codebase}. On the six-problem benchmark with the four traditional
+baselines and our \textsc{EDD} lineage, \textsc{VOR} attains the first
+IGD rank on three of six problems at 30 seeds, with a statistically
+significant advantage over \textsc{EDD} on \textsc{ZDT1},
+\textsc{LSMOP1} and \textsc{CF1} (30-seed Wilcoxon, $p<10^{-5}$).
+Very importantly, we position the result honestly: against the 2026
+SOTA trio (\textsc{FDSEA}/\textsc{GDVTSF}/\textsc{MOEA-IB}, the same
+30-seed protocol), \textsc{FDSEA} outperforms \textsc{VOR} on all three
+$D=300$ instances; \textsc{VOR}'s differentiating value is the
+\emph{single-codebase coverage} of the constrained low-dimensional
+battlefield where the three SOTA algorithms have no published
+$D=10$--$60$ benchmark.
+
+We believe this manuscript fits \emph{Applied Soft Computing} well for
+three reasons. First, the contribution is a \emph{practical} one: a
+single codebase that removes the need to re-implement a dimension
+adaptive algorithm for a new problem class. Second, the experimental
+protocol is statistically sound (30 seeds, Friedman and Wilcoxon
+significance tests, 5-algorithm $+$ 3-SOTA comparison set). Third, the
+honest-boundary reporting (the \textsc{EDD}-family seed-invariance on
+\textsc{MaF14}, the \textsc{DTLZ2}-300D \textsc{EDD} margin, the
+\textsc{CF1} decomposition structural advantage) matches the journal's
+emphasis on reproducible, well-characterized application research rather
+than a single claimed champion algorithm.
+
+The manuscript has not been published and is not under consideration
+elsewhere. The corresponding author is Yuxuan Zhang
+(\href{mailto:3150644070@qq.com}{3150644070@qq.com}). The
+implementations, the full benchmark suite, the complete 900-file
+30-seed result archive (6 problems $\times$ 5 algorithms $\times$ 30
+seeds), all statistical outputs, and the publication-grade figures are
+publicly available at
+\url{https://github.com/qingdi-miruisi/VOR-battlefield-ea}
+(public GitHub repository, MIT license; one-command reproduction via
+the \texttt{README.md}).
+
+We would be happy to suggest potential reviewers. Our suggested
+reviewers (no conflicts with the author) are:
+\begin{enumerate}
+\item [Name 1], [Institution 1] --- [email 1]
+\item [Name 2], [Institution 2] --- [email 2]
+\item [Name 3], [Institution 3] --- [email 3]
+\end{enumerate}
+\noindent
+Thank you for considering this manuscript.
+
+\vspace{1em}
+
+Sincerely,
+\vspace{1em}
+Yuxuan Zhang\\
+Graduate School, Army Engineering University of the PLA, Nanjing, China
+
+\vspace{0.5em}
+{\small\emph{This work was conducted as an independent project;
+no funding was received. The author declares that there are no
+competing interests.}}
+
+\end{document}

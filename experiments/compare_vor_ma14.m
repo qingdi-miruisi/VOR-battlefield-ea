@@ -1,0 +1,15 @@
+cd('D:\harness工作\中国科学：数学(总)\算法\algorithm');
+f1 = 'results/vor_bench/VOR_MaF14_s1.mat';
+vv1 = load(f1);
+i1 = vv1.igd;
+p1 = vv1.pps;
+f2 = 'results/vor2_bench/VOR_MaF14_s1.mat';
+vv2 = load(f2);
+i2 = vv2.igd;
+p2 = vv2.pps;
+f2fast = vv2.R.fastPath;
+f2mech = vv2.R.mechanism;
+fid = fopen('results/vor_vs_vor2_ma14.txt','w');
+fprintf(fid, 'vor_bench (v1) MaF14 s1: IGD=%.4f PPS=%d\n', i1, p1);
+fprintf(fid, 'vor2_bench (v2) MaF14 s1: IGD=%.4f PPS=%d fast=%d mech=%s\n', i2, p2, f2fast, f2mech);
+fclose(fid);

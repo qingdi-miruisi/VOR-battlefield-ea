@@ -1,0 +1,2590 @@
+﻿[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+DTLZ2_M5 FDSEA s1 IGD=0.7993 HV=0.1141
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+DTLZ2_M5 FDSEA s2 IGD=0.7382 HV=0.1665
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+DTLZ2_M5 FDSEA s3 IGD=0.7935 HV=0.1271
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 42 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+MaF14_M5 FDSEA s1 IGD=0.9762 HV=0.1464
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 42 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+MaF14_M5 FDSEA s2 IGD=0.9762 HV=0.1464
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 42 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 80 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 65 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�EnvironmentalSelection>LastSelection (�� 46 ��)
+λ��: EnvironmentalSelection (�� 25 ��)
+λ��: FDSEA/main (�� 61 ��)
+λ��: ALGORITHM/Solve (�� 84 ��)
+λ��: prescreen_fdsea (�� 29 ��)
+] 
+MaF14_M5 FDSEA s3 IGD=0.9759 HV=0.1464
+>>> ��2 FDSEA ���

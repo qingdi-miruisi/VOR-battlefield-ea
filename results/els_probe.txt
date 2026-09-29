@@ -1,0 +1,2 @@
+FLS: INPUT d:/texlive/2026/texmf-dist/tex/latex/elsarticle/elsarticle.cls
+FLS: INPUT d:/texlive/2026/texmf-dist/tex/latex/elsarticle/elsarticle.cls

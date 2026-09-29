@@ -1,0 +1,7 @@
+691: ! Missing $ inserted.
+699: ! Extra }, or forgotten $.
+710: ! Missing $ inserted.
+721: Overfull \hbox (4.79485pt too wide) in paragraph at lines 919--921
+732: Overfull \hbox (26.40207pt too wide) in paragraph at lines 923--926
+738: Overfull \hbox (11.27701pt too wide) in paragraph at lines 923--926
+976: Output written on main.pdf (22 pages, 2594195 bytes).

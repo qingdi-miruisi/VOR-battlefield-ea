@@ -1,0 +1,2 @@
+paper: 2609106 bytes
+cover: 109786 bytes

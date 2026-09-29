@@ -1,0 +1,6 @@
+out (struct)
+  IGD = 0.153 (double)
+  HV = 0.922 (double)
+  nFE = 2.03e+04 (double)
+  elap = 1.27 (double)
+  PPS = 91 (double)

@@ -1,0 +1,33 @@
+﻿fields:     {'algs'     }
+    {'cOrd'     }
+    {'chi'      }
+    {'combRank' }
+    {'hOrd'     }
+    {'hvRank'   }
+    {'hvTbl'    }
+    {'iOrd'     }
+    {'igdRank'  }
+    {'igdTbl'   }
+    {'pAll'     }
+    {'probs'    }
+    {'pval'     }
+    {'validCols'}
+    {'vsIdx'    }
+
+algs (14): EDD HCEA HCEAV4 MOEAD MOGWO NSGA2 NSGA3 RVEA SMSEMOA SPEA2 AGEMOEA FDSEA GDVTSF MOEA-IB 
+probs (9): LSMOP1 LSMOP2 LSMOP3 LSMOP4 LSMOP5 LSMOP6 LSMOP7 LSMOP8 LSMOP9 
+algs: [1 14]
+cOrd: [14 1]
+chi: [1 1]
+combRank: [14 1]
+hOrd: [14 1]
+hvRank: [14 1]
+hvTbl: [14 9]
+iOrd: [14 1]
+igdRank: [14 1]
+igdTbl: [14 9]
+pAll: [1 13]
+probs: [1 9]
+pval: [1 1]
+validCols: [1 9]
+vsIdx: [1 13]

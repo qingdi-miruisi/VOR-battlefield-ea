@@ -1,0 +1,17 @@
+=== Friedman 秩检验（IGD，5 算法 × 6 题 × 30 种子，块=题×种子 共 180，有效 180）===
+各算法总秩（期望=N*(k+1)/2=540）:
+  VOR      Rtot=   295.50
+  EDD      Rtot=   401.50
+  MOEAD    Rtot=   541.00
+  RVEA     Rtot=   802.00
+  NSGA2    Rtot=   660.00
+Q=3582.0167, df=4, p=0
+结论: p<0.05 → 算法间 IGD 差异显著
+
+=== Wilcoxon 符号检验：VOR vs EDD（IGD，逐种子配对，n=30）===
+MaF14        nEff=17 W+=      0 W-=     -0 Z=-3.621 p=0.0003 → VOR 显著优于 EDD (p<0.05)
+CF1          nEff=30 W+=      0 W-=     -0 Z=-4.782 p=0.0000 → VOR 显著优于 EDD (p<0.05)
+ZDT1         nEff=30 W+=      0 W-=     -0 Z=-4.782 p=0.0000 → VOR 显著优于 EDD (p<0.05)
+LSMOP1       nEff=30 W+=      0 W-=     -1 Z=-4.782 p=0.0000 → VOR 显著优于 EDD (p<0.05)
+DTLZ2_300D   nEff=30 W+=      0 W-=     -0 Z=-4.779 p=0.0000 → VOR 显著优于 EDD (p<0.05)
+LSMOP6       nEff=30 W+=      0 W-=     -0 Z=-4.782 p=0.0000 → VOR 显著优于 EDD (p<0.05)

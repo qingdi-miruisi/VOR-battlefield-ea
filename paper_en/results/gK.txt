@@ -1,0 +1,5 @@
+599: LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
+615: LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
+620: LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
+678: LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
+740: Output written on mainG.pdf (20 pages, 2324823 bytes).

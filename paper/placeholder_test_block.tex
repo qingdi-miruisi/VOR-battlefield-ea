@@ -1,0 +1,41 @@
+\section*{Data and code availability}
+
+All source code (MATLAB) and the complete raw
+dataset are available at
+\url{[anonymous repository URL, to be inserted
+before submission]} under an Apache-2.0 licence.
+The dataset comprises five parts:
+(i) the \textbf{main large-scale experiment},
+$3\,300$ runs
+(11 algorithms $\times$ 10 problems $\times$ 30
+seeds) under
+\texttt{results/largescale\_final/}, plus the three
+2026 SOTA
+algorithms ($900$ runs) under
+\texttt{results/largescale\_extended/}; (ii) the
+\textbf{component ablation}, 60 runs under
+\texttt{results/ablation\_abl/}; (iii) the
+\textbf{convergence study}, 396 runs under
+\texttt{results/figs/conv/}, each storing the
+full budget-indexed IGD trajectory; (iv) the
+\textbf{constrained CF/MW campaign} ($12$
+algorithms $\times$ $24$ problems $\times$
+$30$ seeds $= 8\,640$ runs) under
+\texttt{results/cf\_edd\_cf/},
+\texttt{results/cf\_baselines/}, and
+\texttt{results/cf\_sota/}; and (v) the
+summary Friedman files
+\texttt{friedman\_10.mat},
+\texttt{friedman\_13\_lsmop.mat}
+and \texttt{friedman\_cf\_mw.mat}.
+Reproduction requires MATLAB R2019b
+or later. The EDD implementation
+is a single self-contained class file
+(\texttt{algorithms/EDD.m}, 418 lines).
+The ablation variant is generated
+from it by an explicit seven-substitution
+script that asserts all seven
+substitutions fired, so the shipped
+algorithm and the ablated algorithm
+cannot drift apart. Every experiment
+script is idempotent and resumable.

@@ -1,0 +1,3 @@
+﻿  MOGWO CF10 s10 FAIL: �޷�д���ļ� "D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\results\cf_baselines\MOGWO\CF10_MOGWO_s10.mat"����Ϊ���ƺ����𻵡�
+  MOGWO MW5 s19 FAIL: �޷�д���ļ� "D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\results\cf_baselines\MOGWO\MW5_MOGWO_s19.mat"����Ϊ���ƺ����𻵡�
+MOGWO CF/MW ����: done=246 fail=2

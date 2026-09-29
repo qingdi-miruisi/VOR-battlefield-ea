@@ -1,0 +1,31 @@
+640: ]
+641: <../results/figs/out/fig1_igd_conv.pdf, id=314, 670.505pt x 409.53pt>
+642: File: ../results/figs/out/fig1_igd_conv.pdf Graphic file (type pdf)
+643: <use ../results/figs/out/fig1_igd_conv.pdf>
+644: Package pdftex.def Info: ../results/figs/out/fig1_igd_conv.pdf  used on input l
+645: ine 692.
+646: (pdftex.def)             Requested size: 382.19833pt x 233.43452pt.
+647: <../results/figs/out/fig2_pf_scat.pdf, id=315, 831.105pt x 319.1925pt>
+648: File: ../results/figs/out/fig2_pf_scat.pdf Graphic file (type pdf)
+649: <use ../results/figs/out/fig2_pf_scat.pdf>
+650: Package pdftex.def Info: ../results/figs/out/fig2_pf_scat.pdf  used on input li
+651: ne 703.
+652: (pdftex.def)             Requested size: 382.19833pt x 146.78648pt.
+653: [14] [15]
+654: ! Missing $ inserted.
+655: <inserted text>
+656: $
+657: l.820 $\to
+658: $\textsc{RVEA}.
+659: I've inserted a begin-math/end-math symbol since I think
+660: you left one out. Proceed, with fingers crossed.
+661: 
+662: [16 <../results/figs/out/fig1_igd_conv.pdf>]
+663: <../results/figs/out/fig3_friedman.pdf, id=347, 373.395pt x 262.9825pt>
+664: File: ../results/figs/out/fig3_friedman.pdf Graphic file (type pdf)
+665: <use ../results/figs/out/fig3_friedman.pdf>
+666: Package pdftex.def Info: ../results/figs/out/fig3_friedman.pdf  used on input l
+667: ine 824.
+668: (pdftex.def)             Requested size: 234.00238pt x 164.80907pt.
+669: 
+670: 

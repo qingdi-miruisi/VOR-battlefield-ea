@@ -1,0 +1,10 @@
+publicly available at
+\url{https://github.com/YOUR-ANON-REPO/VOR-battlefield-ea}
+(replace \texttt{YOUR-ANON-REPO} with the anonymized repository, e.g.\ an
+\texttt{anonymous.4open.science} mirror, before submission; the repository
+contains \texttt{README.md} with the one-command reproduction script,
+the full \texttt{results/} archive, and the LaTeX source of this paper
+under \texttt{paper\_en/}).
+
+\section*{Declaration
+===

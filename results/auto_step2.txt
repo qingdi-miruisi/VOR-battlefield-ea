@@ -1,0 +1,5 @@
+exists .git? []
+user.name: []
+user.email: []
+credential.helper: [manager]
+winget: [v1.29.380]

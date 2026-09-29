@@ -1,0 +1,2 @@
+EDD  MaF14 s1: IGD=0.8628 PPS=97 mech=APD
+VOR  MaF14 s1: IGD=1.1971 PPS=3 fast=0 mech=APD

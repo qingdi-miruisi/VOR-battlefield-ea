@@ -1,0 +1,31 @@
+% tables_hv.tex — per-problem HV (Table 3)
+\begin{table*}[t]
+\centering
+\caption{Per-problem HV (median over 30 seeds; higher is better) on the
+10 large-scale instances. On five instances (LSMOP1/3/5/9 and
+DTLZ2-300D-M3) every algorithm except EDD (and MOGWO on LSMOP1/5/9)
+attains $\mathrm{HV}=0$, i.e.\ fails to place any solution inside the
+true-front reference box. On LSMOP6 and LSMOP7 the metric degenerates to
+$\mathrm{HV}=0$ for \emph{all} eleven algorithms, so the aggregate HV rank
+is a tie there.}
+\label{tab:hv}
+\setlength{\tabcolsep}{2.5pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrrrrrrrrr}
+\toprule
+\textbf{Problem} & \textbf{EDD} & \textbf{HCEA} & \textbf{HCEAV4} & \textbf{NSGA-II} & \textbf{NSGA-III} & \textbf{SPEA2} & \textbf{AGEMOEA} & \textbf{SMSEMOA} & \textbf{MOGWO} & \textbf{RVEA} & \textbf{MOEAD} \\
+\midrule
+LSMOP1 & \textbf{0.124} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0.120 & 0 & 0 \\
+LSMOP2 & 0.435 & 0.906 & 0.906 & 0.984 & 0.820 & \textbf{1.012} & 0.938 & 0.635 & 0.463 & 1.014 & 1.010 \\
+LSMOP3 & \textbf{0.120} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+LSMOP4 & 0.381 & 0.566 & 0.566 & 0.666 & 0.543 & 0.719 & 0.577 & 0.406 & 0.330 & \textbf{0.737} & 0.725 \\
+LSMOP5 & \textbf{0.121} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & \textbf{0.121} & 0 & 0 \\
+LSMOP6 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+LSMOP7 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+LSMOP8 & 0.121 & 0.041 & 0.041 & 0.037 & 0.040 & 0.035 & 0.045 & 0 & \textbf{0.132} & 0.048 & 0.057 \\
+LSMOP9 & \textbf{0.536} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & \textbf{0.536} & 0 & 0 \\
+DTLZ2-300D-M3 & \textbf{0.033} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

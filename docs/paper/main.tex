@@ -1,0 +1,121 @@
+% main.tex - HCEA paper skeleton (SCI Q2 target)
+% Compile: pdflatex (IEEEtran.cls required; if unavailable, replace
+% \documentclass[journal]{IEEEtran} with \documentclass[10pt,twocolumn]{article}
+% and delete the IEEEtran-specific commands marked with % IEEEtran).
+\documentclass[journal]{IEEEtran}
+
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{amsmath,amssymb}
+\usepackage{subfig}
+\usepackage{cite}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}
+
+\begin{document}
+
+\title{Hypervolume-Verified Dual-Mechanism Switching for Multiobjective Optimization: A Study of IGD--HV Ranking Disagreement on Convex, Concave, and Disconnected Fronts}
+
+\author{[TODO: Author names],~\IEEEmembership{[TODO: affiliations]}% IEEEtran
+\thanks{[TODO: corresponding author, funding, acknowledgments]}}
+
+\markboth{[TODO: Journal short title]}% IEEEtran
+{[TODO: Authors short form]}% IEEEtran
+
+\maketitle
+
+\begin{abstract}
+Indicator-based evaluation dominates the empirical assessment of multiobjective evolutionary algorithms (MOEAs), yet the inverted generational distance (IGD) and the hypervolume (HV) do not always rank algorithms consistently. This paper makes two contributions. First, we quantify this ranking disagreement in a controlled setting: nine algorithms (NSGA-II, NSGA-III, MOEA/D, SPEA2, SMS-EMOA, RVEA, AGE-MOEA, MOGWO, and our proposed HCEA) are run with 30 independent seeds on five bi-objective benchmarks spanning convex (ZDT1), concave (ZDT2, DTLZ2), and disconnected (ZDT3, DTLZ7) fronts. On the four convex/disconnected problems the Spearman correlation between IGD-based and HV-based rankings is $\rho \geq 0.98$; on the concave DTLZ2 it drops to $\rho = 0.57$. A follow-up experiment replacing the reference front with an arc-uniform sampling raises $\rho$ only to $0.63$, showing that the divergence stems from the concave geometry itself (HV-optimal spacing is not arc-uniform), not from reference-front discretization. Second, we propose HCEA, a hybrid algorithm whose environmental-selection mechanism---reference-vector-guided APD selection versus SMS-EMOA-style incremental hypervolume refinement---is switched online at fixed checkpoints, with the switch accepted only when a one-generation trial measurably improves the hypervolume. Across the five problems HCEA attains Friedman mean ranks of 1.8 (HV, second) and 2.8 (IGD, third), is the best algorithm on the disconnected ZDT3 in both metrics, and is statistically indistinguishable from SMS-EMOA and SPEA2 on most problems under the Nemenyi post-hoc test (CD = 5.37 with five blocks). On DTLZ2 its IGD rank is only sixth, an honest weakness we analyze in depth. The study underscores that conclusions about an algorithm's standing are indicator-dependent on concave fronts.
+\end{abstract}
+
+\begin{IEEEkeywords}% IEEEtran
+Multiobjective optimization, hypervolume, inverted generational distance, indicator disagreement, evolutionary algorithm.% IEEEtran
+\end{IEEEkeywords}% IEEEtran
+
+\section{Introduction}
+\IEEEPARstart{}{} % IEEEtran (drop-in first character)
+
+Performance evaluation in multiobjective optimization relies on quality indicators, and two of them dominate the literature: the inverted generational distance (IGD), which measures how well a solution set covers a reference Pareto front, and the hypervolume (HV), which measures the volume dominated by the set. IGD rewards solutions whose spacing matches the reference front, whereas HV rewards spacing that maximizes dominated volume, and the two criteria do not always coincide~\cite{zitzler2003performance}. On concave fronts this mismatch is structural: HV-optimal point placements on a quarter circle are not arc-uniform, so an HV-optimal set can be suboptimal in IGD and vice versa.
+
+Our study quantifies this phenomenon and connects it to algorithm design. We evaluate nine algorithms---eight widely used baselines (NSGA-II, NSGA-III, MOEA/D, SPEA2, SMS-EMOA, RVEA, AGE-MOEA, MOGWO) and our proposed HCEA---on five bi-objective benchmarks (ZDT1, ZDT2, ZDT3, DTLZ2, DTLZ7) with 30 independent seeds each. Two findings stand out. First, on the four convex and disconnected problems the IGD-based and HV-based algorithm rankings are almost identical (Spearman $\rho \geq 0.98$), but on the concave DTLZ2 the correlation drops to $\rho = 0.57$: SMS-EMOA and HCEA rank first and second by HV yet only fifth and sixth by IGD, while MOEA/D ranks first by IGD but fourth by HV. Second, this disagreement is not an artifact of the reference-front discretization: recomputing IGD against an arc-uniform reference front changes the correlation only marginally ($\rho = 0.63$). The disagreement is therefore a property of the concave geometry, and it has direct consequences for how reported rankings should be interpreted.
+
+The second contribution is the algorithm HCEA (Hybrid Convergence-Environmental Archive). HCEA alternates between two environmental-selection mechanisms: a reference-vector-guided APD (angle-penalized distance) selection that drives convergence, and an SMS-EMOA-style incremental hypervolume reduction that refines distribution. The switch between the two mechanisms is adjudicated online: at the 50\%, 60\%, and 70\% generation checkpoints, HCEA runs a one-generation trial of the hypervolume mechanism and keeps it only if the measured hypervolume of the population strictly improves. This design makes the switch indicator-aware rather than schedule-based. HCEA is competitive but we report its standing honestly: it achieves the best result on the disconnected ZDT3 in both metrics, Friedman mean ranks of 1.8 (HV) and 2.8 (IGD) over five problems, and it is statistically indistinguishable from SMS-EMOA and SPEA2 on most problems under the Nemenyi test with five blocks (CD = 5.37); on DTLZ2 its IGD rank is sixth, a weakness rooted in the same concave-front geometry that produces the indicator disagreement.
+
+The remainder of the paper is organized as follows. Section~II reviews related work. Section~III describes HCEA. Section~IV details the experimental setup. Section~V reports the results, Section~VI discusses the indicator-disagreement findings and limitations, and Section~VII concludes.
+
+\section{Related Work}
+\subsection{Baseline algorithms}
+The eight baselines span the main design families in multiobjective optimization: Pareto-dominance-based selection (NSGA-II~\cite{deb2002nsga2}, SPEA2~\cite{zitzler2001spea2}), decomposition (MOEA/D~\cite{zhang2007moead}), reference-vector-guided selection (NSGA-III~\cite{deb2014nsga3}, RVEA~\cite{cheng2016rvea}), indicator-based selection (SMS-EMOA~\cite{beume2007smsemoa}), geometric estimation (AGE-MOEA), and swarm metaheuristics (MOGWO~\cite{mirjalili2016mogwo}). [TODO: one paragraph per family with 2--3 citations each; verify exact bibliographic data.]
+
+\subsection{Multi-stage, dual-archive, and adaptive operator selection}
+Several recent works organize the search into stages or archives---e.g., two-archive algorithms and multi-stage many-objective EAs---and adaptive operator selection (AOS) methods such as the fitness-rate-rank multi-armed bandit (FRRMAB)~\cite{li2014frrmab} select variation operators online. HCEA differs from these in two respects: it switches between environmental-selection mechanisms (not variation operators), and the switch decision is adjudicated by a direct measurement of hypervolume improvement rather than accumulated credit. [TODO: cite two-stage/dual-archive representatives (e.g., two-stage two-archive TEVC 2024; multi-stage MaOEA Information Sciences 2021) and a finite-state-machine multi-stage EA (SWEVO 2025); verify DOIs.]
+
+\subsection{Indicator disagreement}
+The fact that different indicators can rank the same algorithm set differently is well known~\cite{zitzler2003performance}, but systematic empirical quantification on controlled front geometries remains thin. Our study contributes a five-problem, nine-algorithm, 30-seed measurement and an explicit test (reference-front replacement) that localizes the cause of the disagreement to concave geometry. [TODO: add recent references on indicator choice and benchmarking practice.]
+
+\section{Proposed Algorithm: HCEA}
+HCEA maintains a single population of $N$ individuals and one of two environmental-selection mechanisms at any time. In mechanism A (convergence phase), $N$ offspring are generated by SBX and polynomial mutation from a random mating pool, and each static reference vector (generated once by the NBI method) retains the solution with the smallest angle-penalized distance $\mathrm{APD}=(1+M\theta d_i/\gamma_i)\cdot\|f-z^{\ast}\|$, with $\theta=(g/G)^{2}$ annealing the angular term; vacant vectors are refilled by the best-remaining APD so that the population size stays constant. In mechanism B (distribution phase), the algorithm iterates $N$ times: one offspring is generated from two random parents and merged into the population, and the solution with the smallest hypervolume contribution on the last non-dominated front is removed (boundary solutions have infinite contribution and are never deleted), following SMS-EMOA. The switching rule is the core of HCEA: at generations $0.5G$, $0.6G$, and $0.7G$, if mechanism A is active, HCEA runs one full generation of mechanism B on the current population and permanently adopts it if and only if the exact two-dimensional hypervolume (reference point $1.1\times\max$ of the population) strictly increases; otherwise mechanism A remains and the check is retried at the next checkpoint. A light-weight polishing operator (last 10\% of generations) perturbs the lowest-contribution solution a bounded number of times and keeps the best variant. All extra evaluations are counted in the reported nFE. [TODO: add pseudocode (Algorithm~1) and a runtime-complexity paragraph.]
+
+\section{Experimental Setup}
+Five bi-objective instances are used (Table~\ref{tab:datasets}): ZDT1 (convex), ZDT2 (concave), ZDT3 (disconnected), DTLZ2 (concave), and DTLZ7 (disconnected). All nine algorithms run with population size $N=100$ for 200 generations; MOGWO keeps the baseline protocol of 500 generations. Each algorithm--problem pair is repeated with seeds 1--30. IGD is computed against the true Pareto front sampled at 500 points; HV is computed exactly in two dimensions with the per-problem reference point $\mathrm{ref} = 1.1 \times \max(\mathrm{PF})$, identical for all algorithms. [TODO: hardware/OS/MATLAB version; note the DTLZ2 ParetoFront uses PlatEMO's NBI discretization while the arc-uniform replacement was used only in the follow-up analysis.]
+
+\section{Results}
+\subsection{Overall performance}
+Tables~\ref{tab:igd} and~\ref{tab:hv} report the mean and standard deviation of IGD and HV over 30 seeds. [TODO: expand the per-problem narrative, e.g., SMS-EMOA is the best on ZDT1 in IGD ($0.00364$) while HCEA is second ($0.00375$); on DTLZ2 MOEA/D achieves the best IGD ($0.00396$) but only the fourth-best HV ($0.41999$).] Table~\ref{tab:ranks} condenses both metrics into per-problem ranks. On the disconnected ZDT3, HCEA ranks first in both IGD and HV; on DTLZ2 it ranks sixth by IGD but second by HV---the largest single-algorithm divergence observed (rank difference $+4$).
+
+\input{tables/Table2_igd.tex}
+\input{tables/Table3_hv.tex}
+\input{tables/Table4_ranks.tex}
+
+\subsection{Statistical analysis}
+The Friedman test confirms significant overall differences for both metrics (Table~\ref{tab:friedman}): IGD $\chi^2=28.05$, $p=4.64\times10^{-4}$; HV $\chi^2=36.32$, $p=1.53\times10^{-5}$. HCEA's Friedman mean ranks are 2.8 (IGD, third) and 1.8 (HV, second). Pairwise two-sided Wilcoxon tests with 30 seeds per problem (Table~\ref{tab:wilcoxon_igd}) show that HCEA differs significantly from the baselines on most problems, with notable exceptions where it does not: against SPEA2 on ZDT2 ($p=0.186$) and against SMS-EMOA on ZDT3 ($p=0.068$) and DTLZ2 ($p=0.888$). The Nemenyi post-hoc test (Fig.~\ref{fig:cd}) with five blocks gives CD = 5.37, which spans almost the entire rank axis: at $\alpha=0.05$ only MOGWO is separated from the top group in either metric; the fine ordering within the top group (HCEA vs. SMS-EMOA vs. SPEA2) is not statistically supported. [TODO: full per-pair CD statement.]
+
+\input{tables/Table5_friedman.tex}
+\input{tables/Table6_wilcoxon.tex}
+\input{tables/Table6b_wilcoxon_hv.tex}
+
+\begin{figure}[t]
+\centering
+\subfloat[IGD]{\includegraphics[width=0.48\columnwidth]{figures/fig4_cd_igd.pdf}}
+\hfill
+\subfloat[HV]{\includegraphics[width=0.48\columnwidth]{figures/fig4_cd_hv.pdf}}
+\caption{Nemenyi critical-difference diagrams at $\alpha=0.05$ (k=9, N=5 blocks, CD=5.37). Algorithms connected by a horizontal bar are not significantly different.}
+\label{fig:cd}
+\end{figure}
+
+\subsection{Indicator disagreement on concave fronts}
+Figure~\ref{fig:boxplots} shows the 30-seed IGD distributions; Table~\ref{tab:ranks} makes the DTLZ2 divergence explicit: SMS-EMOA and HCEA occupy HV ranks 1--2 and IGD ranks 5--6, while MOEA/D and RVEA occupy IGD ranks 1 and 3 and HV ranks 4 and 6. The follow-up analysis (recomputing IGD on the same saved solution sets against an arc-uniform reference front) yields $\rho=0.63$ versus $0.57$ for the NBI-discretized front, ruling out reference-front discretization as the cause. [TODO: formalize this follow-up as a table or appendix.]
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\columnwidth]{figures/fig5_boxplots_5problems.pdf}
+\caption{IGD distributions over 30 seeds for the five problems (log scale).}
+\label{fig:boxplots}
+\end{figure}
+
+\input{tables/Table7_runtime.tex}
+
+\section{Discussion}
+The DTLZ2 divergence has a geometric explanation: HV-optimal placements on a concave front cluster toward the middle of the arc where the dominated boxes are largest, whereas IGD rewards arc-uniform coverage. Consequently, algorithm rankings on concave fronts are indicator-dependent, and claims that one algorithm dominates another must state the indicator. For HCEA specifically, the switch is hypervolume-verified, so its DTLZ2 behavior (switch accepted, HV rank 2, IGD rank 6) is the expected---and honest---outcome of maximizing its design criterion. [TODO: discuss which indicator suits which decision-making context; ablations of HCEA components (tournament vs. random mating, HV top-N vs. incremental reduction, static vs. adaptive reference vectors) as a table.]
+
+\section{Conclusion}
+We quantified IGD--HV ranking disagreement across five front geometries and showed that it concentrates on concave fronts and is not caused by reference-front discretization. We proposed HCEA, whose hypervolume-verified mechanism switch yields a top-tier algorithm: best on the disconnected ZDT3 in both metrics, Friedman HV rank 1.8, and no significant difference from SMS-EMOA and SPEA2 on most problems; its DTLZ2 IGD rank of 6 is reported as a genuine weakness. Future work extends HCEA to three or more objectives (where HV requires Monte Carlo estimation), constrained problems, and a wider sensitivity study of the checkpoint schedule. [TODO: final polish once all tables/figures are final.]
+
+\section*{Acknowledgment}
+[TODO: funding and acknowledgment.]
+
+% \bibliographystyle{IEEEtran}
+% \bibliography{references}
+
+\begin{thebibliography}{1}
+\bibitem{deb2002nsga2} K.~Deb, A.~Pratap, S.~Agarwal, and T.~Meyarivan, ``A fast and elitist multiobjective genetic algorithm: NSGA-II,'' \emph{IEEE Trans. Evol. Comput.}, vol.~6, no.~2, pp.~182--197, 2002.
+\bibitem{zitzler2001spea2} E.~Zitzler, M.~Laumanns, and L.~Thiele, ``SPEA2: Improving the strength Pareto evolutionary algorithm,'' TIK-Report 103, ETH Zurich, 2001.
+\bibitem{zhang2007moead} Q.~Zhang and H.~Li, ``MOEA/D: A multiobjective evolutionary algorithm based on decomposition,'' \emph{IEEE Trans. Evol. Comput.}, vol.~11, no.~6, pp.~712--731, 2007.
+\bibitem{deb2014nsga3} K.~Deb and H.~Jain, ``An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, Part I,'' \emph{IEEE Trans. Evol. Comput.}, vol.~18, no.~4, pp.~577--601, 2014.
+\bibitem{cheng2016rvea} R.~Cheng, Y.~Jin, M.~Olhofer, and B.~Sendhoff, ``A reference vector guided evolutionary algorithm for many-objective optimization,'' \emph{IEEE Trans. Evol. Comput.}, vol.~20, no.~5, pp.~773--791, 2016.
+\bibitem{beume2007smsemoa} N.~Beume, B.~Naujoks, and M.~Emmerich, ``SMS-EMOA: Multiobjective selection based on dominated hypervolume,'' \emph{Eur. J. Oper. Res.}, vol.~181, no.~3, pp.~1653--1669, 2007.
+\bibitem{mirjalili2016mogwo} S.~Mirjalili, S.~Saremi, S.~M.~Mirjalili, and L.~S.~Coelho, ``Multi-objective grey wolf optimizer: A novel algorithm for multi-criterion optimization,'' \emph{Expert Syst. Appl.}, vol.~47, pp.~106--119, 2016.
+\bibitem{li2014frrmab} K.~Li, \'A.~Fialho, S.~Kwong, and Q.~Zhang, ``Adaptive operator selection with bandits for a multiobjective evolutionary algorithm based on decomposition,'' \emph{IEEE Trans. Evol. Comput.}, vol.~18, no.~1, pp.~114--130, 2014.
+\bibitem{zitzler2003performance} E.~Zitzler, L.~Thiele, M.~Laumanns, C.~M.~Fonseca, and V.~G.~da~Fonseca, ``Performance assessment of multiobjective optimizers: An analysis and review,'' \emph{IEEE Trans. Evol. Comput.}, vol.~7, no.~2, pp.~117--132, 2003.
+\end{thebibliography}
+
+\end{document}

@@ -1,0 +1,16 @@
+cd('D:\harness工作\中国科学：数学(总)\算法\algorithm');
+f2 = 'results/vor2_bench/VOR_LSMOP6_s1.mat';
+vv2 = load(f2);
+i2 = vv2.igd;
+p2 = vv2.pps;
+f2f = vv2.R.fastPath;
+m2 = vv2.R.mechanism;
+i2g20 = vv2.R.igdHistory(20);
+i2g50 = vv2.R.igdHistory(50);
+i2g100 = vv2.R.igdHistory(100);
+i2g200 = vv2.R.igdHistory(200);
+fid = fopen('results/vor2_lsmop6_traj.txt','w');
+fprintf(fid, 'VOR-v2 LSMOP6 s1: IGD=%.4f PPS=%d fast=%d mech=%s\n', i2, p2, f2f, m2);
+fprintf(fid, 'IGD: g20=%.4f g50=%.4f g100=%.4f g200=%.4f\n', i2g20, i2g50, i2g100, i2g200);
+fclose(fid);
+disp('lsmop6 traj written');

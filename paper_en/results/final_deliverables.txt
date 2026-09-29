@@ -1,0 +1,10 @@
+VOR_cover_letter.pdf                                   108923 bytes
+VOR_paper_AppliedSoftComputing_final.pdf              2594195 bytes
+main.pdf                                              2594195 bytes
+mainF.pdf                                             2324877 bytes
+mainG.pdf                                             2327127 bytes
+mainH.pdf                                             2327127 bytes
+mainI.pdf                                             2325129 bytes
+mainJ.pdf                                             2325129 bytes
+mainW.pdf                                             2321458 bytes
+main_final.pdf                                        2325008 bytes

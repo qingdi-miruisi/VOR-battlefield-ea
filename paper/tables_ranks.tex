@@ -1,0 +1,31 @@
+% tables_ranks.tex — Friedman mean ranks (Table 1)
+\begin{table*}[t]
+\centering
+\caption{Friedman mean ranks over the 10 large-scale instances
+(LSMOP1--9 with $M=3$, $D=300$, plus DTLZ2-300D-M3), 11 algorithms,
+30 independent seeds per cell. Lower is better in all three columns; the
+best value in each column is set in bold. ``Combined'' is the arithmetic
+mean of the IGD and HV ranks.}
+\label{tab:ranks}
+\resizebox{0.98\textwidth}{!}{%
+\footnotesize
+\setlength{\tabcolsep}{6pt}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Algorithm} & \textbf{IGD rank} & \textbf{HV rank} & \textbf{Combined rank} \\
+\midrule
+\textbf{EDD (ours)} & \textbf{4.45} (2nd) & \textbf{4.25} (1st, tied) & \textbf{4.35} (1st) \\
+MOEAD & 4.20 (1st) & 5.65 (5th) & 4.93 (2nd) \\
+MOGWO & 4.85 (3rd) & 5.35 (3rd) & 5.10 (3rd) \\
+HCEA & 6.85 (9th) & \textbf{4.25} (1st, tied) & 5.55 (4th) \\
+RVEA & 5.70 (5th) & 5.45 (4th) & 5.58 (5th) \\
+AGEMOEA & 5.50 (4th) & 6.45 (7th) & 5.98 (6th) \\
+NSGA-III & 5.90 (6th) & 7.05 (9th) & 6.48 (7th) \\
+SPEA2 & 6.75 (7th) & 6.25 (6th) & 6.50 (8th) \\
+NSGA-II & 7.10 (10th) & 6.45 (7th) & 6.78 (9th) \\
+SMSEMOA & 6.75 (7th) & 7.80 (11th) & 7.28 (10th) \\
+HCEAV4 & 7.95 (11th) & 7.05 (9th) & 7.50 (11th) \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

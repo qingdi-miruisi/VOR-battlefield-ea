@@ -1,0 +1,16 @@
+cd('D:\harness工作\中国科学：数学(总)\算法\algorithm');
+addpath('problems'); addpath('problems\wfg_toolbox');
+addpath('problems_official'); addpath('problems_official\CF'); addpath('problems_official\LSMOP');
+addpath('problems_official\DTLZ');
+addpath('algorithms'); addpath('algorithms\utils');
+clear classes; clear VOR;
+prob = DTLZ2_300D_M3();
+PF = prob.ParetoFront(500);
+alg = VOR(100, 200, 1);
+[Pop, R] = alg.optimize(prob);
+i1 = IGD(R.F, PF);
+fid = fopen('results/vor_dsg_dtlz2_probe.txt','w');
+fprintf(fid, 'VOR DSG-default DTLZ2_300D s1: IGD=%.4f PPS=%d fast=%d mech=%s\n', i1, size(R.F,1), R.fastPath, R.mechanism);
+fprintf(fid, 'IGD: g50=%.4f g100=%.4f g150=%.4f g200=%.4f\n', R.igdHistory(50), R.igdHistory(100), R.igdHistory(150), R.igdHistory(200));
+fclose(fid);
+disp('dtlz2 dsg probe written');

@@ -1,0 +1,1120 @@
+﻿NSGA2 16������ͨ=16
+NSGA3 16������ͨ=16
+MOEAD 16������ͨ=16
+SPEA2 16������ͨ=16
+SMSEMOA 16������ͨ=16
+RVEA 16������ͨ=16
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+[����: �����ڹ���������Ϊ����ġ�] 
+[> λ�ã�AGEMOEA/normalize (�� 156 ��)
+λ��: AGEMOEA/survivalScore (�� 96 ��)
+λ��: AGEMOEA/environmentalSelection (�� 57 ��)
+λ��: AGEMOEA/run (�� 25 ��)
+λ��: run_cf_mw_baselines (�� 36 ��)
+] 
+AGEMOEA 16������ͨ=16

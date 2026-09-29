@@ -1,0 +1,107 @@
+﻿validCols: LSMOP1 LSMOP2 LSMOP3 LSMOP4 LSMOP5 LSMOP6 LSMOP7 LSMOP8 LSMOP9 
+
+=== IGD Friedman ===
+  1. FDSEA      1.500
+  2. MOEA-IB    2.389
+  3. GDVTSF     2.611
+  4. MOEAD      6.722
+  5. EDD        7.333
+  6. MOGWO      7.389
+  7. RVEA       8.167
+  8. AGEMOEA    8.389
+  9. NSGA3      9.389
+  10. HCEA       9.667
+  11. SPEA2      10.000
+  12. SMSEMOA    10.389
+  13. NSGA2      10.500
+  14. HCEAV4     10.556
+
+=== HV Friedman ===
+  1. FDSEA      2.167
+  2. MOEA-IB    3.389
+  3. GDVTSF     4.056
+  4. EDD        6.111
+  5. RVEA       7.944
+  6. HCEA       8.000
+  7. MOGWO      8.000
+  8. MOEAD      8.167
+  9. AGEMOEA    8.833
+  10. SPEA2      8.944
+  11. NSGA2      9.389
+  12. HCEAV4     9.667
+  13. NSGA3      9.667
+  14. SMSEMOA    10.667
+
+=== Combined ===
+  1. FDSEA      1.833
+  2. MOEA-IB    2.889
+  3. GDVTSF     3.333
+  4. EDD        6.722
+  5. MOEAD      7.444
+  6. MOGWO      7.694
+  7. RVEA       8.056
+  8. AGEMOEA    8.611
+  9. HCEA       8.833
+  10. SPEA2      9.472
+  11. NSGA3      9.528
+  12. NSGA2      9.944
+  13. HCEAV4     10.111
+  14. SMSEMOA    10.528
+
+chi=66.394 pval=3.676e-09
+
+EDD: IGD=7.333(5) HV=6.111(4) Comb=6.722(4)
+
+=== EDD per-problem IGD median (9 LSMOP) ===
+  LSMOP1   IGD=0.8579 HV=0.1244
+  LSMOP2   IGD=0.4253 HV=0.4352
+  LSMOP3   IGD=0.8628 HV=0.12
+  LSMOP4   IGD=0.4791 HV=0.3814
+  LSMOP5   IGD=0.9411 HV=0.121
+  LSMOP6   IGD=1.631 HV=0
+  LSMOP7   IGD=1.332 HV=0
+  LSMOP8   IGD=0.9411 HV=0.121
+  LSMOP9   IGD=1.548 HV=0.5362
+
+=== EDD vs 3 SOTA per-problem IGD (smaller=better; mark SOTA wins) ===
+  LSMOP1   EDD=0.8579 | FDSEA=0.1209 GDVTSF=0.4387 MOEAIB=0.3869  SOTA beats=3/3
+  LSMOP2   EDD=0.4253 | FDSEA=0.08996 GDVTSF=0.07742 MOEAIB=0.09007  SOTA beats=3/3
+  LSMOP3   EDD=0.8628 | FDSEA=0.8619 GDVTSF=0.8628 MOEAIB=0.8627  SOTA beats=3/3
+  LSMOP4   EDD=0.4791 | FDSEA=0.1518 GDVTSF=0.1769 MOEAIB=0.1886  SOTA beats=3/3
+  LSMOP5   EDD=0.9411 | FDSEA=0.377 GDVTSF=0.4672 MOEAIB=0.5339  SOTA beats=3/3
+  LSMOP6   EDD=1.631 | FDSEA=0.6553 GDVTSF=1.271 MOEAIB=1.259  SOTA beats=3/3
+  LSMOP7   EDD=1.332 | FDSEA=0.864 GDVTSF=0.865 MOEAIB=0.9159  SOTA beats=3/3
+  LSMOP8   EDD=0.9411 | FDSEA=0.09241 GDVTSF=0.3073 MOEAIB=0.2501  SOTA beats=3/3
+  LSMOP9   EDD=1.548 | FDSEA=1.161 GDVTSF=1.165 MOEAIB=1.158  SOTA beats=3/3
+  SOTA beats EDD per-problem total: 27 / 27 problem-seats
+
+=== EDD vs 13 opponents problem-level Wilcoxon (IGD, pAll) ===
+  EDD vs HCEA       p=1
+  EDD vs HCEAV4     p=1
+  EDD vs MOEAD      p=1
+  EDD vs MOGWO      p=1
+  EDD vs NSGA2      p=1
+  EDD vs NSGA3      p=1
+  EDD vs RVEA       p=1
+  EDD vs SMSEMOA    p=1
+  EDD vs SPEA2      p=1
+  EDD vs AGEMOEA    p=1
+  EDD vs FDSEA      p=1
+  EDD vs GDVTSF     p=1
+  EDD vs MOEA-IB    p=1
+
+=== PPS sample (mean over seeds) ===
+  LSMOP1 PPS means:
+    EDD      PPS mean=99.3  (n=30)
+    FDSEA    PPS mean=91.0  (n=30)
+    GDVTSF   PPS mean=43.5  (n=30)
+    MOEA-IB  PPS mean=100.0  (n=30)
+    NSGA2    PPS mean=100.0  (n=30)
+    MOEAD    PPS mean=79.3  (n=30)
+  LSMOP6 PPS means:
+    EDD      PPS mean=26.4  (n=30)
+    FDSEA    PPS mean=91.0  (n=30)
+    GDVTSF   PPS mean=14.9  (n=30)
+    MOEA-IB  PPS mean=97.0  (n=30)
+    NSGA2    PPS mean=94.9  (n=30)
+    MOEAD    PPS mean=20.4  (n=30)

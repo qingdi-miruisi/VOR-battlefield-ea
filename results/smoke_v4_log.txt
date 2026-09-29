@@ -1,0 +1,5 @@
+﻿�� EDD    LSMOP1 s1: PPS=100 IGD=0.8579 HV=0.1244 nFE=20215
+EDDV4     LSMOP1 s1: PPS=97 IGD=1.222 HV=0 nFE=20115 mech=APD
+�Ա�: IGD 0.8579 -> 1.222 (-42.5%)  HV 0.1244 -> 0 (-100.0%)
+FDSEA ���� LSMOP1 IGD��0.1209
+>>> v4 IGD δ���ƣ�1.222 vs �� 0.8579�������һ��ʧ��

@@ -1,0 +1,2 @@
+MaF14: nVar=60 nObj=3
+EDD V reshape to 2 cols FAILED: 元素数不能更改。请使用 [] 作为大小输入之一，以自动计算该维度的适当大小。

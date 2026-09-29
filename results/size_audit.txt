@@ -1,0 +1,9 @@
+algorithms           files=41  total=0.4 MB  max=0.0 MB
+experiments          files=206  total=0.4 MB  max=0.0 MB
+results              files=244  total=41.8 MB  max=15.8 MB
+results\figs         files=0  total=0.0 MB  max= MB
+paper_en             files=63  total=22.0 MB  max=2.6 MB
+
+vor2_bench .mat: files=900 total=90.2 MB max_single=0.3 MB (VOR_LSMOP6_s1.mat)
+single files >100MB: 0
+results top-level: files=244 total=41.8 MB

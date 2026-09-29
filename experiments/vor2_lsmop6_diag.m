@@ -1,0 +1,24 @@
+cd('D:\harness工作\中国科学：数学(总)\算法\algorithm');
+addpath('problems'); addpath('problems\wfg_toolbox');
+addpath('problems_official'); addpath('problems_official\LSMOP');
+addpath('algorithms'); addpath('algorithms\utils');
+clear classes; clear VOR;
+
+prob = OfficialProblem('LSMOP6', 3, 300);
+PF = prob.ParetoFront(500);
+alg = VOR(100, 200, 1);
+[Pop, R] = alg.optimize(prob);
+i1 = IGD(R.F, PF);
+f1 = R.fastPath;
+m1 = R.mechanism;
+gdvk = R.GDVK;
+i20 = R.igdHistory(20);
+i50 = R.igdHistory(50);
+i100 = R.igdHistory(100);
+i150 = R.igdHistory(150);
+i200 = R.igdHistory(200);
+fid = fopen('results/vor2_lsmop6_diag.txt','w');
+fprintf(fid, 'VOR-v2 LSMOP6 s1: IGD=%.4f PPS=%d fast=%d mech=%s GDVK=%d\n', i1, size(R.F,1), f1, m1, gdvk);
+fprintf(fid, 'IGD: g20=%.4f g50=%.4f g100=%.4f g150=%.4f g200=%.4f\n', i20, i50, i100, i150, i200);
+fclose(fid);
+disp('lsmop6 diag written');

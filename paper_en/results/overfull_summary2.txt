@@ -1,0 +1,13 @@
+Overfull count: 5
+  Overfull \hbox (17.19368pt too wide) in paragraph at lines 139--163
+[]\T1/cmr/m/n/12 (-20)
+  Overfull \hbox (21.65094pt too wide) in paragraph at lines 197--202
+\T1/cmr/m/n/12 (-20) ED
+  Overfull \hbox (2.0238pt too wide) in paragraph at lines 214--220
+\T1/cmr/m/it/12 (-20) cod
+  Overfull \hbox (36.97041pt too wide) detected at line 392
+[][][][] \OT1/cmr/m/n/12 = []
+ []
+  Overfull \hbox (63.50545pt too wide) in paragraph at lines 828--833
+[]\T1/cmr/m/n/12 (-20)
+mainF.pdf: 2324877 bytes

@@ -1,0 +1,6 @@
+MaF14 c0 = 0
+point 1 c=0
+point 2 c=0
+point 3 c=0
+point 4 c=0
+point 5 c=0

@@ -1,0 +1,188 @@
+% tables.tex — EDD large-scale manuscript tables
+% Compile with \input{tables} inside a \begin{document} that loads
+% booktabs, siunitx (optional) and graphicx.
+%
+% NOTE: this file bundles all six tables for convenience. The manuscript
+% `main.tex` does NOT input this file; it inputs the individual files
+%   tables_ranks.tex, tables_igd.tex, tables_hv.tex,
+%   tables_ablation.tex, tables_conv.tex
+% so that each table appears at the appropriate point in the text.
+% If you edit a table, edit the corresponding split file; keep this bundle
+% in sync only if you need the standalone version.
+
+% ============================================================
+% Table 1: Friedman mean ranks over the 10 large-scale instances
+% ============================================================
+\begin{table*}[t]
+\centering
+\caption{Friedman mean ranks over the 10 large-scale instances
+(LSMOP1--9 with $M=3$, $D=300$, plus DTLZ2-300D-M3), 11 algorithms,
+30 independent seeds per cell. Lower is better in all three columns; the
+best value in each column is set in bold. ``Combined'' is the arithmetic
+mean of the IGD and HV ranks.}
+\label{tab:ranks}
+\begin{tabular}{lccc}
+\toprule
+Algorithm & IGD rank & HV rank & Combined rank \\
+\midrule
+\textbf{EDD (ours)} & \textbf{4.45} (2nd) & \textbf{4.25} (1st, tied) & \textbf{4.35} (1st) \\
+MOEAD               & 4.20 (1st)          & 5.65 (5th)               & 4.93 (2nd) \\
+MOGWO               & 4.85 (3rd)          & 5.35 (3rd)               & 5.10 (3rd) \\
+HCEA                & 6.85 (9th)          & \textbf{4.25} (1st, tied) & 5.55 (4th) \\
+RVEA                & 5.70 (5th)          & 5.45 (4th)               & 5.58 (5th) \\
+AGEMOEA             & 5.50 (4th)          & 6.45 (7th)               & 5.98 (6th) \\
+NSGA-III            & 5.90 (6th)          & 7.05 (9th)               & 6.48 (7th) \\
+SPEA2               & 6.75 (7th)          & 6.25 (6th)               & 6.50 (8th) \\
+NSGA-II             & 7.10 (10th)         & 6.45 (7th)               & 6.78 (9th) \\
+SMSEMOA             & 6.75 (7th)          & 7.80 (11th)              & 7.28 (10th) \\
+HCEAV4              & 7.95 (11th)         & 7.05 (9th)               & 7.50 (11th) \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+% ============================================================
+% Table 2: Per-problem IGD
+% ============================================================
+\begin{table*}[t]
+\centering
+\caption{Per-problem IGD (median over 30 seeds; lower is better) on the
+10 large-scale instances. Best value per row in bold. EDD ranks 1st on
+5 of the 10 instances and 9th--11th on the three instances
+(LSMOP2/4/8) on which every algorithm converges.}
+\label{tab:igd}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrrrrrrrrr}
+\toprule
+Problem & EDD & HCEA & HCEAV4 & NSGA-II & NSGA-III & SPEA2 & AGEMOEA & SMSEMOA & MOGWO & RVEA & MOEAD \\
+\midrule
+LSMOP1        & \textbf{0.86} & 2.69 & 2.69 & 4.41 & 2.71 & 3.93 & 4.28 & 2.70 & \textbf{0.86} & 3.69 & 3.12 \\
+LSMOP2        & 0.43 & 0.15 & 0.15 & 0.11 & 0.17 & \textbf{0.09} & 0.12 & 0.36 & 0.40 & \textbf{0.09} & \textbf{0.09} \\
+LSMOP3        & \textbf{0.86} & 14.48 & 14.48 & 13.91 & 10.31 & 15.91 & 11.04 & 10.57 & 9.32 & 12.00 & 7.20 \\
+LSMOP4        & 0.48 & 0.32 & 0.32 & 0.29 & 0.34 & 0.27 & 0.32 & 0.51 & 0.45 & \textbf{0.26} & 0.27 \\
+LSMOP5        & \textbf{0.94} & 11.70 & 11.70 & 10.60 & 7.84 & 9.90 & 4.72 & 5.26 & \textbf{0.94} & 8.07 & 3.62 \\
+LSMOP6        & \textbf{1.63} & 2660.25 & 2660.25 & 1087.19 & 394.87 & 934.82 & 232.24 & 219.30 & \textbf{1.63} & 843.04 & 14.76 \\
+LSMOP7        & 1.33 & 1.11 & 1.11 & 1.62 & 5626.53 & 1.74 & 1.45 & 7429.95 & \textbf{1.21} & 1.32 & 1.37 \\
+LSMOP8        & 0.94 & 0.71 & 0.71 & 0.98 & 0.68 & 0.72 & 0.70 & 8.88 & 0.74 & \textbf{0.65} & 0.72 \\
+LSMOP9        & \textbf{1.55} & 30.55 & 30.55 & 10.26 & 11.51 & 11.95 & 10.02 & 10.53 & \textbf{1.55} & 34.42 & 4.46 \\
+DTLZ2-300D-M3 & \textbf{0.74} & 6.81 & 6.81 & 1.97 & 1.87 & 1.90 & 1.87 & 1.35 & 5.96 & 2.45 & 4.25 \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+% ============================================================
+% Table 3: Per-problem HV
+% ============================================================
+\begin{table*}[t]
+\centering
+\caption{Per-problem HV (median over 30 seeds; higher is better) on the
+10 large-scale instances. On five instances (LSMOP1/3/5/9 and
+DTLZ2-300D-M3) every algorithm except EDD (and MOGWO on LSMOP1/5/9)
+attains $HV=0$, i.e.\ fails to converge within the budget. On LSMOP6 and
+LSMOP7 the metric degenerates to $HV=0$ for \emph{all} eleven algorithms,
+so the aggregate HV rank is a tie there.}
+\label{tab:hv}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrrrrrrrrr}
+\toprule
+Problem & EDD & HCEA & HCEAV4 & NSGA-II & NSGA-III & SPEA2 & AGEMOEA & SMSEMOA & MOGWO & RVEA & MOEAD \\
+\midrule
+LSMOP1        & \textbf{0.124} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0.120 & 0 & 0 \\
+LSMOP2        & 0.435 & 0.906 & 0.906 & 0.984 & 0.820 & \textbf{1.012} & 0.938 & 0.635 & 0.463 & 1.014 & 1.010 \\
+LSMOP3        & \textbf{0.120} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+LSMOP4        & 0.381 & 0.566 & 0.566 & 0.666 & 0.543 & 0.719 & 0.577 & 0.406 & 0.330 & \textbf{0.737} & 0.725 \\
+LSMOP5        & \textbf{0.121} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & \textbf{0.121} & 0 & 0 \\
+LSMOP6        & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+LSMOP7        & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+LSMOP8        & 0.121 & 0.041 & 0.041 & 0.037 & 0.040 & 0.035 & 0.045 & 0 & \textbf{0.132} & 0.048 & 0.057 \\
+LSMOP9        & \textbf{0.536} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & \textbf{0.536} & 0 & 0 \\
+DTLZ2-300D-M3 & \textbf{0.033} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+% ============================================================
+% Table 4: Component ablation
+% ============================================================
+\begin{table}[t]
+\centering
+\caption{Component ablation of EDD (5 seeds per cell, $N=100$, $G=200$).
+\texttt{full} reproduces the released EDD v12 exactly. \texttt{no-EED}
+forces the APD/SMS path at $D\ge100$; \texttt{no-DSG} keeps EED selection but
+replaces the DSG offspring operator with SBX; \texttt{no-polish} disables the
+polish-HV step. Median IGD, with the factor relative to \texttt{full} in
+parentheses. EED is individually necessary on the collapse instances and
+individually \emph{harmful} on the converged instance (LSMOP2).}
+\label{tab:ablation}
+\begin{tabular}{lrrr}
+\toprule
+Variant & LSMOP6 & LSMOP9 & LSMOP2 \\
+\midrule
+\textbf{full EDD}      & \textbf{1.631} & \textbf{1.548} & 0.4249 \\
+no-EED (APD at $D{=}300$) & 4716 ($2892\times$) & 42.62 ($27.5\times$) & \textbf{0.1027} ($0.24\times$) \\
+no-DSG (SBX offspring) & 224.2 ($137\times$) & 9.075 ($5.9\times$) & 0.4833 ($1.14\times$) \\
+no-polish              & 1.631 ($1.00\times$) & 1.548 ($1.00\times$) & 0.3983 ($0.94\times$) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% ============================================================
+% Table 5: Convergence behaviour (budget sweep)
+% ============================================================
+\begin{table*}[t]
+\centering
+\caption{Convergence behaviour: median IGD at three budget levels, obtained
+by re-running each algorithm at $G\in\{25,50,100,150,200\}$ with 3 seeds per
+point under an identical protocol. On LSMOP6, EDD reaches its final value at
+$G=25$; on LSMOP2, EDD's IGD \emph{degrades} monotonically over the budget,
+the only degrading trajectory in the table.}
+\label{tab:conv}
+\setlength{\tabcolsep}{5pt}
+\begin{tabular}{lrrrrrr}
+\toprule
+& \multicolumn{3}{c}{LSMOP6 (collapse)} & \multicolumn{3}{c}{LSMOP2 (converged)} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+Algorithm & $G{=}25$ & $G{=}100$ & $G{=}200$ & $G{=}25$ & $G{=}100$ & $G{=}200$ \\
+\midrule
+\textbf{EDD}   & \textbf{1.629} & \textbf{1.629} & \textbf{1.629} & 0.3321 & 0.4194 & 0.4249 \\
+MOGWO          & 2580   & 1.70   & 1.633  & 0.1253 & 0.3411 & 0.3327 \\
+MOEAD          & 7148   & 413.8  & 10.87  & \textbf{0.0985} & \textbf{0.0923} & \textbf{0.0919} \\
+RVEA           & 12430  & 2111   & 777.7  & 0.0962 & 0.0945 & 0.0929 \\
+AGEMOEA        & 6678   & 601.7  & 200.6  & 0.1172 & 0.1181 & 0.1129 \\
+SPEA2          & 10080  & 2916   & 1360   & 0.0954 & 0.0952 & 0.0940 \\
+SMSEMOA        & 6931   & 1477   & 258.3  & 0.1381 & 0.1382 & 0.4429 \\
+NSGA-II        & 12930  & 2656   & 1514   & 0.1070 & 0.1066 & 0.1100 \\
+NSGA-III       & 8536   & 1078   & 426.9  & 0.1166 & 0.1614 & 0.1448 \\
+HCEA / HCEAV4  & 10020  & 2849   & 3613   & 0.1359 & 0.1580 & 0.1792 \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+% ============================================================
+% Table 6: Wilcoxon + Holm
+% ============================================================
+\begin{table}[t]
+\centering
+\caption{Problem-level Wilcoxon signed-rank tests (10 paired per-problem
+medians, EDD vs.\ each baseline) with Holm--Bonferroni correction over the
+10 comparisons. All exact $p$-values saturate at $1.0$ because with $n=10$
+blocks the test has negligible power; we report this as a power limitation,
+not as evidence of equivalence. Win/lose counts on per-problem IGD are given
+for context.}
+\label{tab:wilcoxon}
+\begin{tabular}{lrrr}
+\toprule
+Baseline & IGD win/lose & HV win/lose/tie & IGD $p$ (Holm) \\
+\midrule
+HCEA     & 6/4 & 6/2/2 & 1.0 \\
+HCEAV4   & 6/4 & 6/2/2 & 1.0 \\
+NSGA-II  & 8/2 & 6/2/2 & 1.0 \\
+NSGA-III & 7/3 & 6/2/2 & 1.0 \\
+SPEA2    & 7/3 & 6/2/2 & 1.0 \\
+AGEMOEA  & 7/3 & 6/2/2 & 1.0 \\
+SMSEMOA  & 9/1 & 6/2/2 & 1.0 \\
+MOGWO    & 3/5 & 4/2/4 & 1.0 \\
+RVEA     & 6/4 & 6/2/2 & 1.0 \\
+MOEAD    & 7/3 & 6/2/2 & 1.0 \\
+\bottomrule
+\end{tabular}
+\end{table}

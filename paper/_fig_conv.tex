@@ -1,0 +1,22 @@
+% _fig_conv.tex — Figure 1: convergence curves
+\begin{figure*}[t]
+\centering
+\includegraphics[width=0.38\textwidth]{conv_LSMOP6.png}
+\hfill
+\includegraphics[width=0.38\textwidth]{conv_LSMOP2.png}
+\caption{Convergence behaviour (median IGD over 3 seeds, log scale, as a
+function of function evaluations). \textbf{Left}, LSMOP6 (collapse
+instance): EDD reaches its final IGD of $1.629$ already at $G=25$ and
+does not improve further, whereas MOGWO --- its only competitor in final
+quality --- needs the full 200 generations to reach $1.633$, and every
+other algorithm remains two to three orders of magnitude away at the full
+budget. \textbf{Right}, LSMOP2 (converged instance): EDD's IGD
+\emph{degrades} monotonically over the budget
+($0.3321 \to 0.4194 \to 0.4249$) while MOEAD and RVEA improve slightly
+and stay near $0.09$. This is the trajectory-level signature of the
+ablation result (b): the EED path does not merely fail to help on LSMOP2,
+it actively pulls the population off the front as generations accumulate.
+No other algorithm in the study exhibits a degrading trajectory on this
+instance.}
+\label{fig:conv}
+\end{figure*}

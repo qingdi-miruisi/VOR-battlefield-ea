@@ -1,0 +1,35 @@
+% tables_lsmop_ranks.tex - EDDV8+8trad+3SOTA (12 alg), LSMOP1-9
+\begin{table*}[t]
+\centering
+\caption{Friedman mean ranks over the nine LSMOP instances (M=3, D=300),
+12 algorithms = \textbf{EDDV8 (ours, grafted)} + eight traditional
+baselines (NSGA-II/III, MOEAD, SPEA2, SMS-EMOA, RVEA, AGE-MOEA, MOGWO) +
+three 2026 state-of-the-art methods (FDSEA, GDVTSF, MOEA-IB); 30
+independent seeds per cell. Lower is better; bold = best. The 2026 SOTA
+methods are the strongest on this family; EDDV8 ties the original EDD at
+rank 4--5 (IGD 5th / HV 4th combined), ahead of all eight traditional
+baselines but behind the SOTA trio.}
+\label{tab:lsmop_ranks}
+\resizebox{0.98\textwidth}{!}{%
+\footnotesize
+\setlength{\tabcolsep}{5pt}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Algorithm} & \textbf{IGD rank} & \textbf{HV rank} & \textbf{Combined rank} \\
+\midrule
+\textbf{EDDV8 (ours)} & 6.389 & 5.611 & 6.000 \\
+MOEAD & 5.944 & 6.167 & 6.056 \\
+MOGWO & 6.611 & 7.278 & 6.944 \\
+NSGA2 & 9.944 & 8.389 & 9.167 \\
+NSGA3 & 8.833 & 8.833 & 8.833 \\
+RVEA & 7.500 & 7.278 & 7.389 \\
+SMSEMOA & 9.056 & 9.056 & 9.056 \\
+SPEA2 & 9.278 & 8.167 & 8.722 \\
+AGEMOEA & 7.944 & 8.167 & 8.056 \\
+FDSEA & \textbf{1.500} & \textbf{2.056} & \textbf{1.778} \\
+GDVTSF & 2.611 & 3.833 & 3.222 \\
+MOEA-IB & 2.389 & 3.167 & 2.778 \\
+\bottomrule
+\end{tabular}
+}
+\end{table*}

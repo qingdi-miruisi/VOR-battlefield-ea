@@ -1,0 +1,5 @@
+560: ! Missing $ inserted.
+568: ! Missing $ inserted.
+576: ! Missing } inserted.
+587: ! Extra }, or forgotten \endgroup.
+770: Output written on mainG.pdf (20 pages, 2326890 bytes).

@@ -1,0 +1,4 @@
+﻿CF1: M=2 D=10 nCon=1 PF����=500 Լ��ֵ=0.151215
+CF1 s1 EDD_cf highDim=1 hasCon=1 mechanism=SMS switchGen=100
+CF1 s1 EDD_cf IGD=0.0805 HV=0.5701 nFE=20215 PPS=24 elap=1.5s
+>>> EED ���������ã�highDim=true��Լ���� D>=10 ǿ�� EED��

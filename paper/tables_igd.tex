@@ -1,0 +1,28 @@
+% tables_igd.tex — per-problem IGD (Table 2)
+\begin{table*}[t]
+\centering
+\caption{Per-problem IGD (median over 30 seeds; lower is better) on the
+10 large-scale instances. Best value per row in bold. EDD ranks 1st on
+5 of the 10 instances and 9th--11th on the three instances
+(LSMOP2/4/8) on which every algorithm converges.}
+\label{tab:igd}
+\setlength{\tabcolsep}{2.5pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrrrrrrrrr}
+\toprule
+\textbf{Problem} & \textbf{EDD} & \textbf{HCEA} & \textbf{HCEAV4} & \textbf{NSGA-II} & \textbf{NSGA-III} & \textbf{SPEA2} & \textbf{AGEMOEA} & \textbf{SMSEMOA} & \textbf{MOGWO} & \textbf{RVEA} & \textbf{MOEAD} \\
+\midrule
+LSMOP1 & \textbf{0.86} & 2.69 & 2.69 & 4.41 & 2.71 & 3.93 & 4.28 & 2.70 & \textbf{0.86} & 3.69 & 3.12 \\
+LSMOP2 & 0.43 & 0.15 & 0.15 & 0.11 & 0.17 & \textbf{0.09} & 0.12 & 0.36 & 0.40 & \textbf{0.09} & \textbf{0.09} \\
+LSMOP3 & \textbf{0.86} & 14.48 & 14.48 & 13.91 & 10.31 & 15.91 & 11.04 & 10.57 & 9.32 & 12.00 & 7.20 \\
+LSMOP4 & 0.48 & 0.32 & 0.32 & 0.29 & 0.34 & 0.27 & 0.32 & 0.51 & 0.45 & \textbf{0.26} & 0.27 \\
+LSMOP5 & \textbf{0.94} & 11.70 & 11.70 & 10.60 & 7.84 & 9.90 & 4.72 & 5.26 & \textbf{0.94} & 8.07 & 3.62 \\
+LSMOP6 & \textbf{1.63} & 2660.25 & 2660.25 & 1087.19 & 394.87 & 934.82 & 232.24 & 219.30 & \textbf{1.63} & 843.04 & 14.76 \\
+LSMOP7 & 1.33 & 1.11 & 1.11 & 1.62 & 5626.53 & 1.74 & 1.45 & 7429.95 & \textbf{1.21} & 1.32 & 1.37 \\
+LSMOP8 & 0.94 & 0.71 & 0.71 & 0.98 & 0.68 & 0.72 & 0.70 & 8.88 & 0.74 & \textbf{0.65} & 0.72 \\
+LSMOP9 & \textbf{1.55} & 30.55 & 30.55 & 10.26 & 11.51 & 11.95 & 10.02 & 10.53 & \textbf{1.55} & 34.42 & 4.46 \\
+DTLZ2-300D-M3 & \textbf{0.74} & 6.81 & 6.81 & 1.97 & 1.87 & 1.90 & 1.87 & 1.35 & 5.96 & 2.45 & 4.25 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

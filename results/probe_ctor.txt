@@ -1,0 +1,2 @@
+MaF14 M=3 D=60 NBIok=1
+CF1 M=2 D=10 NBIok=1

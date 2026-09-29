@@ -1,0 +1,115 @@
+﻿EDD      IGD��=9/9 HV��=9/9
+HCEA     IGD��=9/9 HV��=9/9
+HCEAV4   IGD��=9/9 HV��=9/9
+MOEAD    IGD��=9/9 HV��=9/9
+MOGWO    IGD��=9/9 HV��=9/9
+NSGA2    IGD��=9/9 HV��=9/9
+NSGA3    IGD��=9/9 HV��=9/9
+RVEA     IGD��=9/9 HV��=9/9
+SMSEMOA  IGD��=9/9 HV��=9/9
+SPEA2    IGD��=9/9 HV��=9/9
+AGEMOEA  IGD��=9/9 HV��=9/9
+FDSEA    IGD��=9/9 HV��=9/9
+GDVTSF   IGD��=9/9 HV��=9/9
+MOEA-IB  IGD��=9/9 HV��=9/9
+
+13 �㷨ȫ�������: 9/9
+
+=== IGD Friedman��9 �⣬13 �㷨��С=�ã�===
+  1. FDSEA    ��=1.500
+  2. MOEA-IB  ��=2.389
+  3. GDVTSF   ��=2.611
+  4. MOEAD    ��=6.722
+  5. EDD      ��=7.333
+  6. MOGWO    ��=7.389
+  7. RVEA     ��=8.167
+  8. AGEMOEA  ��=8.389
+  9. NSGA3    ��=9.389
+  10. HCEA     ��=9.667
+  11. SPEA2    ��=10.000
+  12. SMSEMOA  ��=10.389
+  13. NSGA2    ��=10.500
+  14. HCEAV4   ��=10.556
+
+=== HV Friedman��9 �⣬13 �㷨��С=�ã�===
+  1. FDSEA    ��=2.167
+  2. MOEA-IB  ��=3.389
+  3. GDVTSF   ��=4.056
+  4. EDD      ��=6.111
+  5. RVEA     ��=7.944
+  6. HCEA     ��=8.000
+  7. MOGWO    ��=8.000
+  8. MOEAD    ��=8.167
+  9. AGEMOEA  ��=8.833
+  10. SPEA2    ��=8.944
+  11. NSGA2    ��=9.389
+  12. HCEAV4   ��=9.667
+  13. NSGA3    ��=9.667
+  14. SMSEMOA  ��=10.667
+
+=== �ۺ� Friedman��(IGD+HV)/2��С=�ã�===
+  1. FDSEA    ��=1.833
+  2. MOEA-IB  ��=2.889
+  3. GDVTSF   ��=3.333
+  4. EDD      ��=6.722
+  5. MOEAD    ��=7.444
+  6. MOGWO    ��=7.694
+  7. RVEA     ��=8.056
+  8. AGEMOEA  ��=8.611
+  9. HCEA     ��=8.833
+  10. SPEA2    ��=9.472
+  11. NSGA3    ��=9.528
+  12. NSGA2    ��=9.944
+  13. HCEAV4   ��=10.111
+  14. SMSEMOA  ��=10.528
+
+IGD Friedman stat=66.39 pval=3.676e-09
+
+=== ������λ IGD��С=�ã�===
+  FDSEA: EDD       HCEA      HCEAV4    MOEAD     MOGWO     NSGA2     NSGA3     RVEA      SMSEMOA   SPEA2     AGEMOEA   FDSEA     GDVTSF    MOEA-IB   
+  GDVTSF: EDD       HCEA      HCEAV4    MOEAD     MOGWO     NSGA2     NSGA3     RVEA      SMSEMOA   SPEA2     AGEMOEA   FDSEA     GDVTSF    MOEA-IB   
+  FDSEA: EDD       HCEA      HCEAV4    MOEAD     MOGWO     NSGA2     NSGA3     RVEA      SMSEMOA   SPEA2     AGEMOEA   FDSEA     GDVTSF    MOEA-IB   
+  FDSEA: EDD       HCEA      HCEAV4    MOEAD     MOGWO     NSGA2     NSGA3     RVEA      SMSEMOA   SPEA2     AGEMOEA   FDSEA     GDVTSF    MOEA-IB   
+  FDSEA: EDD       HCEA      HCEAV4    MOEAD     MOGWO     NSGA2     NSGA3     RVEA      SMSEMOA   SPEA2     AGEMOEA   FDSEA     GDVTSF    MOEA-IB   
+  FDSEA: EDD       HCEA      HCEAV4    MOEAD     MOGWO     NSGA2     NSGA3     RVEA      SMSEMOA   SPEA2     AGEMOEA   FDSEA     GDVTSF    MOEA-IB   
+  FDSEA: EDD       HCEA      HCEAV4    MOEAD     MOGWO     NSGA2     NSGA3     RVEA      SMSEMOA   SPEA2     AGEMOEA   FDSEA     GDVTSF    MOEA-IB   
+  FDSEA: EDD       HCEA      HCEAV4    MOEAD     MOGWO     NSGA2     NSGA3     RVEA      SMSEMOA   SPEA2     AGEMOEA   FDSEA     GDVTSF    MOEA-IB   
+  MOEA-IB: EDD       HCEA      HCEAV4    MOEAD     MOGWO     NSGA2     NSGA3     RVEA      SMSEMOA   SPEA2     AGEMOEA   FDSEA     GDVTSF    MOEA-IB   
+
+=== ���⼶ Wilcoxon��EDD vs ����9 �� IGD ��λ�===
+  EDD vs HCEA    : IGD win=5 lose=4 tie=0 p=1
+  EDD vs HCEAV4  : IGD win=5 lose=4 tie=0 p=1
+  EDD vs MOEAD   : IGD win=6 lose=3 tie=0 p=1
+  EDD vs MOGWO   : IGD win=2 lose=5 tie=2 p=1
+  EDD vs NSGA2   : IGD win=7 lose=2 tie=0 p=1
+  EDD vs NSGA3   : IGD win=6 lose=3 tie=0 p=1
+  EDD vs RVEA    : IGD win=5 lose=4 tie=0 p=1
+  EDD vs SMSEMOA : IGD win=8 lose=1 tie=0 p=1
+  EDD vs SPEA2   : IGD win=6 lose=3 tie=0 p=1
+  EDD vs AGEMOEA : IGD win=6 lose=3 tie=0 p=1
+  EDD vs FDSEA   : IGD win=0 lose=9 tie=0 p=1
+  EDD vs GDVTSF  : IGD win=0 lose=9 tie=0 p=1
+  EDD vs MOEA-IB : IGD win=0 lose=9 tie=0 p=1
+
+=== Holm-Bonferroni У����alpha=0.05��===
+  EDD vs HCEA    : p=1 ������
+  EDD vs HCEAV4  : p=1 ������
+  EDD vs MOEAD   : p=1 ������
+  EDD vs MOGWO   : p=1 ������
+  EDD vs NSGA2   : p=1 ������
+  EDD vs NSGA3   : p=1 ������
+  EDD vs RVEA    : p=1 ������
+  EDD vs SMSEMOA : p=1 ������
+  EDD vs SPEA2   : p=1 ������
+  EDD vs AGEMOEA : p=1 ������
+  EDD vs FDSEA   : p=1 ������
+  EDD vs GDVTSF  : p=1 ������
+  EDD vs MOEA-IB : p=1 ������
+
+=== EDD ����һ�ж���·��B��LSMOP1-9��===
+EDD IGD ��=7.333 (�� 5 �� / 14)
+EDD HV  ��=6.111 (�� 4 �� / 14)
+EDD �ۺ���=6.722 (�� 4 �� / 14)
+
+>>> EDD ��� IGD/HV/�ۺ� ȫ����һ �� �����׶�3��EDD ����һЭ�飩
+�Ѵ� results/friedman_13_lsmop.mat

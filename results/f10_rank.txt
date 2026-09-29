@@ -1,0 +1,19 @@
+﻿    {'probNames'}
+    {'algs'     }
+    {'igdTbl'   }
+    {'hvTbl'    }
+    {'igdRank'  }
+    {'hvRank'   }
+    {'combined' }
+    {'pAll'     }
+
+algs(11): EDD HCEA HCEAV4 NSGA2 NSGA3 SPEA2 AGEMOEA SMSEMOA MOGWO RVEA MOEAD 
+matlab.exe : {�޷�ʶ����ֶ����� "probs"��
+At line:1 char:129
++ ... ew($false); & "D:\matlab_2026a\bin\matlab.exe" -batch "cd('D:\harness ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ({�޷�ʶ����ֶ����� "probs"��:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+} 
+ERROR: MATLAB error Exit Status: 0x00000001

@@ -1,0 +1,24 @@
+﻿CF1: M=2 D=10 nCon=1 PF����=500  Լ��ֵ=0.151215
+matlab.exe : {����ʹ�� *
+At line:1 char:129
++ ... ew($false); & "D:\matlab_2026a\bin\matlab.exe" -batch "cd('D:\harness ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ({����ʹ�� *:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+���ھ���˷���ά�Ȳ���ȷ�����鲢ȷ����һ�������е�������ڶ��������е�����ƥ�䡣Ҫ�����Ծ����ÿ��Ԫ�ؽ������㣬��ʹ�� TIMES (.*)ִ�а�Ԫ����ˡ�
+
+���� pdist2 (�� 17 ��)
+        cosSim = NX * NY';
+                 ^^
+���� EDD/apdGeneration (�� 192 ��)
+            Angle = acos(max(-1,min(1,1-pdist2(PopObj,V,'cosine'))));
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^
+���� EDD/run (�� 58 ��)
+                    Pop = obj.apdGeneration(Problem, Pop, N, M, (gen/G)^obj.alpha);
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+���� smoke_cf1_edd (�� 21 ��)
+    [Pop, Res] = alg.run(wrap);
+                 ^^^^^^^^^^^^^
+} 
+ERROR: MATLAB error Exit Status: 0x00000001

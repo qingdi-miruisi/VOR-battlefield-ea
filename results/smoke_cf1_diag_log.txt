@@ -1,0 +1,16 @@
+﻿M=2  Pop.objs size = [100 x 1]
+Pop.cons size = [100 x 1]
+F size = [100 x 1]  M=2
+matlab.exe : {������������Ԫ�ص��������������ܳ��� 1��
+At line:1 char:129
++ ... ew($false); & "D:\matlab_2026a\bin\matlab.exe" -batch "cd('D:\harness ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ({������������Ԫ�ص��������������ܳ��� 1��:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+���� smoke_cf1_diag (�� 21 ��)
+        Fmin(1), Fmin(2), Fmax(1), Fmax(2), width(1), width(2), epsv(1), epsv(2));
+                 ^^^^^^^
+} 
+ERROR: MATLAB error Exit Status: 0x00000001

@@ -1,0 +1,8 @@
+T1/cmtt/bx/n warnings: 1
+context: /n/12 (-20) with the anonymized repos-i
+-tory, e.g. an \T1/cmtt/m/n/12 anonymous.4open.science
+ []
+
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
+(Font)  
+---

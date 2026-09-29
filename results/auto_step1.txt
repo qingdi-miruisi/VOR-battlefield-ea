@@ -1,0 +1,11 @@
+git: [git version 2.55.0.windows.3]
+gh: ['gh' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���]
+gh auth status (exit=):
+'gh' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+
+GITHUB_TOKEN=[%GITHUB_TOKEN%]
+
+GH_TOKEN=[%GH_TOKEN%]
+

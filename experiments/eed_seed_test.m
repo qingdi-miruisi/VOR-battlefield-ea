@@ -1,0 +1,15 @@
+cd('D:\harness工作\中国科学：数学(总)\算法\algorithm');
+addpath('problems'); addpath('problems\wfg_toolbox');
+addpath('problems_official'); addpath('problems_official\MaF');
+addpath('algorithms'); addpath('algorithms\utils');
+clear classes;
+prob = OfficialProblem('MaF14', 3, 30);
+PF = prob.ParetoFront(500);
+s1 = EDD(100, 200, 1).optimize(prob);
+s2 = EDD(100, 200, 2).optimize(prob);
+s5 = EDD(100, 200, 5).optimize(prob);
+i1 = IGD(s1.F, PF); i2 = IGD(s2.F, PF); i5 = IGD(s5.F, PF);
+p1 = size(s1.F, 1); p2 = size(s2.F, 1); p5 = size(s5.F, 1);
+fprintf('EDD MaF14 s1: IGD=%.6f PPS=%d\n', i1, p1);
+fprintf('EDD MaF14 s2: IGD=%.6f PPS=%d\n', i2, p2);
+fprintf('EDD MaF14 s5: IGD=%.6f PPS=%d\n', i5, p5);

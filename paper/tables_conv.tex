@@ -1,0 +1,32 @@
+% tables_conv.tex — convergence behaviour (Table 5)
+\begin{table*}[t]
+\centering
+\caption{Convergence behaviour: median IGD at three budget levels, obtained
+by re-running each algorithm at $G\in\{25,50,100,150,200\}$ with 3 seeds per
+point under an identical protocol. On LSMOP6, EDD reaches its final value at
+$G=25$; on LSMOP2, EDD's IGD \emph{degrades} monotonically over the budget,
+the only degrading trajectory in the study.}
+\label{tab:conv}
+\setlength{\tabcolsep}{4pt}
+\small
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrrrr}
+\toprule
+& \multicolumn{3}{c}{\textbf{LSMOP6 (collapse)}} & \multicolumn{3}{c}{\textbf{LSMOP2 (converged)}} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+\textbf{Algorithm} & \textbf{$G{=}25$} & \textbf{$G{=}100$} & \textbf{$G{=}200$} & \textbf{$G{=}25$} & \textbf{$G{=}100$} & \textbf{$G{=}200$} \\
+\midrule
+\textbf{EDD} & \textbf{1.629} & \textbf{1.629} & \textbf{1.629} & 0.3321 & 0.4194 & 0.4249 \\
+MOGWO & 2580 & 1.70 & 1.633 & 0.1253 & 0.3411 & 0.3327 \\
+MOEAD & 7148 & 413.8 & 10.87 & \textbf{0.0985} & \textbf{0.0923} & \textbf{0.0919} \\
+RVEA & 12430 & 2111 & 777.7 & 0.0962 & 0.0945 & 0.0929 \\
+AGEMOEA & 6678 & 601.7 & 200.6 & 0.1172 & 0.1181 & 0.1129 \\
+SPEA2 & 10080 & 2916 & 1360 & 0.0954 & 0.0952 & 0.0940 \\
+SMSEMOA & 6931 & 1477 & 258.3 & 0.1381 & 0.1382 & 0.4429 \\
+NSGA-II & 12930 & 2656 & 1514 & 0.1070 & 0.1066 & 0.1100 \\
+NSGA-III & 8536 & 1078 & 426.9 & 0.1166 & 0.1614 & 0.1448 \\
+HCEA / HCEAV4 & 10020 & 2849 & 3613 & 0.1359 & 0.1580 & 0.1792 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

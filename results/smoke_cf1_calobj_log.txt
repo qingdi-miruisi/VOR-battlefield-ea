@@ -1,0 +1,3 @@
+﻿CF1 CalObj ���� size = [1 x 1]��M ӦΪ 2��
+CF1 �ٷ� Evaluation ���أ�
+  Pop.decs=[1 x 10]  Pop.objs=[1 x 2]  Pop.cons=[1 x 1]

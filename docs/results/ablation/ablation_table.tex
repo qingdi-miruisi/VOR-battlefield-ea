@@ -1,0 +1,28 @@
+\begin{table}[t]
+\centering
+\caption{Ablation study of HCEA design choices (30 seeds, $N=100$, maxGen $=200$; IGD vs ParetoFront(500), HV vs $1.1\times\max(\mathrm{PF})$). The best value in each column is in bold; the row below each variant shows the change relative to HCEA ($\downarrow$/$\uparrow$ = better for IGD/HV, respectively).}
+\label{tab:ablation}
+\begin{tabular}{lcccc}
+\toprule
+Variant & ZDT1 IGD & ZDT1 HV & DTLZ2 IGD & DTLZ2 HV \\
+\midrule
+HCEA (main) & $0.0037 \pm 3.2e-5$ & $0.8716$ & $0.0057 \pm 2.0e-4$ & $0.4209$ \\
+HCEA-A1 (tournament mating) & $0.0039 \pm 1.2e-3$ & $0.8713$ & $0.0058 \pm 2.4e-4$ & $0.4209$ \\
+\hspace{1.4em}$\Delta$ vs HCEA & $\uparrow$ & $\downarrow$ & $\uparrow$ & $\uparrow$ \\
+HCEA-B1 (HV top-N one-shot) & $0.0445 \pm 7.5e-2$ & $0.8330$ & $0.0040 \pm 2.5e-5$ & $0.4200$ \\
+\hspace{1.4em}$\Delta$ vs HCEA & $\uparrow$ & $\downarrow$ & $\downarrow$ & $\downarrow$ \\
+HCEA-C1 (adaptive vectors) & $0.0037 \pm 3.8e-5$ & $0.8715$ & $0.0057 \pm 2.1e-4$ & $0.4209$ \\
+\hspace{1.4em}$\Delta$ vs HCEA & $\uparrow$ & $\downarrow$ & $\uparrow$ & $\downarrow$ \\
+HCEA-D1 (0.7G fixed switch) & $0.0038 \pm 5.3e-5$ & $0.8711$ & $0.0057 \pm 2.0e-4$ & $0.4209$ \\
+\hspace{1.4em}$\Delta$ vs HCEA & $\uparrow$ & $\downarrow$ & $\uparrow$ & $\downarrow$ \\
+HCEA-D2 (0.5G fixed switch) & $0.0037 \pm 3.2e-5$ & $0.8716$ & $0.0057 \pm 2.0e-4$ & $0.4209$ \\
+\hspace{1.4em}$\Delta$ vs HCEA & $=$ & $=$ & $=$ & $=$ \\
+HCEA-D3 (all-APD) & $0.0067 \pm 1.0e-3$ & $0.8645$ & \textbf{$0.0040 \pm 1.7e-5$} & $0.4200$ \\
+\hspace{1.4em}$\Delta$ vs HCEA & $\uparrow$ & $\downarrow$ & $\downarrow$ & $\downarrow$ \\
+HCEA-D4 (all-SMS) & \textbf{$0.0037 \pm 2.7e-5$} & \textbf{$0.8719$} & $0.0058 \pm 2.2e-4$ & \textbf{$0.4210$} \\
+\hspace{1.4em}$\Delta$ vs HCEA & $\downarrow$ & $\uparrow$ & $\uparrow$ & $\uparrow$ \\
+\midrule
+\multicolumn{5}{l}{\footnotesize Arrows: for IGD columns $\downarrow$ = lower IGD (better), $\uparrow$ = higher (worse); for HV columns $\uparrow$ = higher HV (better), $\downarrow$ = lower (worse).}\\
+\bottomrule
+\end{tabular}
+\end{table}

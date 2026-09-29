@@ -1,0 +1,17 @@
+cd('D:\harness工作\中国科学：数学(总)\算法\algorithm');
+f1 = 'results/vor2_bench/VOR_MaF14_s1.mat';
+vv1 = load(f1);
+vorIgd1 = vv1.igd;
+vorPps1 = vv1.pps;
+vorFast1 = vv1.R.fastPath;
+vorMech1 = vv1.R.mechanism;
+vorIg5 = vv1.R.igdHistory(5);
+vorIg20 = vv1.R.igdHistory(20);
+vorIg50 = vv1.R.igdHistory(50);
+vorIg100 = vv1.R.igdHistory(100);
+vorIg200 = vv1.R.igdHistory(200);
+fid = fopen('results/vor2_ma14_diag.txt','w');
+fprintf(fid, 'VOR-v2 MaF14 s1: IGD=%.4f PPS=%d fast=%d mech=%s\n', vorIgd1, vorPps1, vorFast1, vorMech1);
+fprintf(fid, 'IGD traj: g5=%.3f g20=%.3f g50=%.3f g100=%.3f g200=%.3f\n', vorIg5, vorIg20, vorIg50, vorIg100, vorIg200);
+fclose(fid);
+disp('diag written');

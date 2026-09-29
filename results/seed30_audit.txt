@@ -1,0 +1,1 @@
+total .mat in vor2_bench: 900 (expect 900 = 30seed x 5algo x 6prob)

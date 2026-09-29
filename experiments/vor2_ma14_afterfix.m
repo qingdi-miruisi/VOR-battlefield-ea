@@ -1,0 +1,24 @@
+cd('D:\harness工作\中国科学：数学(总)\算法\algorithm');
+addpath('experiments');
+addpath('problems'); addpath('problems\wfg_toolbox');
+addpath('problems_official'); addpath('problems_official\MaF');
+addpath('algorithms'); addpath('algorithms\utils');
+clear classes; clear VOR;
+
+prob = OfficialProblem('MaF14', 3, 30);
+PF = prob.ParetoFront(500);
+alg = VOR(100, 200, 1);
+[Pop, R] = alg.optimize(prob);
+i1 = IGD(R.F, PF);
+f1 = R.fastPath;
+m1 = R.mechanism;
+i5 = R.igdHistory(5);
+i20 = R.igdHistory(20);
+i50 = R.igdHistory(50);
+i100 = R.igdHistory(100);
+i200 = R.igdHistory(200);
+fid = fopen('results/vor2_ma14_afterfix.txt','w');
+fprintf(fid, 'VOR-v2 MaF14 s1 (post fastPath-fix): IGD=%.4f PPS=%d fast=%d mech=%s\n', i1, size(R.F,1), f1, m1);
+fprintf(fid, 'IGD: g5=%.4f g20=%.4f g50=%.4f g100=%.4f g200=%.4f\n', i5, i20, i50, i100, i200);
+fclose(fid);
+disp('ma14 afterfix written');

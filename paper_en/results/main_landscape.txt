@@ -1,0 +1,1 @@
+main table old1 not found; using alt approach\n

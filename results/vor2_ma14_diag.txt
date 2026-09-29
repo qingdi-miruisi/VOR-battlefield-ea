@@ -1,0 +1,2 @@
+VOR-v2 MaF14 s1: IGD=1.0664 PPS=15 fastPath=0 mech=APD
+IGD trajectory: g5=18.603 g10=12.384 g20=8.659 g45=5.131 g50=4.766 g100=2.008 g200=1.064

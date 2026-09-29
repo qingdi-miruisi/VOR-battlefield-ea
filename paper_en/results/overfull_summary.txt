@@ -1,0 +1,44 @@
+total Overfull: 7
+  Overfull \hbox (17.19368pt too wide) in paragraph at lines 139--163
+[]\T1/cmr/m/n
+  Overfull \hbox (21.65094pt too wide) in paragraph at lines 197--202
+\T1/cmr/m/n/1
+  Overfull \hbox (2.0238pt too wide) in paragraph at lines 214--220
+\T1/cmr/m/it/12
+  Overfull \hbox (37.2447pt too wide) in paragraph at lines 341--347
+\T1/cmr/m/it/1
+  Overfull \hbox (36.97041pt too wide) detected at line 392
+[][][][] \OT1/cmr/m/n/1
+  Overfull \hbox (14.04846pt too wide) in paragraph at lines 724--736
+ [][] 
+ []
+
+<
+  Overfull \hbox (63.50545pt too wide) in paragraph at lines 827--832
+[]\T1/cmr/m/n
+
+mainF.pdf: 2321600 bytes
+
+=== re-compile #2 ===
+  Overfull \hbox (17.19368pt too wide) in paragraph at lines 139--163
+[]\T1/cmr/m/n/12 (-20) A com-ple-
+  Overfull \hbox (21.65094pt too wide) in paragraph at lines 197--202
+\T1/cmr/m/n/12 (-20) EDD's fixed
+  Overfull \hbox (2.0238pt too wide) in paragraph at lines 214--220
+\T1/cmr/m/it/12 (-20) codebase \T1/
+  Overfull \hbox (37.2447pt too wide) in paragraph at lines 341--347
+\T1/cmr/m/it/12 (-20) Gating: \T1/
+  Overfull \hbox (36.97041pt too wide) detected at line 392
+[][][][] \OT1/cmr/m/n/12 = []
+ []
+
+[7]
+
+LaT
+  Overfull \hbox (14.04846pt too wide) in paragraph at lines 724--736
+ [][] 
+ []
+
+<../results/figs/out/
+  Overfull \hbox (63.50545pt too wide) in paragraph at lines 827--832
+[]\T1/cmr/m/n/12 (-20) All \T1/cm

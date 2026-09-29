@@ -1,0 +1,2 @@
+654: ! Missing $ inserted.
+750: Output written on main.pdf (22 pages, 2549000 bytes).

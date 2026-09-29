@@ -1,0 +1,6 @@
+563: Overfull \hbox (17.19368pt too wide) in paragraph at lines 139--163
+569: Overfull \hbox (21.65094pt too wide) in paragraph at lines 197--202
+575: Overfull \hbox (2.0238pt too wide) in paragraph at lines 214--220
+604: Overfull \hbox (28.55656pt too wide) detected at line 389
+682: Overfull \hbox (6.97855pt too wide) in paragraph at lines 825--831
+739: Output written on mainG.pdf (19 pages, 2324917 bytes).

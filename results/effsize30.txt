@@ -1,0 +1,6 @@
+MaF14        r=+0.00  n_eff=0  mean_diff=+0.0000  rel_gap=+0.0%
+CF1          r=-0.87  n_eff=30  mean_diff=-0.0245  rel_gap=-28.1%
+ZDT1         r=-0.53  n_eff=30  mean_diff=-0.0002  rel_gap=-4.2%
+LSMOP1       r=-1.00  n_eff=30  mean_diff=-0.1522  rel_gap=-17.7%
+DTLZ2_300D   r=-0.33  n_eff=30  mean_diff=+0.0108  rel_gap=+1.5%
+LSMOP6       r=-0.40  n_eff=30  mean_diff=-0.0225  rel_gap=-1.4%

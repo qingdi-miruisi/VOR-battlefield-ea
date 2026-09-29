@@ -1,0 +1,35 @@
+688: (hyperref)                removing `math shift' on input line 891.
+689: 
+690: [18] [19 <../results/figs/out/fig3_friedman.pdf>]
+691: ! Missing $ inserted.
+692: <inserted text>
+693: $
+694: l.952 under \texttt{paper_en/}
+695: ).
+696: I've inserted a begin-math/end-math symbol since I think
+697: you left one out. Proceed, with fingers crossed.
+698: 
+699: ! Extra }, or forgotten $.
+700: <recently read> \egroup
+701: 
+702: l.952 under \texttt{paper_en/}
+703: ).
+704: I've deleted a group-closing symbol because it seems to be
+705: spurious, as in `$x}$'. But perhaps the } is legitimate and
+706: you forgot something else, as in `\hbox{$x}'. In such cases
+707: the way to recover is to insert both the forgotten and the
+708: deleted material, e.g., by typing `I$}'.
+709: 
+710: ! Missing $ inserted.
+711: <inserted text>
+712: $
+713: l.953
+714: 
+715: I've inserted a begin-math/end-math symbol since I think
+716: you left one out. Proceed, with fingers crossed.
+717: 
+718: 
+719: Overfull \hbox (36.72581pt too wide) in paragraph at lines 941--953
+720: \T1/cmtt/m/n/12 YOUR-ANON-REPO \T1/cmr/m/n/12 (-20) with the anonymized repos-i
+721: -tory, e.g. an \T1/cmtt/m/n/12 anonymous.4open.science
+722: []

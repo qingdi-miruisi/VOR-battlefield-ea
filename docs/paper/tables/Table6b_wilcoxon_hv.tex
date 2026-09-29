@@ -1,0 +1,23 @@
+\begin{table}[t]
+\centering
+\caption{Two-sided Wilcoxon rank-sum tests (30 seeds per problem) comparing HCEA with the eight baseline algorithms on HV: per-problem $p$-values and the Fisher-combined $p$-value over the eight problems.}
+\label{tab:wilcoxon_hv}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{lcccccccc|cl}
+\toprule
+vs\,HCEA & ZDT1 & ZDT2 & ZDT3 & DTLZ2 & DTLZ7 & DTLZ1\,M3 & DTLZ2\,M3 & DTLZ7\,M3 & Fisher combined & Sig.\\
+\midrule
+NSGA2 & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.7\times10^{-2}$ & $0.99$ (ns) & $3.0\times10^{-11}$ & $<10^{-50}$ & $^{***}$ \\
+NSGA3 & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $0.31$ (ns) & $0.12$ (ns) & $5.1\times10^{-10}$ & $<10^{-50}$ & $^{***}$ \\
+MOEAD & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $0.29$ (ns) & $0.28$ (ns) & $1.4\times10^{-6}$ & $<10^{-50}$ & $^{***}$ \\
+SPEA2 & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.7\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $7.1\times10^{-3}$ & $0.11$ (ns) & $3.0\times10^{-11}$ & $<10^{-60}$ & $^{***}$ \\
+SMSEMOA & $3.7\times10^{-11}$ & $3.0\times10^{-11}$ & $5.6\times10^{-10}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $0.64$ (ns) & $3.0\times10^{-2}$ & $4.5\times10^{-11}$ & $<10^{-50}$ & $^{***}$ \\
+RVEA & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $0.70$ (ns) & $0.75$ (ns) & $4.6\times10^{-10}$ & $<10^{-50}$ & $^{***}$ \\
+AGEMOEA & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $0.16$ (ns) & $1.7\times10^{-2}$ & $5.0\times10^{-11}$ & $<10^{-50}$ & $^{***}$ \\
+MOGWO & $3.0\times10^{-11}$ & $4.1\times10^{-12}$ & $3.0\times10^{-11}$ & $3.0\times10^{-11}$ & $2.1\times10^{-11}$ & $8.2\times10^{-2}$ & $1.3\times10^{-10}$ & $2.4\times10^{-11}$ & $<10^{-60}$ & $^{***}$ \\
+\midrule
+\multicolumn{11}{l}{\footnotesize Significance: $^{*}p<0.05$, $^{**}p<0.01$, $^{***}p<0.001$, ns = not significant. Fisher combined with numerical guard ($\max(p,10^{-300})$); values below $10^{-50}$ shown as $<10^{-50}$.}\\
+\bottomrule
+\end{tabular}
+\end{table}

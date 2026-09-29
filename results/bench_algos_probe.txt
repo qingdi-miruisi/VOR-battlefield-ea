@@ -1,0 +1,5 @@
+EDD (count=60)
+MOEAD (count=60)
+NSGA2 (count=60)
+RVEA (count=60)
+VOR (count=60)

@@ -1,0 +1,2 @@
+EDD  ZDT1 s1: IGD=0.0042 PPS=99 mech=SMS
+VOR  ZDT1 s1: IGD=0.0041 PPS=100 fast=0 mech=SMS

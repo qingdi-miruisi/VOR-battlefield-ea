@@ -1,0 +1,5 @@
+﻿MW1 M=2 D=15 PF����=500 refPoint=[1.1 1.1]
+PF(1,:)=[0 1]  PF(end,:)=[1 0.15]
+MW1 EDD_cf ȫ200�� nFE=20215 elap=1.3s PPS=100
+MW1 s1 EDD_cf IGD=11 HV=0 PPS=1
+MW1 s1 ��EDD(APD) IGD=11.21 HV=0 PPS=1 elap=0.9s

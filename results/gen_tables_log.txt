@@ -1,0 +1,15 @@
+﻿
+=== 12-alg LSMOP (EDD+8trad+3SOTA) recomputed ranks ===
+  EDD        IGD=6.39 HV=5.61 Comb=6.00
+  MOEAD      IGD=5.94 HV=6.17 Comb=6.06
+  MOGWO      IGD=6.61 HV=7.28 Comb=6.94
+  NSGA2      IGD=9.94 HV=8.39 Comb=9.17
+  NSGA3      IGD=8.83 HV=8.83 Comb=8.83
+  RVEA       IGD=7.50 HV=7.28 Comb=7.39
+  SMSEMOA    IGD=9.06 HV=9.06 Comb=9.06
+  SPEA2      IGD=9.28 HV=8.17 Comb=8.72
+  AGEMOEA    IGD=7.94 HV=8.17 Comb=8.06
+  FDSEA      IGD=1.50 HV=2.06 Comb=1.78
+  GDVTSF     IGD=2.61 HV=3.83 Comb=3.22
+  MOEA-IB    IGD=2.39 HV=3.17 Comb=2.78
+  EDD combined position = 4 / 12

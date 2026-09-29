@@ -1,0 +1,15 @@
+cd('D:\harness工作\中国科学：数学(总)\算法\algorithm');
+addpath('experiments');
+addpath('problems'); addpath('problems\wfg_toolbox');
+addpath('problems_official'); addpath('problems_official\MaF');
+addpath('algorithms'); addpath('algorithms\utils');
+clear classes; clear VOR; clear EDD;
+prob = OfficialProblem('MaF14', 3, 30);
+PF = prob.ParetoFront(500);
+algV = VOR(100,200,1);
+[PopV,RV] = algV.optimize(prob);
+iV = IGD(RV.F,PF);
+fid = fopen('results/vor2_ma14_fixed.txt','w');
+fprintf(fid, 'MaF14 s1 VOR-v2(fixed): IGD=%.4f PPS=%d fast=%d mech=%s\n', iV, size(RV.F,1), RV.fastPath, RV.mechanism);
+fclose(fid);
+disp('ma14 fixed check done');

@@ -1,0 +1,12 @@
+﻿UniformPoint -> D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\algorithms\_platemo_official\UniformPoint.m
+NDSort       -> D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\problems_official\NDSort.m
+CF9          -> D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\problems_official\CF\CF9.m
+CF9 M=3 D=10 ����OK
+CF10 M=3 D=10 ����OK
+MW4 M=3 D=15 ����OK
+MW7 M=2 GetOptimum(500) ����=386 finite=1
+MW9 M=2 GetOptimum(500) ����=469 finite=1
+MW10 M=2 GetOptimum(500) ����=350 finite=1
+MW11 M=2 GetOptimum(500) ����=222 finite=1
+MW13 M=2 GetOptimum(500) ����=312 finite=1
+MW14 M=3 GetOptimum(500) ����=529 finite=1

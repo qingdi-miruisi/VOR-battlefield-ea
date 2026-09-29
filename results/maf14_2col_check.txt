@@ -1,0 +1,1 @@
+MaF14 s1: IGD=1.0664 PPS=15 fast=0 mech=APD

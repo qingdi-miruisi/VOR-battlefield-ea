@@ -1,0 +1,39 @@
+﻿[����: ���Ʋ����ڻ���Ŀ¼: D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\experiments\problems] 
+[> λ�ã�path (�� 89 ��)
+λ��: addpath (�� 70 ��)] 
+[����: ���Ʋ����ڻ���Ŀ¼: D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\experiments\problems\wfg_toolbox] 
+[> λ�ã�path (�� 89 ��)
+λ��: addpath (�� 70 ��)] 
+[����: ���Ʋ����ڻ���Ŀ¼: D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\experiments\problems_official] 
+[> λ�ã�path (�� 89 ��)
+λ��: addpath (�� 70 ��)] 
+[����: ���Ʋ����ڻ���Ŀ¼: D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\experiments\problems_official\CF] 
+[> λ�ã�path (�� 89 ��)
+λ��: addpath (�� 70 ��)] 
+[����: ���Ʋ����ڻ���Ŀ¼: D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\experiments\problems_official\MW] 
+[> λ�ã�path (�� 89 ��)
+λ��: addpath (�� 70 ��)] 
+[����: ���Ʋ����ڻ���Ŀ¼: D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\experiments\problems_official\LSMOP] 
+[> λ�ã�path (�� 89 ��)
+λ��: addpath (�� 70 ��)] 
+[����: ���Ʋ����ڻ���Ŀ¼: D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\experiments\problems_official\UF] 
+[> λ�ã�path (�� 89 ��)
+λ��: addpath (�� 70 ��)] 
+[����: ���Ʋ����ڻ���Ŀ¼: D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\experiments\problems_official\EMO] 
+[> λ�ã�path (�� 89 ��)
+λ��: addpath (�� 70 ��)] 
+[����: ���Ʋ����ڻ���Ŀ¼: D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\experiments\algorithms] 
+[> λ�ã�path (�� 89 ��)
+λ��: addpath (�� 70 ��)] 
+[����: ���Ʋ����ڻ���Ŀ¼: D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\experiments\algorithms\utils] 
+[> λ�ã�path (�� 89 ��)
+λ��: addpath (�� 70 ��)] 
+matlab.exe : {��������� 'OfficialProblem' �޷�ʶ��
+At line:1 char:129
++ ... ew($false); & "D:\matlab_2026a\bin\matlab.exe" -batch "cd('D:\harness ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ({��������� 'OfficialProblem' �޷�ʶ��:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+} 
+ERROR: MATLAB error Exit Status: 0x00000001

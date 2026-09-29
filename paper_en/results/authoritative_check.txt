@@ -1,0 +1,3 @@
+Output written on mainG.pdf (20 pages, 2325008 bytes).
+
+=== SUMMARY: Overfull=0, Errors=0 ===

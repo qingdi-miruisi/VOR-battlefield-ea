@@ -1,0 +1,7 @@
+563: Overfull \hbox (17.19368pt too wide) in paragraph at lines 139--163
+569: Overfull \hbox (21.65094pt too wide) in paragraph at lines 197--202
+575: Overfull \hbox (2.0238pt too wide) in paragraph at lines 214--220
+604: Overfull \hbox (9.94772pt too wide) in paragraph at lines 384--391
+644: ! LaTeX Error: \begin{table} on input line 656 ended by \end{table*}.
+697: Overfull \hbox (6.97855pt too wide) in paragraph at lines 824--830
+758: Output written on mainI.pdf (19 pages, 2325129 bytes).

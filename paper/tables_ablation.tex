@@ -1,0 +1,24 @@
+% tables_ablation.tex — component ablation (Table 4)
+\begin{table}[t]
+\centering
+\caption{Component ablation of EDD (5 seeds per cell, $N=100$, $G=200$).
+\texttt{full} reproduces the released EDD v12 exactly. \texttt{no-EED}
+forces the APD/SMS path at $D\ge100$; \texttt{no-DSG} keeps EED selection but
+replaces the DSG offspring operator with SBX; \texttt{no-polish} disables the
+polish-HV step. Median IGD, with the factor relative to \texttt{full} in
+parentheses. EED is individually necessary on the collapse instances and
+individually \emph{harmful} on the converged instance (LSMOP2).}
+\label{tab:ablation}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrr}
+\toprule
+\textbf{Variant} & \textbf{LSMOP6} & \textbf{LSMOP9} & \textbf{LSMOP2} \\
+\midrule
+\textbf{full EDD} & \textbf{1.631} & \textbf{1.548} & 0.4249 \\
+no-EED (APD at $D{=}300$) & 4716 ($2892\times$) & 42.62 ($27.5\times$) & \textbf{0.1027} ($0.24\times$) \\
+no-DSG (SBX offspring) & 224.2 ($137\times$) & 9.075 ($5.9\times$) & 0.4833 ($1.14\times$) \\
+no-polish & 1.631 ($1.00\times$) & 1.548 ($1.00\times$) & 0.3983 ($0.94\times$) \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

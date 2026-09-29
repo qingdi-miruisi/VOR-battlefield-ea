@@ -1,0 +1,2 @@
+629: Overfull \hbox (110.69803pt too wide) in paragraph at lines 524--546
+742: Output written on mainG.pdf (19 pages, 2325162 bytes).

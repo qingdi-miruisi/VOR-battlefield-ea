@@ -1,0 +1,63 @@
+% tables_cfmw.tex - EDDV8 vs old EDD_cf + 3 SOTA on CF/MW: Friedman + PPS
+\begin{table*}[t]
+\centering
+\caption{EDDV8 (grafted, constraint-aware NSGA-2 selection) versus the
+original EDD\_cf and three 2026 SOTA algorithms on the official constrained
+CF/MW family (CF1--10, MW1--14; 30 seeds per cell). Panel (a) reports
+the 5-algorithm Friedman IGD mean ranks. Panel (b) reports the median
+final non-dominated-set size (PPS) on a representative subset.
+\textbf{EDDV8 ranks 4th of 5 on the CF/MW aggregate ($2.83$), improving
+over the original EDD\_cf ($3.75$) but remaining behind the three SOTA
+methods.} The PPS collapse that was the original EDD\_cf's defining
+weakness is \emph{reduced} but not eliminated: EDDV8's median PPS on
+the MW family rises from $\approx 1$ (original EDD\_cf) to
+$\approx 24$, but persists at PPS $\le 10$ on eleven of the twenty-four
+instances, including six where it degenerates to a single point.}
+\label{tab:cfmw}
+\vspace{3pt}
+\begin{minipage}[t]{0.46\textwidth}
+\centering
+\footnotesize
+\textbf{(a) Friedman IGD mean ranks}
+
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcc}
+\toprule
+\textbf{Alg.} & \textbf{IGD rank} & \textbf{Order} \\
+\midrule
+MOEA-IB  & 0.792 & 1 \\
+FDSEA    & 1.375 & 2 \\
+GDVTSF   & 1.625 & 3 \\
+\textbf{EDDV8} & 2.833 & 4 \\
+old EDD\_cf & 3.750 & 5 \\
+\bottomrule
+\end{tabular}}
+
+\vspace{4pt}
+EDDV8 improves over the original EDD\_cf but does not reach the 2026
+SOTA trio. FDSEA and MOEA-IB are incomplete on the MW family
+($M=3$ memory limits).
+\end{minipage}\hfill
+\begin{minipage}[t]{0.46\textwidth}
+\centering
+\footnotesize
+\textbf{(b) Median PPS on representative CF/MW instances}
+
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{Alg.} & \textbf{CF1} & \textbf{MW1} & \textbf{MW7} & \textbf{MW14} \\
+\midrule
+\textbf{EDDV8} & 29.0 & 1.0 & 52.5 & 100.0 \\
+old EDD\_cf & 23.6 & 1.0 & 1.0 & 2.0 \\
+GDVTSF & 99.3 & 63.8 & 91.1 & --- \\
+\bottomrule
+\end{tabular}}
+
+\vspace{4pt}
+EDDV8's PPS on MW1 degenerates to 1 (residual collapse); on MW7 and
+MW14 it recovers to $\approx 53$--$100$. The PPS collapse persists on
+11 of 24 CF/MW instances (PPS $\le 10$). The three SOTA methods retain
+PPS $\approx 90$--$100$ where their $M=3$ runs complete.
+\end{minipage}
+\end{table*}

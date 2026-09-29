@@ -1,0 +1,11 @@
+506: \begin{table*}[t]
+507: \centering
+508: \caption{VOR-v2 full benchmark, 10 seeds, 5-algorithm set. IGD mean$\pm$std
+509: (lower is better). \textsc{VOR} attains the first IGD rank on 4 of 6 problems
+510: (\textsc{ZDT1}, \textsc{LSMOP1}, \textsc{DTLZ2}-300D, \textsc{LSMOP6}).
+511: Best value per column in bold.}
+512: \label{tab:main}
+513: \footnotesize
+514: \begin{tabular}{lcccccc}
+515: \toprule
+516: \textbf{Algo} & \textsc{MaF14} & \textsc{CF1} & \textsc{ZDT1}

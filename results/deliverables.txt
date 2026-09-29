@@ -1,0 +1,73 @@
+=== paper_en/ ===
+.                                                   0 bytes  29-9月-2026 19:28:13
+..                                                  0 bytes  29-9月-2026 16:11:01
+VOR_paper_AppliedSoftComputing_final.pdf      2327127 bytes  29-9月-2026 16:10:12
+main.aux                                        13216 bytes  29-9月-2026 19:28:20
+main.log                                        28556 bytes  29-9月-2026 19:28:20
+main.out                                         5669 bytes  29-9月-2026 19:28:20
+main.pdf                                      2549003 bytes  29-9月-2026 19:28:20
+main.spl                                            0 bytes  29-9月-2026 19:28:20
+main.tex                                        47155 bytes  29-9月-2026 19:28:13
+main1.log                                       11596 bytes  29-9月-2026 19:28:20
+mainF.aux                                       12176 bytes  29-9月-2026 15:13:07
+mainF.log                                       28490 bytes  29-9月-2026 15:13:08
+mainF.out                                        5482 bytes  29-9月-2026 15:13:07
+mainF.pdf                                     2324877 bytes  29-9月-2026 15:13:08
+mainF.spl                                           0 bytes  29-9月-2026 15:13:07
+mainF_run.log                                   12250 bytes  29-9月-2026 15:11:10
+mainG.aux                                       13221 bytes  29-9月-2026 16:10:04
+mainG.log                                       28564 bytes  29-9月-2026 16:10:04
+mainG.out                                        5669 bytes  29-9月-2026 16:10:04
+mainG.pdf                                     2327127 bytes  29-9月-2026 16:10:04
+mainG.spl                                           0 bytes  29-9月-2026 16:10:03
+mainG1.log                                      11599 bytes  29-9月-2026 16:10:04
+mainH.aux                                       13221 bytes  29-9月-2026 16:10:12
+mainH.log                                       28564 bytes  29-9月-2026 16:10:12
+mainH.out                                        5669 bytes  29-9月-2026 16:10:12
+mainH.pdf                                     2327127 bytes  29-9月-2026 16:10:12
+mainH.spl                                           0 bytes  29-9月-2026 16:10:12
+mainH1.log                                      11599 bytes  29-9月-2026 16:10:12
+mainI.aux                                       12176 bytes  29-9月-2026 15:20:25
+mainI.log                                       29274 bytes  29-9月-2026 15:20:25
+mainI.out                                        5482 bytes  29-9月-2026 15:20:25
+mainI.pdf                                     2325129 bytes  29-9月-2026 15:20:25
+mainI.spl                                           0 bytes  29-9月-2026 15:20:25
+mainI1.log                                      12622 bytes  29-9月-2026 15:20:25
+mainJ.aux                                       12176 bytes  29-9月-2026 15:20:39
+mainJ.log                                       29274 bytes  29-9月-2026 15:20:39
+mainJ.out                                        5482 bytes  29-9月-2026 15:20:39
+mainJ.pdf                                     2325129 bytes  29-9月-2026 15:20:39
+mainJ.spl                                           0 bytes  29-9月-2026 15:20:38
+mainJ1.log                                      12622 bytes  29-9月-2026 15:20:39
+mainP.log                                         385 bytes  29-9月-2026 15:13:35
+mainV.log                                         385 bytes  29-9月-2026 15:09:54
+mainW.aux                                       12178 bytes  29-9月-2026 15:07:32
+mainW.log                                       28865 bytes  29-9月-2026 15:07:32
+mainW.out                                        5482 bytes  29-9月-2026 15:07:32
+mainW.pdf                                     2321458 bytes  29-9月-2026 15:07:32
+mainW.spl                                           0 bytes  29-9月-2026 15:07:32
+mainW1.log                                      12324 bytes  29-9月-2026 15:07:32
+mainX.log                                         385 bytes  29-9月-2026 15:13:22
+main_final.pdf                                2325008 bytes  29-9月-2026 15:49:27
+results                                             0 bytes  29-9月-2026 19:38:15
+
+=== results/figs/out/ ===
+.                                                   0 bytes
+..                                                  0 bytes
+ablation_bar.png                                72276 bytes
+conv_LSMOP2.png                                175828 bytes
+conv_LSMOP6.png                                191989 bytes
+fig1_igd_conv.pdf                              487870 bytes
+fig2_pf_scat.pdf                              1501827 bytes
+fig3_friedman.pdf                               14273 bytes
+pf_DTLZ2_300D_M3_3d.png                        168629 bytes
+pf_DTLZ2_300D_M3_panels.png                    413302 bytes
+pf_LSMOP2_3d.png                               219719 bytes
+pf_LSMOP2_panels.png                           516136 bytes
+pf_LSMOP6_3d.png                               168832 bytes
+pf_LSMOP6_panels.png                           226913 bytes
+
+=== results/stat + 30seed ===
+stat_results.txt                         1027 bytes
+stat_results_30.txt                      996 bytes
+agg30_stats.txt                          2139 bytes

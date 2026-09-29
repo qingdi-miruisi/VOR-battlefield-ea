@@ -1,0 +1,22 @@
+﻿D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\problems_official\NDSort.m
+NDSort -> D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\problems_official\NDSort.m
+D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\algorithms\_platemo_official\UniformPoint.m
+UniformPoint -> D:\harness����\�й���ѧ����ѧ(��)\�㷨\algorithm\algorithms\_platemo_official\UniformPoint.m
+
+=== MW7 (M=2 D=15) GetOptimum(500) ===
+  ����=386 elap=0.01s ȫfinite=1 ��Χ=[0, 1.15]
+
+=== MW9 (M=2 D=15) GetOptimum(500) ===
+  ����=469 elap=0.00s ȫfinite=1 ��Χ=[0, 1]
+
+=== MW10 (M=2 D=15) GetOptimum(500) ===
+  ����=350 elap=0.00s ȫfinite=1 ��Χ=[0, 1.129]
+
+=== MW11 (M=2 D=15) GetOptimum(500) ===
+  ����=222 elap=0.01s ȫfinite=1 ��Χ=[0.3315, 2.066]
+
+=== MW13 (M=2 D=15) GetOptimum(500) ===
+  ����=312 elap=0.00s ȫfinite=1 ��Χ=[0, 4]
+
+=== MW14 (M=3 D=15) GetOptimum(500) ===
+  ����=529 elap=0.00s ȫfinite=1 ��Χ=[0, 5]

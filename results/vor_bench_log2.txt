@@ -1,0 +1,721 @@
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\Doc] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\A-NSGA-III] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AB-SAEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AC-MMEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\ADSAPSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\ADSAPSO\RBF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AE-NSGA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AFSEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AGE-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AGE-MOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AGE-MOEA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AGSEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AMG-PSL] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\APSEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AR-MOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AVG-SAEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\AdaW] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\BCE-IBEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\BCE-MOEA-D] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\BL-SAEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\BLEAQ-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\BiCo] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\BiGE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\C-MOEA-D] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\C-TAEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\C-TSEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\C3M] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CA-MOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CAEAD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CCGDE3] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CCMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CGLP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CI-EMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CKAnD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CLIA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CLIA\iSVM] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMDEIPCM] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMEGL] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMME] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOBR] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOCEA-DDAP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOCSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMODE-FTR] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMODRL] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMODRL\Actor] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMODRL\Critic] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMODRL\DQN] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOEA-2S] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOEA-AOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOEA-CD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOEA-MS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOEA-MSG] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOEBOD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOEMT] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOES] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOPSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOQLMT] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMOSMA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CMaDPPs] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CNSDE-DVC] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CPCMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CPS-MOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CSEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CSEMT] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\CoMMEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DAEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DBEMTO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DCNSGA-III] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DEA-GNG] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DGEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DISK] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DISKplus] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DKCA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DM-MOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DMOEA-eC] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DN-NSGA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DNSGA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DP-PPS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DPCPRA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DPVAPS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DRL-SAEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DRLOS-EMCMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DRLOS-EMCMO\Dropout] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DSPCMDE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DSSEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DVCEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DWU] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DirHV-EI] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DirHV-EI\DACE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DirHV-EI\DACE\corr] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\DirHV-EI\DACE\reg] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EAG-MOEA-D] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EDN-ARMOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EDN-ARMOEA\Dropout] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EFR-RR] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EGES] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EIM-EGO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EM-SAEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EMCMMS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EMCMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EMMOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EMOSKT] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\EMyO-C] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\ENS-MOEA-D] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\ESB-CEO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\FDSEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\FDV] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\FLEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\FRCG-M] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\GCNMOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\GDE3] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\GDVTSF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\GFM-MOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\GLMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\GPSO-M] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\GWASF-GA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\GrEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\HEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\HHC-MMEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\HREA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\HeE-MOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\HypE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\I-DBEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\I-SIBEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\IBEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\ICMA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\ILCMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\IM-C-MOEA-D] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective
+optimization\IM-C-MOEA-D\gpml-matlab-v3.4-2013-11-11] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\IM-MOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective
+optimization\IM-MOEA\gpml-matlab-v3.4-2013-11-11] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\IM-MOEA-D] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective
+optimization\IM-MOEA-D\gpml-matlab-v3.4-2013-11-11] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\IMTCMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\IMTCMO_BS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\Izui] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\K-RVEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\KAnD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\KL-NSGA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\KLEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\KTA2] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\KTS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\KnEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\LCMEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\LCSA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\LDS-AF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\LERD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\LMEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\LMOCSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\LMOEA-DS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\LMPFE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\LRMOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\LSMOF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\M-PAES] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MCCMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MCEA-D] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MFFS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MFO-SPEA2] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MGCEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MGSAEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MMEA-ARM] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MMEA-WI] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MMEAPSL] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MMOEA-BH] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MMOPSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MO-CMA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MO-EGS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MO-L2SMEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MO-L2SMEA\NSGAIIIopt] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MO-L2SMEA\krg] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MO-L2SMEA\krg\dace] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MO-L2SMEA\tools] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MO-MFEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MO-MFEA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOBCA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOCGDE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOCell] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-CKF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-2WA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-AWA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-CMA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-CMT] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-DAE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-DCWV] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-DE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-DQN] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-DRA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-DU] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-DYTS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-EGO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-EGO\DACE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-EGO\DACE\corr] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-EGO\DACE\reg] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-EGO-CEI] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-FRRMAB] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-M2M] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-MRDL] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-PFE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-PaS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-STM] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-UR] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-URAW] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-D-VOV] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-DD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-DVA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-IB] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-IB\ReMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-IB\WOF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-IGD-NS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-NZD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-PC] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-PSL] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOEA-RE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOMBI-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOMFEA-SADE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MONAS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOPSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOPSO-CD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MOSD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MO_Ring_PSO_SCD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MP-MMEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MPSO-D] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MSCEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MSCMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MSEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MSKEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MSOPS-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MTCMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MTDE-MKTA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MTEA-D-DN] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MTS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MaO-TSPP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MaOEA-CSS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MaOEA-DDFC] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MaOEA-HAP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MaOEA-IGD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MaOEA-IT] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MaOEA-R&D] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MultiObjectiveEGO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\MyO-DEMR] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NBLEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NMPSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NNDREA-MO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NNIA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NRV-MOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NSBiDiCo] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NSGA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NSGA-II+ARSBX] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NSGA-II-DTI] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NSGA-II-SDR] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NSGA-II-conflict] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NSGA-III] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NSGAIII-EHVI] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NSLS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\NUCEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\OSP-NSDE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PB-NSGA-III] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PB-RVEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PC-SAEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PEAplus] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PESA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PICEA-g] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PIEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PIMD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PM-MOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\POCEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PPS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PRCEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PRDH] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PREA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\ParEGO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\PeEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\REMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\RGA-M1-2] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\RGA-M2-2] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\RM-MEDA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\RMOEA-DVA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\RPD-NSGA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\RPEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\RSEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\RVEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\RVEA-iGNG] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\RVEAa] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\S-CDAS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\S-ECSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\S-NSGA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\S3-CMA-ES] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SAMOEA-TL2M] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SCEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SFA-DE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SGEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SGECF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SIBEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SIBEA-kEMOSS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SLMEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SMEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SMOA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SMPSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SMS-EGO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SMS-EMOA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SPEA-R] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SPEA2] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SPEA2+SDE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SRA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SSCEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SSDE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SVR-NSGA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SparseEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SparseEA2] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\SparseEMT] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\TEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\TELSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\TPCMaO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\TS-NSGA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\TS-SparseEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\TSPP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\TSTI] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\TiGE-2] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\ToP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\TriMOEA-TA&R] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\Two_Arch2] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\URCMO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\VaEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\WASF-GA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\WOF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\WV-MOEA-P] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\c-DPEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\dMOPSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\e-MOEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\g-NSGA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\hpaEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\one-by-one EA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\r-NSGA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\t-DEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Multi-objective optimization\tDEA-CPBI] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\NeuroEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\ABC] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\ACO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\AESSPSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\Adam] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\AutoV] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\BFGS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\BSPGA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\CMA-ES] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\CSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\DE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\DOA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\ECPO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\EGO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\FEP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\FRCG] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\FROFI] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\GA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\GPSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\GWO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\IMODE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\KMA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\L2SMEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\L2SMEA\NSGAIIIopt] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\L2SMEA\krg] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\L2SMEA\krg\dace] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\L2SMEA\tools] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\MFEA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\MFEA-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\MGO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\MVPA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\MiSACO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\NNDREA-SO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\Nelder-Mead] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\OFA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\PSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\RMSProp] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SACC-EAM-II] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SACOSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SADE-AMSS] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SADE-ATDSC] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SADE-Sammon] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SAMSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SAPO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SHADE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SQP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\SSIO-RL] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Single-objective optimization\WOA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Algorithms\Utility functions] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\GUI] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Metrics] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\BT] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\CF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\DAS-CMOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\DOC] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\DSMOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\DTLZ] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\EvoXBench] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\FCP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\FDA] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\GLSMOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\HYL] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\IMOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\LIR-CMOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\LRMOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\LSCM] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\LSMMOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\LSMOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\MMF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\MMMOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\MOPs with variable linkages] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\MW] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\MaF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\MaOPP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\Multitasking MOPs] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\RWMOPs] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\Real-world MOPs] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\SDC] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\SMD] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\SMMOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\SMOP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\TP] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\TREE] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\UF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\VNT] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\WFG] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\ZCAT] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\ZDT] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Multi-objective optimization\ZXH_CF] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\BBOB] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\CEC 2008] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\CEC 2010] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\CEC 2013] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\CEC 2017] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\CEC 2020] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\EOPCCV] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\ISCSO] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\Mario] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\Multitasking SOPs] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\Real-world SOPs] 
+[警告: 名称不存在或不是目录: D:\23华为杯\Huawei_Cup_DSH_Kit_v2\Huawei_Cup_DSH_Kit_v2\PlatEMO\PlatEMO-4.16\PlatEMO\Problems\Single-objective optimization\Simple SOPs] 
+=== MaF14 (M=3 D=60) ===
+  VOR    s1  IGD=   1.1700 HV=  0.0000 PPS= 16 (0.94s)
+  VOR    s2  IGD=   1.4195 HV=  0.0000 PPS= 76 (0.55s)
+  VOR    s3  IGD=   0.8594 HV=  0.0641 PPS= 74 (0.47s)
+  VOR    s4  IGD=   1.0437 HV=  0.0000 PPS= 32 (0.50s)
+  VOR    s5  IGD=   0.8888 HV=  0.0000 PPS= 22 (0.53s)
+  VOR    s6  IGD=   1.1691 HV=  0.0000 PPS= 48 (0.48s)
+  VOR    s7  IGD=   0.9790 HV=  0.0000 PPS= 50 (0.48s)
+  VOR    s8  IGD=   1.5717 HV=  0.0000 PPS= 90 (0.47s)
+  VOR    s9  IGD=   0.8933 HV=  0.0414 PPS= 45 (0.48s)
+  VOR    s10 IGD=   1.0048 HV=  0.0000 PPS= 55 (0.46s)
+  EDD    s1  IGD=   0.8628 HV=  0.1200 PPS= 97 (0.84s)
+  EDD    s2  IGD=   0.8628 HV=  0.1200 PPS= 97 (0.98s)
+  EDD    s3  IGD=   0.8628 HV=  0.1200 PPS= 97 (1.03s)
+  EDD    s4  IGD=   0.8628 HV=  0.1200 PPS= 97 (0.83s)
+  EDD    s5  IGD=   0.8628 HV=  0.1200 PPS= 97 (0.86s)
+  EDD    s6  IGD=   0.8628 HV=  0.1200 PPS= 97 (1.07s)
+  EDD    s7  IGD=   0.8628 HV=  0.1200 PPS= 97 (0.79s)
+  EDD    s8  IGD=   0.8628 HV=  0.1200 PPS= 97 (0.85s)
+  EDD    s9  IGD=   0.8628 HV=  0.1200 PPS= 97 (0.76s)
+  EDD    s10 IGD=   0.8628 HV=  0.1200 PPS= 97 (0.85s)
+  MOEAD  s1  IGD=   0.6084 HV=  0.1976 PPS= 39 (1.94s)
+  MOEAD  s2  IGD=   0.5711 HV=  0.2118 PPS= 37 (2.06s)
+  MOEAD  s3  IGD=   0.8155 HV=  0.1201 PPS= 14 (1.81s)
+  MOEAD  s4  IGD=   1.2545 HV=  0.0000 PPS= 29 (1.81s)
+  MOEAD  s5  IGD=   0.7495 HV=  0.0488 PPS= 36 (1.88s)
+  MOEAD  s6  IGD=   0.5385 HV=  0.2847 PPS= 29 (1.88s)
+  MOEAD  s7  IGD=   0.8628 HV=  0.1200 PPS= 91 (2.22s)
+  MOEAD  s8  IGD=   0.5749 HV=  0.2614 PPS= 23 (2.10s)
+  MOEAD  s9  IGD=   0.9070 HV=  0.0484 PPS= 38 (2.10s)
+  MOEAD  s10 IGD=   0.6766 HV=  0.1479 PPS= 29 (1.74s)
+  RVEA   s1  IGD=   3.4479 HV=  0.0000 PPS= 36 (0.41s)
+  RVEA   s2  IGD=   1.9098 HV=  0.0000 PPS= 44 (0.40s)
+  RVEA   s3  IGD=   1.7630 HV=  0.0000 PPS= 37 (0.39s)
+  RVEA   s4  IGD=   2.9653 HV=  0.0000 PPS= 25 (0.37s)
+  RVEA   s5  IGD=   0.7897 HV=  0.1290 PPS= 37 (0.38s)
+  RVEA   s6  IGD=   3.9525 HV=  0.0000 PPS= 58 (0.51s)
+  RVEA   s7  IGD=   2.1192 HV=  0.0000 PPS= 26 (0.45s)
+  RVEA   s8  IGD=   2.3536 HV=  0.0000 PPS= 33 (0.67s)
+  RVEA   s9  IGD=   1.4869 HV=  0.0000 PPS= 30 (0.47s)
+  RVEA   s10 IGD=   3.6503 HV=  0.0000 PPS= 25 (0.47s)
+  NSGA2  s1  IGD=   1.2028 HV=  0.0000 PPS=100 (0.37s)
+  NSGA2  s2  IGD=   2.3447 HV=  0.0000 PPS= 68 (0.31s)
+  NSGA2  s3  IGD=   2.3754 HV=  0.0000 PPS=100 (0.25s)
+  NSGA2  s4  IGD=   0.8850 HV=  0.0196 PPS= 79 (0.26s)
+  NSGA2  s5  IGD=   1.3230 HV=  0.0000 PPS=100 (0.33s)
+  NSGA2  s6  IGD=   0.9767 HV=  0.0000 PPS= 61 (0.45s)
+  NSGA2  s7  IGD=   1.1745 HV=  0.0000 PPS= 52 (0.36s)
+  NSGA2  s8  IGD=   1.2044 HV=  0.0000 PPS= 28 (0.30s)
+  NSGA2  s9  IGD=   1.8972 HV=  0.0000 PPS= 63 (0.36s)
+  NSGA2  s10 IGD=   1.3868 HV=  0.0000 PPS= 67 (0.39s)
+=== LSMOP6 (M=3 D=300) ===
+  VOR    s1  IGD= 429.1337 HV=  0.0000 PPS= 79 (1.45s)
+  VOR    s2  IGD= 592.8362 HV=  0.0000 PPS= 84 (1.35s)
+  VOR    s3  IGD= 636.6519 HV=  0.0000 PPS= 87 (1.61s)
+  VOR    s4  IGD=  46.3462 HV=  0.0000 PPS= 72 (1.59s)
+  VOR    s5  IGD= 365.0907 HV=  0.0000 PPS= 87 (1.52s)
+  VOR    s6  IGD= 226.4388 HV=  0.0000 PPS= 62 (1.24s)
+  VOR    s7  IGD= 317.0719 HV=  0.0000 PPS= 68 (0.98s)
+  VOR    s8  IGD= 530.0467 HV=  0.0000 PPS= 79 (0.96s)
+  VOR    s9  IGD= 145.5914 HV=  0.0000 PPS= 68 (0.98s)
+  VOR    s10 IGD= 683.0027 HV=  0.0000 PPS= 97 (0.86s)
+  EDD    s1  IGD=   1.6300 HV=  0.0000 PPS= 18 (0.84s)
+  EDD    s2  IGD=   1.6310 HV=  0.0000 PPS= 22 (0.74s)
+  EDD    s3  IGD=   1.6304 HV=  0.0000 PPS= 25 (0.73s)
+  EDD    s4  IGD=   1.6315 HV=  0.0000 PPS= 37 (0.74s)
+  EDD    s5  IGD=   1.6312 HV=  0.0000 PPS= 29 (0.79s)
+  EDD    s6  IGD=   1.6290 HV=  0.0000 PPS= 28 (0.74s)
+  EDD    s7  IGD=   1.6306 HV=  0.0000 PPS= 22 (0.78s)
+  EDD    s8  IGD=   1.6295 HV=  0.0000 PPS= 25 (0.79s)
+  EDD    s9  IGD=   1.6303 HV=  0.0000 PPS= 22 (0.79s)
+  EDD    s10 IGD=   1.6312 HV=  0.0000 PPS= 18 (0.80s)
+  MOEAD  s1  IGD=  10.8675 HV=  0.0000 PPS= 16 (5.17s)
+  MOEAD  s2  IGD=   7.7590 HV=  0.0000 PPS= 37 (5.27s)
+  MOEAD  s3  IGD=  22.3183 HV=  0.0000 PPS= 15 (5.51s)
+  MOEAD  s4  IGD=  10.6806 HV=  0.0000 PPS= 21 (5.37s)
+  MOEAD  s5  IGD=   5.7103 HV=  0.0000 PPS= 20 (5.87s)
+  MOEAD  s6  IGD=   9.1629 HV=  0.0000 PPS= 23 (5.64s)
+  MOEAD  s7  IGD=  14.1200 HV=  0.0000 PPS= 20 (4.10s)
+  MOEAD  s8  IGD=  14.0731 HV=  0.0000 PPS= 10 (3.92s)
+  MOEAD  s9  IGD=  16.7277 HV=  0.0000 PPS= 13 (4.01s)
+  MOEAD  s10 IGD=   9.1696 HV=  0.0000 PPS= 24 (4.31s)
+  RVEA   s1  IGD= 492.1008 HV=  0.0000 PPS= 21 (0.81s)
+  RVEA   s2  IGD= 777.7096 HV=  0.0000 PPS= 17 (0.82s)
+  RVEA   s3  IGD=1349.3663 HV=  0.0000 PPS= 18 (0.82s)
+  RVEA   s4  IGD= 657.9424 HV=  0.0000 PPS= 19 (0.78s)
+  RVEA   s5  IGD= 711.5068 HV=  0.0000 PPS= 28 (0.79s)
+  RVEA   s6  IGD=1507.6725 HV=  0.0000 PPS= 20 (0.75s)
+  RVEA   s7  IGD=1015.2387 HV=  0.0000 PPS= 25 (0.74s)
+  RVEA   s8  IGD= 705.5029 HV=  0.0000 PPS= 25 (0.75s)
+  RVEA   s9  IGD= 897.0930 HV=  0.0000 PPS= 12 (0.73s)
+  RVEA   s10 IGD= 827.7737 HV=  0.0000 PPS= 22 (0.73s)
+  NSGA2  s1  IGD= 784.2477 HV=  0.0000 PPS=100 (0.66s)
+  NSGA2  s2  IGD=1513.5495 HV=  0.0000 PPS=100 (0.64s)
+  NSGA2  s3  IGD=1983.6494 HV=  0.0000 PPS= 99 (1.00s)
+  NSGA2  s4  IGD= 717.4319 HV=  0.0000 PPS= 98 (1.15s)
+  NSGA2  s5  IGD=2482.6879 HV=  0.0000 PPS=100 (1.11s)
+  NSGA2  s6  IGD= 427.6564 HV=  0.0000 PPS=100 (0.61s)
+  NSGA2  s7  IGD=3557.7875 HV=  0.0000 PPS=100 (0.70s)
+  NSGA2  s8  IGD= 662.3210 HV=  0.0000 PPS= 64 (0.58s)
+  NSGA2  s9  IGD=1440.2037 HV=  0.0000 PPS= 97 (0.78s)
+  NSGA2  s10 IGD=1074.9295 HV=  0.0000 PPS=100 (0.60s)
+=== CF1 (M=2 D=10) ===
+  VOR    s1  IGD=   0.0640 HV=  0.5885 PPS= 64 (0.42s)
+  VOR    s2  IGD=   0.0568 HV=  0.6009 PPS= 47 (0.42s)
+  VOR    s3  IGD=   0.0738 HV=  0.5727 PPS= 81 (0.31s)
+  VOR    s4  IGD=   0.0587 HV=  0.5978 PPS= 51 (0.31s)
+  VOR    s5  IGD=   0.0597 HV=  0.5947 PPS= 62 (0.35s)
+  VOR    s6  IGD=   0.0567 HV=  0.6015 PPS= 68 (0.46s)
+  VOR    s7  IGD=   0.0621 HV=  0.5906 PPS= 50 (0.31s)
+  VOR    s8  IGD=   0.0729 HV=  0.5731 PPS= 53 (0.31s)
+  VOR    s9  IGD=   0.0611 HV=  0.5944 PPS= 60 (0.32s)
+  VOR    s10 IGD=   0.0652 HV=  0.5846 PPS= 51 (0.43s)
+  EDD    s1  IGD=   0.0845 HV=  0.5660 PPS= 27 (0.41s)
+  EDD    s2  IGD=   0.0865 HV=  0.5610 PPS= 23 (0.41s)
+  EDD    s3  IGD=   0.0882 HV=  0.5645 PPS= 27 (0.49s)
+  EDD    s4  IGD=   0.0749 HV=  0.5752 PPS= 22 (0.40s)
+  EDD    s5  IGD=   0.0833 HV=  0.5683 PPS= 23 (0.39s)
+  EDD    s6  IGD=   0.0933 HV=  0.5544 PPS= 21 (0.52s)
+  EDD    s7  IGD=   0.0928 HV=  0.5605 PPS= 24 (0.40s)
+  EDD    s8  IGD=   0.0887 HV=  0.5581 PPS= 28 (0.39s)
+  EDD    s9  IGD=   0.0971 HV=  0.5496 PPS= 22 (0.49s)
+  EDD    s10 IGD=   0.0920 HV=  0.5591 PPS= 25 (0.40s)
+  MOEAD  s1  IGD=   0.0078 HV=  0.6941 PPS= 96 (1.71s)
+  MOEAD  s2  IGD=   0.0102 HV=  0.6897 PPS= 91 (1.59s)
+  MOEAD  s3  IGD=   0.0092 HV=  0.6909 PPS= 97 (1.59s)
+  MOEAD  s4  IGD=   0.0125 HV=  0.6837 PPS= 87 (1.53s)
+  MOEAD  s5  IGD=   0.0113 HV=  0.6872 PPS= 90 (1.48s)
+  MOEAD  s6  IGD=   0.0104 HV=  0.6887 PPS= 85 (1.68s)
+  MOEAD  s7  IGD=   0.0116 HV=  0.6850 PPS= 86 (2.21s)
+  MOEAD  s8  IGD=   0.0107 HV=  0.6884 PPS= 89 (1.56s)
+  MOEAD  s9  IGD=   0.0097 HV=  0.6902 PPS= 90 (1.50s)
+  MOEAD  s10 IGD=   0.0077 HV=  0.6944 PPS= 98 (1.42s)
+  RVEA   s1  IGD=   0.1206 HV=  0.4995 PPS= 25 (0.29s)
+  RVEA   s2  IGD=   0.1038 HV=  0.5172 PPS= 18 (0.28s)
+  RVEA   s3  IGD=   0.1180 HV=  0.4957 PPS= 26 (0.26s)
+  RVEA   s4  IGD=   0.0978 HV=  0.5258 PPS= 21 (0.26s)
+  RVEA   s5  IGD=   0.1104 HV=  0.5036 PPS= 19 (0.26s)
+  RVEA   s6  IGD=   0.0856 HV=  0.5486 PPS= 21 (0.28s)
+  RVEA   s7  IGD=   0.1146 HV=  0.4992 PPS= 21 (0.27s)
+  RVEA   s8  IGD=   0.1248 HV=  0.4825 PPS= 21 (0.25s)
+  RVEA   s9  IGD=   0.1115 HV=  0.5061 PPS= 22 (0.26s)
+  RVEA   s10 IGD=   0.0923 HV=  0.5392 PPS= 19 (0.27s)
+  NSGA2  s1  IGD=   0.0551 HV=  0.6031 PPS= 61 (0.15s)
+  NSGA2  s2  IGD=   0.0707 HV=  0.5792 PPS= 64 (0.13s)
+  NSGA2  s3  IGD=   0.0557 HV=  0.6029 PPS= 51 (0.13s)
+  NSGA2  s4  IGD=   0.0630 HV=  0.5900 PPS= 71 (0.14s)
+  NSGA2  s5  IGD=   0.0612 HV=  0.5938 PPS= 58 (0.15s)
+  NSGA2  s6  IGD=   0.0645 HV=  0.5883 PPS= 63 (0.14s)
+  NSGA2  s7  IGD=   0.0592 HV=  0.5967 PPS= 53 (0.14s)
+  NSGA2  s8  IGD=   0.0597 HV=  0.5985 PPS= 67 (0.13s)
+  NSGA2  s9  IGD=   0.0677 HV=  0.5831 PPS= 61 (0.14s)
+  NSGA2  s10 IGD=   0.0586 HV=  0.5961 PPS= 57 (0.14s)
+=== DTLZ2_300D_M3 (M=3 D=300) ===
+  VOR    s1  IGD=   1.6764 HV=  0.0000 PPS= 90 (0.66s)
+  VOR    s2  IGD=   1.4470 HV=  0.0000 PPS= 99 (0.57s)
+  VOR    s3  IGD=   1.6567 HV=  0.0000 PPS= 83 (0.59s)
+  VOR    s4  IGD=   1.6168 HV=  0.0000 PPS= 97 (0.60s)
+  VOR    s5  IGD=   1.4516 HV=  0.0000 PPS= 88 (0.58s)
+  VOR    s6  IGD=   1.5625 HV=  0.0000 PPS= 89 (0.60s)
+  VOR    s7  IGD=   1.6902 HV=  0.0000 PPS= 99 (0.56s)
+  VOR    s8  IGD=   1.5313 HV=  0.0000 PPS= 98 (0.51s)
+  VOR    s9  IGD=   1.2761 HV=  0.0000 PPS=100 (0.56s)
+  VOR    s10 IGD=   1.5344 HV=  0.0000 PPS= 98 (0.55s)
+  EDD    s1  IGD=   0.6782 HV=  0.0596 PPS= 44 (0.35s)
+  EDD    s2  IGD=   0.7187 HV=  0.0408 PPS= 22 (0.40s)
+  EDD    s3  IGD=   0.7484 HV=  0.0319 PPS= 41 (0.39s)
+  EDD    s4  IGD=   0.7550 HV=  0.0293 PPS= 60 (0.37s)
+  EDD    s5  IGD=   0.7266 HV=  0.0388 PPS= 30 (0.42s)
+  EDD    s6  IGD=   0.7538 HV=  0.0298 PPS= 47 (0.48s)
+  EDD    s7  IGD=   0.7246 HV=  0.0394 PPS= 34 (0.38s)
+  EDD    s8  IGD=   0.7927 HV=  0.0200 PPS= 51 (0.40s)
+  EDD    s9  IGD=   0.7664 HV=  0.0259 PPS= 32 (0.39s)
+  EDD    s10 IGD=   0.7090 HV=  0.0439 PPS= 22 (0.42s)
+  MOEAD  s1  IGD=   4.6115 HV=  0.0000 PPS= 81 (1.31s)
+  MOEAD  s2  IGD=   3.8831 HV=  0.0000 PPS= 81 (1.27s)
+  MOEAD  s3  IGD=   5.0613 HV=  0.0000 PPS= 82 (1.34s)
+  MOEAD  s4  IGD=   4.4645 HV=  0.0000 PPS= 82 (1.27s)
+  MOEAD  s5  IGD=   3.8846 HV=  0.0000 PPS= 81 (1.27s)
+  MOEAD  s6  IGD=   3.2660 HV=  0.0000 PPS= 82 (1.27s)
+  MOEAD  s7  IGD=   5.1226 HV=  0.0000 PPS= 75 (1.32s)
+  MOEAD  s8  IGD=   4.5580 HV=  0.0000 PPS= 81 (1.27s)
+  MOEAD  s9  IGD=   4.8768 HV=  0.0000 PPS= 79 (1.35s)
+  MOEAD  s10 IGD=   4.4181 HV=  0.0000 PPS= 78 (1.27s)
+  RVEA   s1  IGD=   2.5670 HV=  0.0000 PPS= 57 (0.49s)
+  RVEA   s2  IGD=   2.1465 HV=  0.0000 PPS= 64 (0.49s)
+  RVEA   s3  IGD=   2.1222 HV=  0.0000 PPS= 71 (0.49s)
+  RVEA   s4  IGD=   2.4030 HV=  0.0000 PPS= 61 (0.49s)
+  RVEA   s5  IGD=   2.7666 HV=  0.0000 PPS= 58 (0.49s)
+  RVEA   s6  IGD=   2.3366 HV=  0.0000 PPS= 63 (0.51s)
+  RVEA   s7  IGD=   2.7281 HV=  0.0000 PPS= 64 (0.50s)
+  RVEA   s8  IGD=   2.2782 HV=  0.0000 PPS= 58 (0.50s)
+  RVEA   s9  IGD=   2.5817 HV=  0.0000 PPS= 58 (0.51s)
+  RVEA   s10 IGD=   2.6651 HV=  0.0000 PPS= 62 (0.50s)
+  NSGA2  s1  IGD=   2.0618 HV=  0.0000 PPS=100 (0.38s)
+  NSGA2  s2  IGD=   2.0827 HV=  0.0000 PPS=100 (0.38s)
+  NSGA2  s3  IGD=   1.8580 HV=  0.0000 PPS=100 (0.42s)
+  NSGA2  s4  IGD=   2.0060 HV=  0.0000 PPS=100 (0.37s)
+  NSGA2  s5  IGD=   2.3454 HV=  0.0000 PPS=100 (0.40s)
+  NSGA2  s6  IGD=   2.0779 HV=  0.0000 PPS=100 (0.41s)
+  NSGA2  s7  IGD=   2.0986 HV=  0.0000 PPS=100 (0.39s)
+  NSGA2  s8  IGD=   1.9955 HV=  0.0000 PPS=100 (0.37s)
+  NSGA2  s9  IGD=   2.0189 HV=  0.0000 PPS=100 (0.38s)
+  NSGA2  s10 IGD=   2.2944 HV=  0.0000 PPS=100 (0.37s)
+=== ZDT1 (M=2 D=30) ===
+  VOR    s1  IGD=   0.3937 HV=  0.5178 PPS= 98 (0.18s)
+  VOR    s2  IGD=   0.3879 HV=  0.5378 PPS= 97 (0.16s)
+  VOR    s3  IGD=   0.4054 HV=  0.5122 PPS= 99 (0.16s)
+  VOR    s4  IGD=   0.4068 HV=  0.5162 PPS= 97 (0.16s)
+  VOR    s5  IGD=   0.3902 HV=  0.5163 PPS= 98 (0.17s)
+  VOR    s6  IGD=   0.4077 HV=  0.5177 PPS= 98 (0.25s)
+  VOR    s7  IGD=   0.3882 HV=  0.5420 PPS= 98 (0.25s)
+  VOR    s8  IGD=   0.3921 HV=  0.5314 PPS= 97 (0.16s)
+  VOR    s9  IGD=   0.3828 HV=  0.5487 PPS= 98 (0.18s)
+  VOR    s10 IGD=   0.3837 HV=  0.5202 PPS= 97 (0.16s)
+  EDD    s1  IGD=   0.0042 HV=  0.8698 PPS= 99 (1.05s)
+  EDD    s2  IGD=   0.0041 HV=  0.8702 PPS=100 (0.95s)
+  EDD    s3  IGD=   0.0043 HV=  0.8698 PPS= 99 (0.96s)
+  EDD    s4  IGD=   0.0053 HV=  0.8674 PPS= 98 (0.96s)
+  EDD    s5  IGD=   0.0041 HV=  0.8705 PPS= 99 (0.94s)
+  EDD    s6  IGD=   0.0043 HV=  0.8696 PPS=100 (0.94s)
+  EDD    s7  IGD=   0.0044 HV=  0.8694 PPS= 99 (0.96s)
+  EDD    s8  IGD=   0.0043 HV=  0.8696 PPS= 99 (0.97s)
+  EDD    s9  IGD=   0.0042 HV=  0.8699 PPS=100 (0.95s)
+  EDD    s10 IGD=   0.0042 HV=  0.8700 PPS=100 (0.95s)
+  MOEAD  s1  IGD=   0.0253 HV=  0.8412 PPS= 61 (0.75s)
+  MOEAD  s2  IGD=   0.0484 HV=  0.8260 PPS= 77 (0.72s)
+  MOEAD  s3  IGD=   0.0125 HV=  0.8532 PPS= 84 (0.71s)
+  MOEAD  s4  IGD=   0.0118 HV=  0.8555 PPS= 80 (0.71s)
+  MOEAD  s5  IGD=   0.0109 HV=  0.8564 PPS= 80 (0.71s)
+  MOEAD  s6  IGD=   0.0141 HV=  0.8514 PPS= 82 (0.71s)
+  MOEAD  s7  IGD=   0.0599 HV=  0.8196 PPS= 82 (0.72s)
+  MOEAD  s8  IGD=   0.0157 HV=  0.8514 PPS= 68 (0.72s)
+  MOEAD  s9  IGD=   0.0168 HV=  0.8487 PPS= 77 (0.74s)
+  MOEAD  s10 IGD=   0.0162 HV=  0.8511 PPS= 84 (0.71s)
+  RVEA   s1  IGD=   0.0480 HV=  0.7955 PPS= 48 (0.20s)
+  RVEA   s2  IGD=   0.0481 HV=  0.7938 PPS= 42 (0.20s)
+  RVEA   s3  IGD=   0.0480 HV=  0.7944 PPS= 48 (0.20s)
+  RVEA   s4  IGD=   0.0381 HV=  0.8104 PPS= 50 (0.23s)
+  RVEA   s5  IGD=   0.0453 HV=  0.7975 PPS= 47 (0.19s)
+  RVEA   s6  IGD=   0.0538 HV=  0.7851 PPS= 51 (0.20s)
+  RVEA   s7  IGD=   0.0599 HV=  0.7742 PPS= 54 (0.19s)
+  RVEA   s8  IGD=   0.0455 HV=  0.7990 PPS= 58 (0.20s)
+  RVEA   s9  IGD=   0.0467 HV=  0.7973 PPS= 50 (0.20s)
+  RVEA   s10 IGD=   0.0380 HV=  0.8106 PPS= 50 (0.25s)
+  NSGA2  s1  IGD=   0.0050 HV=  0.8687 PPS=100 (0.08s)
+  NSGA2  s2  IGD=   0.0051 HV=  0.8687 PPS=100 (0.08s)
+  NSGA2  s3  IGD=   0.0051 HV=  0.8690 PPS=100 (0.09s)
+  NSGA2  s4  IGD=   0.0051 HV=  0.8690 PPS=100 (0.08s)
+  NSGA2  s5  IGD=   0.0052 HV=  0.8684 PPS=100 (0.08s)
+  NSGA2  s6  IGD=   0.0052 HV=  0.8690 PPS=100 (0.08s)
+  NSGA2  s7  IGD=   0.0051 HV=  0.8692 PPS=100 (0.08s)
+  NSGA2  s8  IGD=   0.0048 HV=  0.8695 PPS=100 (0.08s)
+  NSGA2  s9  IGD=   0.0053 HV=  0.8684 PPS=100 (0.08s)
+  NSGA2  s10 IGD=   0.0050 HV=  0.8693 PPS=100 (0.08s)
+
+=== 汇总 (10 seeds 均值 ± 标准差) ===
+Algo     Problem                     IGD           HV      PPS
+{中间 花括号 '{}' 索引 生成了包含 10 个值的以逗号分隔的列表，但它在后跟后续索引操作时必须生成单一值。
+
+出错 run_vor_bench (第 62 行)
+        igd = cell2mat(res.igd{ai,pi,:}(:));
+                       ^^^^^^^^^^^^^^^^^^^
+出错 vor_bench_bg (第 4 行)
+run_vor_bench();
+^^^^^^^^^^^^^^^
+} 
+ERROR: MATLAB error Exit Status: 0x00000001

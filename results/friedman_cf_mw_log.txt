@@ -1,0 +1,112 @@
+﻿EDD_cf   IGD��=24/24 HV��=24/24
+MOEAD    IGD��=24/24 HV��=24/24
+MOGWO    IGD��=24/24 HV��=24/24
+NSGA2    IGD��=24/24 HV��=24/24
+NSGA3    IGD��=24/24 HV��=24/24
+RVEA     IGD��=24/24 HV��=24/24
+SMSEMOA  IGD��=24/24 HV��=24/24
+SPEA2    IGD��=24/24 HV��=24/24
+AGEMOEA  IGD��=24/24 HV��=24/24
+FDSEA    CF8      ���Ӳ���: 4/30
+FDSEA    CF10     ���Ӳ���: 26/30
+FDSEA    MW1      ���Ӳ���: 0/30
+FDSEA    MW2      ���Ӳ���: 0/30
+FDSEA    MW3      ���Ӳ���: 3/30
+FDSEA    MW4      ���Ӳ���: 0/30
+FDSEA    MW5      ���Ӳ���: 0/30
+FDSEA    MW6      ���Ӳ���: 0/30
+FDSEA    MW7      ���Ӳ���: 2/30
+FDSEA    MW8      ���Ӳ���: 0/30
+FDSEA    MW9      ���Ӳ���: 0/30
+FDSEA    MW10     ���Ӳ���: 5/30
+FDSEA    MW11     ���Ӳ���: 0/30
+FDSEA    MW12     ���Ӳ���: 0/30
+FDSEA    MW13     ���Ӳ���: 0/30
+FDSEA    MW14     ���Ӳ���: 0/30
+FDSEA    IGD��=8/24 HV��=8/24
+GDVTSF   IGD��=24/24 HV��=24/24
+MOEA-IB  CF8      ���Ӳ���: 11/30
+MOEA-IB  CF10     ���Ӳ���: 0/30
+MOEA-IB  MW1      ���Ӳ���: 0/30
+MOEA-IB  MW2      ���Ӳ���: 0/30
+MOEA-IB  MW3      ���Ӳ���: 0/30
+MOEA-IB  MW4      ���Ӳ���: 0/30
+MOEA-IB  MW5      ���Ӳ���: 0/30
+MOEA-IB  MW6      ���Ӳ���: 0/30
+MOEA-IB  MW7      ���Ӳ���: 0/30
+MOEA-IB  MW8      ���Ӳ���: 0/30
+MOEA-IB  MW9      ���Ӳ���: 0/30
+MOEA-IB  MW10     ���Ӳ���: 0/30
+MOEA-IB  MW11     ���Ӳ���: 0/30
+MOEA-IB  MW12     ���Ӳ���: 0/30
+MOEA-IB  MW13     ���Ӳ���: 4/30
+MOEA-IB  MW14     ���Ӳ���: 2/30
+MOEA-IB  IGD��=8/24 HV��=8/24
+
+ȫ 12 �㷨ȫ�������: 8/24
+
+=== IGD Friedman��8 �⣬12 �㷨��С=�ã�===
+  1. MOEA-IB  ��=2.250
+  2. GDVTSF   ��=3.500
+  3. FDSEA    ��=4.000
+  4. NSGA3    ��=4.750
+  5. NSGA2    ��=5.500
+  6. RVEA     ��=5.500
+  7. AGEMOEA  ��=6.000
+  8. SPEA2    ��=7.750
+  9. SMSEMOA  ��=8.500
+  10. MOEAD    ��=9.500
+  11. MOGWO    ��=10.000
+  12. EDD_cf   ��=10.750
+
+=== HV Friedman��  1. GDVTSF   ��=2.500
+  2. MOEA-IB  ��=3.500
+  3. AGEMOEA  ��=4.500
+  4. NSGA2    ��=4.750
+  5. NSGA3    ��=5.000
+  6. FDSEA    ��=5.000
+  7. SPEA2    ��=7.000
+  8. RVEA     ��=7.500
+  9. SMSEMOA  ��=8.750
+  10. MOEAD    ��=9.000
+  11. MOGWO    ��=9.500
+  12. EDD_cf   ��=11.000
+
+=== �ۺ� Friedman��(IGD+HV)/2��С=�ã�===
+  1. MOEA-IB  ��=2.875
+  2. GDVTSF   ��=3.000
+  3. FDSEA    ��=4.500
+  4. NSGA3    ��=4.875
+  5. NSGA2    ��=5.125
+  6. AGEMOEA  ��=5.250
+  7. RVEA     ��=6.500
+  8. SPEA2    ��=7.375
+  9. SMSEMOA  ��=8.625
+  10. MOEAD    ��=9.250
+  11. MOGWO    ��=9.750
+  12. EDD_cf   ��=10.875
+
+IGD Friedman stat=51.38 pval=3.523e-07
+
+=== ���⼶ Wilcoxon��EDD_cf vs ����ȫ���� IGD��===
+  EDD_cf vs MOEAD   : IGD win=2 lose=6 tie=0 p=1
+  EDD_cf vs MOGWO   : IGD win=2 lose=6 tie=0 p=1
+  EDD_cf vs NSGA2   : IGD win=0 lose=8 tie=0 p=1
+  EDD_cf vs NSGA3   : IGD win=0 lose=8 tie=0 p=1
+  EDD_cf vs RVEA    : IGD win=1 lose=7 tie=0 p=1
+  EDD_cf vs SMSEMOA : IGD win=1 lose=7 tie=0 p=1
+  EDD_cf vs SPEA2   : IGD win=2 lose=6 tie=0 p=1
+  EDD_cf vs AGEMOEA : IGD win=0 lose=8 tie=0 p=1
+  EDD_cf vs FDSEA   : IGD win=0 lose=8 tie=0 p=1
+  EDD_cf vs GDVTSF  : IGD win=0 lose=8 tie=0 p=1
+  EDD_cf vs MOEA-IB : IGD win=0 lose=8 tie=0 p=1
+
+=== EDD_cf CF/MW �ж���8 ȫ���⣩===
+EDD_cf IGD ��=10.750 (�� 12 �� / 12)
+EDD_cf HV  ��=11.000 (�� 12 �� / 12)
+EDD_cf �ۺ���=10.875 (�� 12 �� / 12)
+Wilcoxon p<0.05 ����: 0 / 11
+
+>>> EDD_cf ���ȫ����һ �� ��������7�������ж���Ӳ���ޣ�
+
+�Ѵ� results/friedman_cf_mw.mat
