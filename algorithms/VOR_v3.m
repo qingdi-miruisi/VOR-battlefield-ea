@@ -47,6 +47,10 @@ classdef VOR_v3 < ALGORITHM
         hasCon;
         igdHistory;
         pfTrue;
+        %% SOTA 追赶：频域搜索（FDSEA P0）
+        Kfd;            % 频域阶数
+        fdParams;       % 频域参数种群 (N x (2K+2))
+        fdActive;       % 频域槽激活标志
     end
 
     methods
@@ -68,6 +72,7 @@ classdef VOR_v3 < ALGORITHM
             obj.Lcenter = []; obj.Lidx = []; obj.Lrd = []; obj.GDVK = 5;
             obj.hasCon = false;
             obj.igdHistory = []; obj.pfTrue = [];
+            obj.Kfd = 5; obj.fdParams = []; obj.fdActive = false;
         end
 
         %% ===== 主循环（SSV → W → 主算子槽 + 辅助槽） =====
@@ -218,9 +223,11 @@ classdef VOR_v3 < ALGORITHM
                     elseif gdvActive
                         Pop = obj.qepsGeneration(Problem, Pop, N, M, 'GDV');
                         obj.OpHist(gen) = 5;
-                    elseif dsgElig
+                    elseif obj.sScale >= 0.33
+                        % 大尺度战场：收敛采样辅助（ECSOCS P1，每 20 代低比例替换）+ DSG
+                        Pop = obj.convSampleAssist(Problem, Pop, N, M, gen);
                         Pop = obj.qepsGeneration(Problem, Pop, N, M, 'DSG');
-                        obj.OpHist(gen) = 4;
+                        obj.OpHist(gen) = 6;
                     else
                         Pop = obj.qepsGeneration(Problem, Pop, N, M, 'SBX');
                         obj.OpHist(gen) = 3;
@@ -620,7 +627,141 @@ classdef VOR_v3 < ALGORITHM
             end
         end
 
-        %% ===== K-means / 距离 / HV 工具 =====
+        %% ===== 收敛采样辅助（ECSOCS P1：front-1 引导 + 上下界方向采样，低比例替换保多样性） =====
+        function Pop = convSampleAssist(obj, Problem, Pop, N, M, gen)
+            D = Problem.nVar;
+            if D < 100
+                return;
+            end
+            lb = Problem.lower; ub = Problem.upper;
+            [fn, ~] = NDSort(Pop.objs, Pop.cons, 1);
+            f1 = find(fn == 1);
+            if isempty(f1)
+                return;
+            end
+            % 每 20 代做一次，避免每代破坏多样性
+            if mod(gen, 20) ~= 0
+                return;
+            end
+            nGuide = min(numel(f1), max(4, round(N/5)));
+            guides = Pop.decs(f1(1:nGuide), :);
+            nCand = nGuide;
+            newDe = zeros(nCand, D);
+            for i = 1:nCand
+                g = guides(i, :);
+                r1 = rand(1, D);
+                c1 = min(max(g + 0.05*r1.*(ub - g), lb), ub);
+                newDe(i, :) = c1;
+            end
+            newO = Problem.CalObj(newDe);
+            newC = Problem.CalCon(newDe);
+            [fn2, ~] = NDSort(newO, newC, 1);
+            keep = find(fn2 == 1);
+            if isempty(keep)
+                keep = 1:min(nCand, 2);
+            end
+            keep = keep(1:min(numel(keep), max(2, round(N/10))));
+            % 替换 Pop 中前 numel(keep) 个（低比例，保多样性）
+            Pop.decs(keep, :) = newDe(keep, :);
+            Pop.objs(keep, :) = newO(keep, :);
+            Pop.cons(keep, :) = newC(keep, :);
+        end
+        %% ===== 频域搜索（FDSEA P0：频域参数降维 SBX + DFT 反变换） =====
+        function Pop = freqDomainGeneration(obj, Problem, Pop, N, M)
+            D = Problem.nVar;
+            K = obj.Kfd;
+            lb = Problem.lower; ub = Problem.upper;
+            width = ub - lb; width(width == 0) = 1;
+            if isempty(obj.fdParams) || size(obj.fdParams, 2) ~= 2*K+2
+                obj.fdParams = obj.calMPFromDec(Problem, Pop.decs, D, K);
+            end
+            P = obj.fdParams;
+            nHalf = floor(N/2);
+            P1 = P(1:nHalf, :); P2 = P(nHalf+1:2*nHalf, :);
+            N1 = size(P1, 1);
+            disC = 20;
+            beta = zeros(N1, 2*K+2);
+            mu = rand(N1, 2*K+2);
+            beta(mu <= 0.5) = (2*mu(mu <= 0.5)).^(1/(disC+1));
+            beta(mu > 0.5) = (2-2*mu(mu > 0.5)).^(-1/(disC+1));
+            beta = beta .* (-1).^randi([0,1], N1, 2*K+2);
+            beta(rand(N1, 2*K+2) < 0.5) = 1;
+            offP = [(P1+P2)/2 + beta.*(P1-P2)/2;
+                    (P1+P2)/2 - beta.*(P1-P2)/2];
+            offP = offP(1:min(N, size(offP,1)), :);
+            proM = 1;
+            Lp = 2*K+2;
+            Site = rand(size(offP,1), Lp) < proM/Lp;
+            mm = rand(size(offP,1), Lp);
+            temp = Site & (mm <= 0.5);
+            offP(temp) = offP(temp) + (2*mm(temp)+(1-2*mm(temp)).*(1-offP(temp)).^(disC+1)).^(1/(disC+1))-1;
+            temp2 = Site & (mm > 0.5);
+            offP(temp2) = offP(temp2) + 1-(2*(1-mm(temp2))+2*(mm(temp2)-0.5).*(1-(1-offP(temp2))).^(disC+1)).^(1/(disC+1));
+            offP = min(max(offP, 0), 1);
+            nOff = size(offP, 1);
+            offDec01 = obj.calDecFromParams(offP, nOff, D, K);
+            offDec = offDec01 .* width + lb;
+            offO = Problem.CalObj(offDec);
+            offC = Problem.CalCon(offDec);
+            oldDec01 = obj.calDecFromParams(obj.fdParams, N, D, K);
+            oldDec = oldDec01 .* width + lb;
+            newDec = [oldDec; offDec];
+            newO = [Problem.CalObj(oldDec); offO];
+            newC = [Problem.CalCon(oldDec); offC];
+            nAll = size(newO, 1);
+            [fn, ~] = NDSort(newO, newC, 1);
+            f1 = find(fn == 1);
+            f1 = f1(:);
+            if isempty(f1), f1 = (1:N)'; end
+            if numel(f1) > N
+                d0 = sum(newO(f1, :).^2, 2);
+                [~, ord] = sort(d0);
+                f1 = f1(ord(1:N));
+            elseif numel(f1) < N
+                f1 = [f1; setdiff(1:nAll, f1)'];
+            end
+            keep = f1(1:N);
+            obj.fdParams = obj.calMPFromDec(Problem, newDec(keep, :), D, K);
+            Pop.decs = newDec(keep, :);
+            Pop.objs = newO(keep, :);
+            Pop.cons = newC(keep, :);
+        end
+
+        function P = calMPFromDec(obj, Problem, decs, D, K)
+            N = size(decs, 1);
+            lb = Problem.lower; ub = Problem.upper;
+            width = ub - lb; width(width == 0) = 1;
+            P = zeros(N, 2*K+2);
+            j = (1:D)';
+            for i = 1:N
+                x = (decs(i, :) - lb) ./ width;
+                P(i, 2*K+2) = sum(x)/D;          % DC
+                P(i, 2*K+1) = 2*pi/D;             % omega
+                % 最小二乘 DFT 拟合：幅值/相位从真实数据计算
+                x0 = x - P(i, 2*K+2)/2;
+                for k = 1:K
+                    w = k*P(i, 2*K+1)*j';  % 1xD
+                    A_k = 2*sum(x0 .* cos(w))/D;
+                    B_k = 2*sum(x0 .* sin(w))/D;
+                    P(i, 2*k-1) = sqrt(A_k^2 + B_k^2);
+                    P(i, 2*k) = atan2(B_k, A_k);
+                end
+            end
+        end
+
+        function dec01 = calDecFromParams(obj, P, N, D, K)
+            dec01 = zeros(N, D);
+            omega = P(:, 2*K+1);
+            for i = 1:N
+                for j = 1:D
+                    v = P(i, 2*K+2)/2;
+                    for k = 1:K
+                        v = v + P(i, 2*k-1)*cos(k*omega(i)*j + P(i, 2*k));
+                    end
+                    dec01(i, j) = v;
+                end
+            end
+        end
         function [idx, center] = kmeansLocal(obj, X, K, seed)
             n = size(X, 1);
             rng(seed);

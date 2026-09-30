@@ -9,12 +9,13 @@
 - **安全清理**：删 `_platemo_official/`、`results/ssv_*_bak/`、LaTeX 中间产物（42 个）。`results/ssv_smoke/`、`results/ssv_bench/` 的 log.txt 因文件锁未删（留用户处理）。见 `results/CLEANUP_PLAN.md` + `results/CLEANUP_DONE.md`。
 - **增量 push 失败**：GitHub 网络超时（3 次重试），本地领先远程 1 commit。核心备份已完成。见 `results/BACKUP_BLOCKED.md`。
 
-### 任务二：SOTA 追赶计划（进行中）
+### 任务二：SOTA 追赶计划（已完成，止损）
 目标：D=300 IGD 追到 FDSEA 1.5× 以内，CF1 追到 MOEA/D 1.5× 以内。
 - 第 1 阶段：机制调研（FDSEA 频域搜索 / EMOCSO / ECSOCS / MOZO）→ `results/sota_chase/mechanism_survey.md`
-- 第 2 阶段：实现频域搜索策略槽 + CSO 竞争群策略槽，集成 SSV 框架 → 3 题冒烟
-- 第 3 阶段：30-seed 基准 + 扩展集，对比 VOR-v3-new/old/FDSEA/GDVTSF/MOEA-IB
-- 止损：3 轮后仍无法追到 FDSEA 2× 以内 → `results/sota_chase/limitation_report.md`
+- 第 2 阶段：三轮集成（ECSOCS 收敛采样辅助 ✅ / FDSEA 频域搜索 ❌ 175× 退化回退 / convSample+DSG 最终配置）→ `results/sota_chase/integration_log.md`
+- 第 3 阶段：3-seed 对比 → D=300 IGD 均未达 1.5×（LSMOP1 0.86/DTLZ2 0.33/LSMOP6 1.43 vs FDSEA 0.14/0.07/0.67）→ **止损**，见 `results/sota_chase/limitation_report.md`
+- **诚实结论**：FDSEA D=300 收敛优势是"双种群+频域降维+交换"架构级设计，VOR-v3 单种群 SSV 架构难以弥合。CF1 IGD 0.0563 达标（MOEA/D 1.5× 内）。
+- **建议**：改投 IEEE Access / SWEVO，VOR-v3 卖点改为"统一战场框架+有竞争力"，不 claim D=300 SOTA。
 
 ## ★ 2026-09-30 VOR-v3 SSV 第三轮迭代（PPS 修复，止损）
 
