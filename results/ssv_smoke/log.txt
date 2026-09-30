@@ -1,0 +1,15 @@
+
+=== ZDT1 (D=30) ===
+VOR-v2 ZDT1: final IGD=0.0041 el=1.6s PPS=100
+VOR_v3 ZDT1: final IGD=0.0042 el=1.2s PPS=100
+GATE ZDT1: v3=0.0042 vs 1.05*v2=0.0043 (ratio=1.015) -> PASS
+
+=== CF1 (D=10) ===
+VOR-v2 CF1: final IGD=0.0595 el=0.4s PPS=66
+VOR_v3 CF1: final IGD=0.0212 el=1.8s PPS=6
+GATE CF1: v3=0.0212 vs 1.05*v2=0.0625 (ratio=0.357) -> PASS
+
+=== LSMOP1 (D=300) ===
+VOR-v2 LSMOP1: final IGD=0.6529 el=0.9s PPS=100
+VOR_v3 LSMOP1: final IGD=0.6402 el=0.7s PPS=92
+GATE LSMOP1: v3=0.6402 vs 1.05*v2=0.6855 (ratio=0.981) -> PASS

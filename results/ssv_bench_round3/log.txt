@@ -1,0 +1,59 @@
+=== SSV BENCH ROUND3: 6 problems x 30 seeds x {VOR-v2, VOR-v3} ===
+Started: 30-Sep-2026 09:47:42
+
+=== ZDT1 (D=30) ===
+
+=== ZDT1 (D=30) ===
+
+=== ZDT1 (D=30) ===
+
+=== ZDT1 (D=30) ===
+
+=== ZDT1 (D=30) ===
+  ZDT1: v2=0.0041±0.0002 PPS=100.0 | v3=0.0042±0.0002 PPS=100.0 | ratio=1.015 ppsMin=95 4T_OV (total 80s)
+  ASS: v2=67.1750±  IGD gate (<=1.05): PASS | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): PASS | PPS gate (>=
+=== CF1 (D=10) ===
+  CF1: v2=0.0627±0.0047 PPS=58.1 | v3=0.0560±0.0048 PPS=51.1 | ratio=0.894 ppsMin=95 4T_OV (total 70s)
+  AIL: v2=41.8275±  IGD gate (<=1.05): PASS | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): FAIL | PPS gate (>=
+=== LSMOP1 (D=300) ===
+  LSMOP1: v2=0.7057±0.0473 PPS=92.5 | v3=0.7162±0.0405 PPS=87.8 | ratio=1.015 ppsMin=95 4T_OV (total 80s)
+  ASS: v2=44.7147±  IGD gate (<=1.05): PASS | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): FAIL | PPS gate (>=
+=== MaF14 (D=60) ===
+  MaF14: v2=0.8628±0.0000 PPS=100.0 | v3=0.8628±0.0000 PPS=100.0 | ratio=1.000 ppsMin=95 4T_OV (total 80s)
+  ASS: v2=19.5778±  IGD gate (<=1.05): PASS | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): PASS | PPS gate (>=
+=== DTLZ2_300D (D=300) ===
+  DTLZ2_300D: v2=0.7486±0.1108 PPS=88.0 | v3=0.3666±0.0304 PPS=90.5 | ratio=0.490 ppsMin=95 4T_OV (total 80s)
+  ASS: v2=43.6916±  IGD gate (<=1.05): PASS | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): FAIL | PPS gate (>=
+=== LSMOP6 (D=300) ===
+  LSMOP6: v2=1.6078±0.0712 PPS=96.2 | v3=1.7259±0.6345 PPS=69.2 | ratio=1.073 ppsMin=95 4T_OV (total 70s)
+  AIL: v2=58.0527±  IGD gate (<=1.05): FAIL | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): FAIL | PPS gate (>=
+=== ZDT1 (D=30) ===
+  ZDT1: v2=0.0041±0.0002 PPS=100.0 | v3=0.0042±0.0002 PPS=100.0 | ratio=1.015 ppsMin=95 4T_OV (total 80s)
+  ASS: v2=69.0152±  IGD gate (<=1.05): PASS | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): PASS | PPS gate (>=
+=== CF1 (D=10) ===
+  CF1: v2=0.0627±0.0047 PPS=58.1 | v3=0.0560±0.0048 PPS=51.1 | ratio=0.894 ppsMin=95 4T_OV (total 70s)
+  AIL: v2=41.1418±  IGD gate (<=1.05): PASS | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): FAIL | PPS gate (>=
+=== LSMOP1 (D=300) ===
+  LSMOP1: v2=0.7057±0.0473 PPS=92.5 | v3=0.7162±0.0405 PPS=87.8 | ratio=1.015 ppsMin=95 4T_OV (total 80s)
+  ASS: v2=46.2747±  IGD gate (<=1.05): PASS | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): FAIL | PPS gate (>=
+=== MaF14 (D=60) ===
+  MaF14: v2=0.8628±0.0000 PPS=100.0 | v3=1.2399±0.7797 PPS=68.3 | ratio=1.437 ppsMin=95 4T_OV (total 70s)
+  AIL: v2=21.2048±  IGD gate (<=1.05): FAIL | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): FAIL | PPS gate (>=
+=== DTLZ2_300D (D=300) ===
+  DTLZ2_300D: v2=0.7486±0.1108 PPS=88.0 | v3=0.3666±0.0304 PPS=90.5 | ratio=0.490 ppsMin=95 4T_OV (total 80s)
+  ASS: v2=38.9573±  IGD gate (<=1.05): PASS | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): FAIL | PPS gate (>=
+=== LSMOP6 (D=300) ===
+  LSMOP6: v2=1.6078±0.0712 PPS=96.2 | v3=1.7259±0.6345 PPS=69.2 | ratio=1.073 ppsMin=95 4T_OV (total 70s)
+  AIL: v2=58.1413±  IGD gate (<=1.05): FAIL | PPS gate (>=95): 4T_OV
+  IGD gate (<=1.05): FAIL | PPS gate (>=
