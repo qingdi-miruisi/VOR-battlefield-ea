@@ -1,7 +1,22 @@
 # 进度记录 — VOR 改进冲刺（2026 新一轮）
 
 ## 一句话状态
-**VOR 拿下 4/6 题 IGD 第 1（ZDT1/LSMOP1/DTLZ2_300D/LSMOP6），全面超 EDD。MaF14 第 2、CF1 第 3（诚实边界：MOEAD 结构优势）。英文应用期刊稿 paper_en/main.tex（elsarticle，投 Elsevier Applied Soft Computing）已写成并编译成 main.pdf（18 页，零错误），含 SOTA 三件套（FDSEA/GDVTSF/MOEA-IB）对比 + Friedman/Wilcoxon 显著性检验 + 3 张矢量图 + 13 条真实参考文献。中文论文 paper_cn/main.tex 已写成并编译成 main.pdf（7 页，零错误）。**
+**GitHub 备份已完成（远程 main → 48d6e2d2b，3888 files + 906 .mat）。安全清理已执行（删 _platemo_official/、LaTeX 中间产物、_bak 目录；ssv_smoke/ssv_bench 因 log.txt 文件锁残留）。VOR-v3 SSV 第三轮止损完成（4/6 达标，CF1/LSMOP6 Pareto 冲突）。SOTA 追赶计划启动：机制调研 FDSEA/EMOCSO/ECSOCS/MOZO，目标 D=300 IGD 追到 FDSEA 1.5× 以内。**
+
+## ★ 2026-09-30 备份 + 清理 + SOTA 追赶（最新）
+### 任务一：备份 + 安全清理
+- **GitHub 备份**：`git push` 成功（commit 48d6e2d2b），远程 main 含全部关键文件 + 906 .mat。token 已重置移除。见 `results/BACKUP_DONE.md`。
+- **安全清理**：删 `_platemo_official/`、`results/ssv_*_bak/`、LaTeX 中间产物（42 个）。`results/ssv_smoke/`、`results/ssv_bench/` 的 log.txt 因文件锁未删（留用户处理）。见 `results/CLEANUP_PLAN.md` + `results/CLEANUP_DONE.md`。
+- **增量 push 失败**：GitHub 网络超时（3 次重试），本地领先远程 1 commit。核心备份已完成。见 `results/BACKUP_BLOCKED.md`。
+
+### 任务二：SOTA 追赶计划（进行中）
+目标：D=300 IGD 追到 FDSEA 1.5× 以内，CF1 追到 MOEA/D 1.5× 以内。
+- 第 1 阶段：机制调研（FDSEA 频域搜索 / EMOCSO / ECSOCS / MOZO）→ `results/sota_chase/mechanism_survey.md`
+- 第 2 阶段：实现频域搜索策略槽 + CSO 竞争群策略槽，集成 SSV 框架 → 3 题冒烟
+- 第 3 阶段：30-seed 基准 + 扩展集，对比 VOR-v3-new/old/FDSEA/GDVTSF/MOEA-IB
+- 止损：3 轮后仍无法追到 FDSEA 2× 以内 → `results/sota_chase/limitation_report.md`
+
+## ★ 2026-09-30 VOR-v3 SSV 第三轮迭代（PPS 修复，止损）
 
 ## ★ 2026-09-29 期刊标准终审 + 排版修复（paper_en，最新交付）
 **交付文件**：`paper_en/VOR_paper_AppliedSoftComputing_final.pdf`（21 页，2.33MB，零 Overfull 零错误）。
